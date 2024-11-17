@@ -1,6 +1,6 @@
-# Hololive Subtitles Search DATA
+# HoloSubs Search DATA
 
-Archive of public metadata and subtitles for use with "Hololive Subtitles Search". 
+Archive of public metadata and subtitles for use with [HoloSubs Search](https://github.com/kunesj/holo-subs-search). 
 
 Members-only content has been excluded from git via automatic creation of `.gitignore`.  
 
