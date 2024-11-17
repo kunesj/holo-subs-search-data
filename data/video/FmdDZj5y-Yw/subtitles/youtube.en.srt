@@ -1,0 +1,11095 @@
+1
+00:00:02,290 --> 00:00:09,350
+
+[Music]
+
+2
+00:00:09,350 --> 00:00:09,360
+
+ 
+
+3
+00:00:09,360 --> 00:00:10,700
+
+do
+
+4
+00:00:10,700 --> 00:00:10,710
+do
+ 
+
+5
+00:00:10,710 --> 00:00:18,400
+do
+[Music]
+
+6
+00:00:18,400 --> 00:00:18,410
+
+ 
+
+7
+00:00:18,410 --> 00:00:44,440
+
+[Music]
+
+8
+00:00:44,440 --> 00:00:44,450
+
+ 
+
+9
+00:00:44,450 --> 00:00:50,150
+
+[Music]
+
+10
+00:00:50,150 --> 00:00:50,160
+
+ 
+
+11
+00:00:50,160 --> 00:00:52,860
+
+do
+
+12
+00:00:52,860 --> 00:00:52,870
+do
+ 
+
+13
+00:00:52,870 --> 00:01:01,280
+do
+[Music]
+
+14
+00:01:01,280 --> 00:01:01,290
+
+ 
+
+15
+00:01:01,290 --> 00:01:04,390
+
+[Music]
+
+16
+00:01:04,390 --> 00:01:04,400
+[Music]
+ 
+
+17
+00:01:04,400 --> 00:01:09,680
+
+do
+
+18
+00:01:09,680 --> 00:01:09,690
+
+ 
+
+19
+00:01:09,690 --> 00:01:17,990
+
+[Music]
+
+20
+00:01:17,990 --> 00:01:18,000
+
+ 
+
+21
+00:01:18,000 --> 00:01:26,540
+
+do
+
+22
+00:01:26,540 --> 00:01:26,550
+
+ 
+
+23
+00:01:26,550 --> 00:01:32,310
+
+[Music]
+
+24
+00:01:32,310 --> 00:01:32,320
+
+ 
+
+25
+00:01:32,320 --> 00:01:34,960
+
+do
+
+26
+00:01:34,960 --> 00:01:34,970
+do
+ 
+
+27
+00:01:34,970 --> 00:01:42,140
+do
+[Music]
+
+28
+00:01:42,140 --> 00:01:42,150
+
+ 
+
+29
+00:01:42,150 --> 00:01:46,789
+
+[Music]
+
+30
+00:01:46,789 --> 00:01:46,799
+
+ 
+
+31
+00:01:46,799 --> 00:01:51,080
+
+do
+
+32
+00:01:51,080 --> 00:01:51,090
+
+ 
+
+33
+00:01:51,090 --> 00:02:01,030
+
+[Music]
+
+34
+00:02:01,030 --> 00:02:01,040
+
+ 
+
+35
+00:02:01,040 --> 00:02:14,390
+
+do
+
+36
+00:02:14,390 --> 00:02:14,400
+
+ 
+
+37
+00:02:14,400 --> 00:02:17,120
+
+do
+
+38
+00:02:17,120 --> 00:02:17,130
+do
+ 
+
+39
+00:02:17,130 --> 00:02:25,550
+do
+[Music]
+
+40
+00:02:25,550 --> 00:02:25,560
+
+ 
+
+41
+00:02:25,560 --> 00:02:28,869
+
+[Music]
+
+42
+00:02:28,869 --> 00:02:28,879
+
+ 
+
+43
+00:02:28,879 --> 00:02:33,960
+
+do
+
+44
+00:02:33,960 --> 00:02:33,970
+
+ 
+
+45
+00:02:33,970 --> 00:02:41,140
+
+[Music]
+
+46
+00:02:41,140 --> 00:02:41,150
+
+ 
+
+47
+00:02:41,150 --> 00:02:57,750
+
+[Music]
+
+48
+00:02:57,750 --> 00:02:57,760
+
+ 
+
+49
+00:02:57,760 --> 00:02:59,230
+
+do
+
+50
+00:02:59,230 --> 00:02:59,240
+do
+ 
+
+51
+00:02:59,240 --> 00:03:07,640
+do
+[Music]
+
+52
+00:03:07,640 --> 00:03:07,650
+
+ 
+
+53
+00:03:07,650 --> 00:03:11,270
+
+[Music]
+
+54
+00:03:11,270 --> 00:03:11,280
+
+ 
+
+55
+00:03:11,280 --> 00:03:16,060
+
+do
+
+56
+00:03:16,060 --> 00:03:16,070
+
+ 
+
+57
+00:03:16,070 --> 00:03:24,480
+
+[Music]
+
+58
+00:03:24,480 --> 00:03:24,490
+
+ 
+
+59
+00:03:24,490 --> 00:03:49,800
+
+[Music]
+
+60
+00:03:49,800 --> 00:03:49,810
+
+ 
+
+61
+00:03:49,810 --> 00:03:52,309
+
+[Music]
+
+62
+00:03:52,309 --> 00:03:52,319
+[Music]
+ 
+
+63
+00:03:52,319 --> 00:03:58,230
+[Music]
+do
+
+64
+00:03:58,230 --> 00:03:58,240
+
+ 
+
+65
+00:03:58,240 --> 00:04:47,870
+
+[Music]
+
+66
+00:04:47,870 --> 00:04:47,880
+
+ 
+
+67
+00:04:47,880 --> 00:04:51,749
+
+[Music]
+
+68
+00:04:51,749 --> 00:04:51,759
+
+ 
+
+69
+00:04:51,759 --> 00:04:57,350
+
+ah there i am
+
+70
+00:04:57,350 --> 00:04:57,360
+
+ 
+
+71
+00:04:57,360 --> 00:04:59,350
+
+like like um
+
+72
+00:04:59,350 --> 00:04:59,360
+like like um
+ 
+
+73
+00:04:59,360 --> 00:05:00,710
+like like um
+reporting
+
+74
+00:05:00,710 --> 00:05:00,720
+reporting
+ 
+
+75
+00:05:00,720 --> 00:05:04,310
+reporting
+stance or reporting the
+
+76
+00:05:04,310 --> 00:05:04,320
+stance or reporting the
+ 
+
+77
+00:05:04,320 --> 00:05:06,710
+stance or reporting the
+the battle
+
+78
+00:05:06,710 --> 00:05:06,720
+the battle
+ 
+
+79
+00:05:06,720 --> 00:05:08,950
+the battle
+oh kiara's going coming in first oh my
+
+80
+00:05:08,950 --> 00:05:08,960
+oh kiara's going coming in first oh my
+ 
+
+81
+00:05:08,960 --> 00:05:11,189
+oh kiara's going coming in first oh my
+god i'm behind her right behind her now
+
+82
+00:05:11,189 --> 00:05:11,199
+god i'm behind her right behind her now
+ 
+
+83
+00:05:11,199 --> 00:05:13,590
+god i'm behind her right behind her now
+oh my god what she's gonna do
+
+84
+00:05:13,590 --> 00:05:13,600
+oh my god what she's gonna do
+ 
+
+85
+00:05:13,600 --> 00:05:15,189
+oh my god what she's gonna do
+she has a red shell oh no but then in
+
+86
+00:05:15,189 --> 00:05:15,199
+she has a red shell oh no but then in
+ 
+
+87
+00:05:15,199 --> 00:05:16,870
+she has a red shell oh no but then in
+the very very very back you know has a
+
+88
+00:05:16,870 --> 00:05:16,880
+the very very very back you know has a
+ 
+
+89
+00:05:16,880 --> 00:05:19,110
+the very very very back you know has a
+blue shell so that's even worse oh my
+
+90
+00:05:19,110 --> 00:05:19,120
+blue shell so that's even worse oh my
+ 
+
+91
+00:05:19,120 --> 00:05:20,629
+blue shell so that's even worse oh my
+god phono doesn't even want to be number
+
+92
+00:05:20,629 --> 00:05:20,639
+god phono doesn't even want to be number
+ 
+
+93
+00:05:20,639 --> 00:05:23,350
+god phono doesn't even want to be number
+one right now
+
+94
+00:05:23,350 --> 00:05:23,360
+
+ 
+
+95
+00:05:23,360 --> 00:05:25,510
+
+you'd be pretty good at it too kiara
+
+96
+00:05:25,510 --> 00:05:25,520
+you'd be pretty good at it too kiara
+ 
+
+97
+00:05:25,520 --> 00:05:27,830
+you'd be pretty good at it too kiara
+oh no no i can't only maybe in german in
+
+98
+00:05:27,830 --> 00:05:27,840
+oh no no i can't only maybe in german in
+ 
+
+99
+00:05:27,840 --> 00:05:30,390
+oh no no i can't only maybe in german in
+english i can't think of words so fast
+
+100
+00:05:30,390 --> 00:05:30,400
+english i can't think of words so fast
+ 
+
+101
+00:05:30,400 --> 00:05:34,230
+english i can't think of words so fast
+in in german maybe can we have a preview
+
+102
+00:05:34,230 --> 00:05:34,240
+in in german maybe can we have a preview
+ 
+
+103
+00:05:34,240 --> 00:05:36,629
+in in german maybe can we have a preview
+it's a little bit in german
+
+104
+00:05:36,629 --> 00:05:36,639
+it's a little bit in german
+ 
+
+105
+00:05:36,639 --> 00:05:39,830
+it's a little bit in german
+maybe maybe while we're driving then i i
+
+106
+00:05:39,830 --> 00:05:39,840
+maybe maybe while we're driving then i i
+ 
+
+107
+00:05:39,840 --> 00:05:42,469
+maybe maybe while we're driving then i i
+have some things to talk about then
+
+108
+00:05:42,469 --> 00:05:42,479
+have some things to talk about then
+ 
+
+109
+00:05:42,479 --> 00:05:45,749
+have some things to talk about then
+yeah i'll try okay
+
+110
+00:05:45,749 --> 00:05:45,759
+yeah i'll try okay
+ 
+
+111
+00:05:45,759 --> 00:05:47,990
+yeah i'll try okay
+okay so amma's audio was fine i think
+
+112
+00:05:47,990 --> 00:05:48,000
+okay so amma's audio was fine i think
+ 
+
+113
+00:05:48,000 --> 00:05:50,230
+okay so amma's audio was fine i think
+next uh fauna
+
+114
+00:05:50,230 --> 00:05:50,240
+next uh fauna
+ 
+
+115
+00:05:50,240 --> 00:05:53,120
+next uh fauna
+kovana
+
+116
+00:05:53,120 --> 00:05:53,130
+
+ 
+
+117
+00:05:53,130 --> 00:05:56,230
+
+[Music]
+
+118
+00:05:56,230 --> 00:05:56,240
+[Music]
+ 
+
+119
+00:05:56,240 --> 00:05:57,510
+[Music]
+oh hi
+
+120
+00:05:57,510 --> 00:05:57,520
+oh hi
+ 
+
+121
+00:05:57,520 --> 00:05:59,990
+oh hi
+i'm from hollow council
+
+122
+00:05:59,990 --> 00:06:00,000
+i'm from hollow council
+ 
+
+123
+00:06:00,000 --> 00:06:01,029
+i'm from hollow council
+and i'm
+
+124
+00:06:01,029 --> 00:06:01,039
+and i'm
+ 
+
+125
+00:06:01,039 --> 00:06:02,629
+and i'm
+happy to be here today i haven't played
+
+126
+00:06:02,629 --> 00:06:02,639
+happy to be here today i haven't played
+ 
+
+127
+00:06:02,639 --> 00:06:04,790
+happy to be here today i haven't played
+mario kart in a long time i think we're
+
+128
+00:06:04,790 --> 00:06:04,800
+mario kart in a long time i think we're
+ 
+
+129
+00:06:04,800 --> 00:06:06,550
+mario kart in a long time i think we're
+all a little rusty
+
+130
+00:06:06,550 --> 00:06:06,560
+all a little rusty
+ 
+
+131
+00:06:06,560 --> 00:06:09,270
+all a little rusty
+yeah
+
+132
+00:06:09,270 --> 00:06:09,280
+
+ 
+
+133
+00:06:09,280 --> 00:06:14,550
+
+it's been a long time
+
+134
+00:06:14,550 --> 00:06:14,560
+
+ 
+
+135
+00:06:14,560 --> 00:06:17,749
+
+i'm always resting a little bit
+
+136
+00:06:17,749 --> 00:06:17,759
+i'm always resting a little bit
+ 
+
+137
+00:06:17,759 --> 00:06:19,270
+i'm always resting a little bit
+oh wait wait so can you say one more
+
+138
+00:06:19,270 --> 00:06:19,280
+oh wait wait so can you say one more
+ 
+
+139
+00:06:19,280 --> 00:06:21,430
+oh wait wait so can you say one more
+word i didn't even check the audio just
+
+140
+00:06:21,430 --> 00:06:21,440
+word i didn't even check the audio just
+ 
+
+141
+00:06:21,440 --> 00:06:23,110
+word i didn't even check the audio just
+one more word
+
+142
+00:06:23,110 --> 00:06:23,120
+one more word
+ 
+
+143
+00:06:23,120 --> 00:06:25,029
+one more word
+okay
+
+144
+00:06:25,029 --> 00:06:25,039
+okay
+ 
+
+145
+00:06:25,039 --> 00:06:27,110
+okay
+okay i'll raise you a little bit
+
+146
+00:06:27,110 --> 00:06:27,120
+okay i'll raise you a little bit
+ 
+
+147
+00:06:27,120 --> 00:06:29,590
+okay i'll raise you a little bit
+uh shh that should do the trick
+
+148
+00:06:29,590 --> 00:06:29,600
+uh shh that should do the trick
+ 
+
+149
+00:06:29,600 --> 00:06:40,790
+uh shh that should do the trick
+uh next
+
+150
+00:06:40,790 --> 00:06:40,800
+
+ 
+
+151
+00:06:40,800 --> 00:06:43,430
+
+no no i'm on my stream on my stream oh
+
+152
+00:06:43,430 --> 00:06:43,440
+no no i'm on my stream on my stream oh
+ 
+
+153
+00:06:43,440 --> 00:06:45,110
+no no i'm on my stream on my stream oh
+no there you go hi
+
+154
+00:06:45,110 --> 00:06:45,120
+no there you go hi
+ 
+
+155
+00:06:45,120 --> 00:06:47,110
+no there you go hi
+wait were you muted the whole time no
+
+156
+00:06:47,110 --> 00:06:47,120
+wait were you muted the whole time no
+ 
+
+157
+00:06:47,120 --> 00:06:49,830
+wait were you muted the whole time no
+this is just um just to my end um not on
+
+158
+00:06:49,830 --> 00:06:49,840
+this is just um just to my end um not on
+ 
+
+159
+00:06:49,840 --> 00:06:51,510
+this is just um just to my end um not on
+discord
+
+160
+00:06:51,510 --> 00:06:51,520
+discord
+ 
+
+161
+00:06:51,520 --> 00:06:53,909
+discord
+it's cause it's cause i'm moving my my
+
+162
+00:06:53,909 --> 00:06:53,919
+it's cause it's cause i'm moving my my
+ 
+
+163
+00:06:53,919 --> 00:06:57,029
+it's cause it's cause i'm moving my my
+audio set up so a wonky i need to set
+
+164
+00:06:57,029 --> 00:06:57,039
+audio set up so a wonky i need to set
+ 
+
+165
+00:06:57,039 --> 00:07:00,790
+audio set up so a wonky i need to set
+everything back to normal
+
+166
+00:07:00,790 --> 00:07:00,800
+
+ 
+
+167
+00:07:00,800 --> 00:07:12,790
+
+hi
+
+168
+00:07:12,790 --> 00:07:12,800
+
+ 
+
+169
+00:07:12,800 --> 00:07:15,110
+
+i'm taking that as a promise i'm writing
+
+170
+00:07:15,110 --> 00:07:15,120
+i'm taking that as a promise i'm writing
+ 
+
+171
+00:07:15,120 --> 00:07:16,950
+i'm taking that as a promise i'm writing
+that down you heard it here enough's
+
+172
+00:07:16,950 --> 00:07:16,960
+that down you heard it here enough's
+ 
+
+173
+00:07:16,960 --> 00:07:20,629
+that down you heard it here enough's
+gonna be safe driving yeah that's right
+
+174
+00:07:20,629 --> 00:07:20,639
+gonna be safe driving yeah that's right
+ 
+
+175
+00:07:20,639 --> 00:07:23,029
+gonna be safe driving yeah that's right
+yeah yeah hopefully
+
+176
+00:07:23,029 --> 00:07:23,039
+yeah yeah hopefully
+ 
+
+177
+00:07:23,039 --> 00:07:26,550
+yeah yeah hopefully
+wow hopefully you'll be slow
+
+178
+00:07:26,550 --> 00:07:26,560
+wow hopefully you'll be slow
+ 
+
+179
+00:07:26,560 --> 00:07:27,589
+wow hopefully you'll be slow
+wow
+
+180
+00:07:27,589 --> 00:07:27,599
+wow
+ 
+
+181
+00:07:27,599 --> 00:07:31,189
+wow
+and last but not least kiwawa is here
+
+182
+00:07:31,189 --> 00:07:31,199
+and last but not least kiwawa is here
+ 
+
+183
+00:07:31,199 --> 00:07:33,909
+and last but not least kiwawa is here
+hello this is my voice i'm always [\h__\h]
+
+184
+00:07:33,909 --> 00:07:33,919
+hello this is my voice i'm always [\h__\h]
+ 
+
+185
+00:07:33,919 --> 00:07:36,469
+hello this is my voice i'm always [\h__\h]
+at mario kart hopefully
+
+186
+00:07:36,469 --> 00:07:36,479
+at mario kart hopefully
+ 
+
+187
+00:07:36,479 --> 00:07:37,510
+at mario kart hopefully
+the
+
+188
+00:07:37,510 --> 00:07:37,520
+the
+ 
+
+189
+00:07:37,520 --> 00:07:39,350
+the
+advantage of
+
+190
+00:07:39,350 --> 00:07:39,360
+advantage of
+ 
+
+191
+00:07:39,360 --> 00:07:43,110
+advantage of
+you know all the roads being new will be
+
+192
+00:07:43,110 --> 00:07:43,120
+you know all the roads being new will be
+ 
+
+193
+00:07:43,120 --> 00:07:46,150
+you know all the roads being new will be
+a disadvantage to all of us
+
+194
+00:07:46,150 --> 00:07:46,160
+a disadvantage to all of us
+ 
+
+195
+00:07:46,160 --> 00:07:48,790
+a disadvantage to all of us
+no i've never i've never played the uh
+
+196
+00:07:48,790 --> 00:07:48,800
+no i've never i've never played the uh
+ 
+
+197
+00:07:48,800 --> 00:07:50,150
+no i've never i've never played the uh
+new uh
+
+198
+00:07:50,150 --> 00:07:50,160
+new uh
+ 
+
+199
+00:07:50,160 --> 00:07:52,710
+new uh
+yeah did anyone try to put testo did
+
+200
+00:07:52,710 --> 00:07:52,720
+yeah did anyone try to put testo did
+ 
+
+201
+00:07:52,720 --> 00:07:55,110
+yeah did anyone try to put testo did
+someone test jean no
+
+202
+00:07:55,110 --> 00:07:55,120
+someone test jean no
+ 
+
+203
+00:07:55,120 --> 00:07:56,469
+someone test jean no
+i don't even know what they are to be
+
+204
+00:07:56,469 --> 00:07:56,479
+i don't even know what they are to be
+ 
+
+205
+00:07:56,479 --> 00:07:58,469
+i don't even know what they are to be
+honest
+
+206
+00:07:58,469 --> 00:07:58,479
+honest
+ 
+
+207
+00:07:58,479 --> 00:07:59,350
+honest
+good
+
+208
+00:07:59,350 --> 00:07:59,360
+good
+ 
+
+209
+00:07:59,360 --> 00:08:00,710
+good
+okay
+
+210
+00:08:00,710 --> 00:08:00,720
+okay
+ 
+
+211
+00:08:00,720 --> 00:08:03,189
+okay
+uh also sorry last time we wanted to
+
+212
+00:08:03,189 --> 00:08:03,199
+uh also sorry last time we wanted to
+ 
+
+213
+00:08:03,199 --> 00:08:04,390
+uh also sorry last time we wanted to
+stream this
+
+214
+00:08:04,390 --> 00:08:04,400
+stream this
+ 
+
+215
+00:08:04,400 --> 00:08:06,950
+stream this
+had a little incident but here we are
+
+216
+00:08:06,950 --> 00:08:06,960
+had a little incident but here we are
+ 
+
+217
+00:08:06,960 --> 00:08:08,150
+had a little incident but here we are
+thank you thank you girls for
+
+218
+00:08:08,150 --> 00:08:08,160
+thank you thank you girls for
+ 
+
+219
+00:08:08,160 --> 00:08:13,270
+thank you thank you girls for
+rescheduling
+
+220
+00:08:13,270 --> 00:08:13,280
+
+ 
+
+221
+00:08:13,280 --> 00:08:15,189
+
+you know phoenix sometimes catches on
+
+222
+00:08:15,189 --> 00:08:15,199
+you know phoenix sometimes catches on
+ 
+
+223
+00:08:15,199 --> 00:08:18,230
+you know phoenix sometimes catches on
+fire it's just everyday stuff yeah
+
+224
+00:08:18,230 --> 00:08:18,240
+fire it's just everyday stuff yeah
+ 
+
+225
+00:08:18,240 --> 00:08:21,990
+fire it's just everyday stuff yeah
+better watch out for the hair you know
+
+226
+00:08:21,990 --> 00:08:22,000
+better watch out for the hair you know
+ 
+
+227
+00:08:22,000 --> 00:08:23,350
+better watch out for the hair you know
+i'm giving you the world right now you
+
+228
+00:08:23,350 --> 00:08:23,360
+i'm giving you the world right now you
+ 
+
+229
+00:08:23,360 --> 00:08:25,589
+i'm giving you the world right now you
+guys are having so much distance from me
+
+230
+00:08:25,589 --> 00:08:25,599
+guys are having so much distance from me
+ 
+
+231
+00:08:25,599 --> 00:08:27,350
+guys are having so much distance from me
+because you're scared that i'll catch on
+
+232
+00:08:27,350 --> 00:08:27,360
+because you're scared that i'll catch on
+ 
+
+233
+00:08:27,360 --> 00:08:28,710
+because you're scared that i'll catch on
+fire again
+
+234
+00:08:28,710 --> 00:08:28,720
+fire again
+ 
+
+235
+00:08:28,720 --> 00:08:31,909
+fire again
+i don't like the heat
+
+236
+00:08:31,909 --> 00:08:31,919
+
+ 
+
+237
+00:08:31,919 --> 00:08:34,230
+
+sorry
+
+238
+00:08:34,230 --> 00:08:34,240
+sorry
+ 
+
+239
+00:08:34,240 --> 00:08:35,990
+sorry
+it reminds me of the time and the off
+
+240
+00:08:35,990 --> 00:08:36,000
+it reminds me of the time and the off
+ 
+
+241
+00:08:36,000 --> 00:08:38,630
+it reminds me of the time and the off
+during the off club here
+
+242
+00:08:38,630 --> 00:08:38,640
+during the off club here
+ 
+
+243
+00:08:38,640 --> 00:08:43,269
+during the off club here
+was that
+
+244
+00:08:43,269 --> 00:08:43,279
+
+ 
+
+245
+00:08:43,279 --> 00:08:45,910
+
+the ride and then it says no smoking i
+
+246
+00:08:45,910 --> 00:08:45,920
+the ride and then it says no smoking i
+ 
+
+247
+00:08:45,920 --> 00:08:48,949
+the ride and then it says no smoking i
+was like yeah yeah i told my people that
+
+248
+00:08:48,949 --> 00:08:48,959
+was like yeah yeah i told my people that
+ 
+
+249
+00:08:48,959 --> 00:08:52,870
+was like yeah yeah i told my people that
+i'll tell them that
+
+250
+00:08:52,870 --> 00:08:52,880
+
+ 
+
+251
+00:08:52,880 --> 00:08:55,030
+
+you
+
+252
+00:08:55,030 --> 00:08:55,040
+you
+ 
+
+253
+00:08:55,040 --> 00:08:57,030
+you
+no smoking and i'm like
+
+254
+00:08:57,030 --> 00:08:57,040
+no smoking and i'm like
+ 
+
+255
+00:08:57,040 --> 00:08:58,949
+no smoking and i'm like
+yeah what you know i don't smoke what do
+
+256
+00:08:58,949 --> 00:08:58,959
+yeah what you know i don't smoke what do
+ 
+
+257
+00:08:58,959 --> 00:09:00,550
+yeah what you know i don't smoke what do
+you mean
+
+258
+00:09:00,550 --> 00:09:00,560
+you mean
+ 
+
+259
+00:09:00,560 --> 00:09:04,230
+you mean
+and she just repeats herself no smoking
+
+260
+00:09:04,230 --> 00:09:04,240
+and she just repeats herself no smoking
+ 
+
+261
+00:09:04,240 --> 00:09:08,070
+and she just repeats herself no smoking
+i'm like okay it's so so what
+
+262
+00:09:08,070 --> 00:09:08,080
+i'm like okay it's so so what
+ 
+
+263
+00:09:08,080 --> 00:09:08,949
+i'm like okay it's so so what
+do you mean
+
+264
+00:09:08,949 --> 00:09:08,959
+do you mean
+ 
+
+265
+00:09:08,959 --> 00:09:10,630
+do you mean
+i couldn't i couldn't get myself to
+
+266
+00:09:10,630 --> 00:09:10,640
+i couldn't i couldn't get myself to
+ 
+
+267
+00:09:10,640 --> 00:09:13,450
+i couldn't i couldn't get myself to
+finish you know finish the looking hat
+
+268
+00:09:13,450 --> 00:09:13,460
+finish you know finish the looking hat
+ 
+
+269
+00:09:13,460 --> 00:09:17,590
+finish you know finish the looking hat
+[Laughter]
+
+270
+00:09:17,590 --> 00:09:17,600
+[Laughter]
+ 
+
+271
+00:09:17,600 --> 00:09:19,430
+[Laughter]
+you lick your finger and you put it on
+
+272
+00:09:19,430 --> 00:09:19,440
+you lick your finger and you put it on
+ 
+
+273
+00:09:19,440 --> 00:09:32,150
+you lick your finger and you put it on
+them and you go it's
+
+274
+00:09:32,150 --> 00:09:32,160
+
+ 
+
+275
+00:09:32,160 --> 00:09:34,949
+
+all right how do we how do we i think
+
+276
+00:09:34,949 --> 00:09:34,959
+all right how do we how do we i think
+ 
+
+277
+00:09:34,959 --> 00:09:37,030
+all right how do we how do we i think
+wait it's it's fine
+
+278
+00:09:37,030 --> 00:09:37,040
+wait it's it's fine
+ 
+
+279
+00:09:37,040 --> 00:09:39,670
+wait it's it's fine
+yeah oh yeah yeah ready to go
+
+280
+00:09:39,670 --> 00:09:39,680
+yeah oh yeah yeah ready to go
+ 
+
+281
+00:09:39,680 --> 00:09:41,590
+yeah oh yeah yeah ready to go
+yeah and so everyone who wants to join
+
+282
+00:09:41,590 --> 00:09:41,600
+yeah and so everyone who wants to join
+ 
+
+283
+00:09:41,600 --> 00:09:44,070
+yeah and so everyone who wants to join
+us so that so just so that you know like
+
+284
+00:09:44,070 --> 00:09:44,080
+us so that so just so that you know like
+ 
+
+285
+00:09:44,080 --> 00:09:45,430
+us so that so just so that you know like
+after an hour
+
+286
+00:09:45,430 --> 00:09:45,440
+after an hour
+ 
+
+287
+00:09:45,440 --> 00:09:50,310
+after an hour
+inaudible
+
+288
+00:09:50,310 --> 00:09:50,320
+
+ 
+
+289
+00:09:50,320 --> 00:09:52,710
+
+do we want computers
+
+290
+00:09:52,710 --> 00:09:52,720
+do we want computers
+ 
+
+291
+00:09:52,720 --> 00:09:53,829
+do we want computers
+yes
+
+292
+00:09:53,829 --> 00:09:53,839
+yes
+ 
+
+293
+00:09:53,839 --> 00:09:55,990
+yes
+hard computers yes
+
+294
+00:09:55,990 --> 00:09:56,000
+hard computers yes
+ 
+
+295
+00:09:56,000 --> 00:09:57,269
+hard computers yes
+yes you
+
+296
+00:09:57,269 --> 00:09:57,279
+yes you
+ 
+
+297
+00:09:57,279 --> 00:09:58,070
+yes you
+do
+
+298
+00:09:58,070 --> 00:09:58,080
+do
+ 
+
+299
+00:09:58,080 --> 00:10:01,829
+do
+okay
+
+300
+00:10:01,829 --> 00:10:01,839
+
+ 
+
+301
+00:10:01,839 --> 00:10:06,710
+
+150 is then with people 150 yeah okay
+
+302
+00:10:06,710 --> 00:10:06,720
+150 is then with people 150 yeah okay
+ 
+
+303
+00:10:06,720 --> 00:10:11,030
+150 is then with people 150 yeah okay
+how do i turn on tilt controls
+
+304
+00:10:11,030 --> 00:10:11,040
+
+ 
+
+305
+00:10:11,040 --> 00:10:12,630
+
+do you have the wheel
+
+306
+00:10:12,630 --> 00:10:12,640
+do you have the wheel
+ 
+
+307
+00:10:12,640 --> 00:10:15,590
+do you have the wheel
+did they have that for the switch
+
+308
+00:10:15,590 --> 00:10:15,600
+did they have that for the switch
+ 
+
+309
+00:10:15,600 --> 00:10:19,110
+did they have that for the switch
+a wheel i don't think so oh oh
+
+310
+00:10:19,110 --> 00:10:19,120
+a wheel i don't think so oh oh
+ 
+
+311
+00:10:19,120 --> 00:10:21,269
+a wheel i don't think so oh oh
+okay so is this the new stuff
+
+312
+00:10:21,269 --> 00:10:21,279
+okay so is this the new stuff
+ 
+
+313
+00:10:21,279 --> 00:10:24,069
+okay so is this the new stuff
+oh is there only four new tracks or no
+
+314
+00:10:24,069 --> 00:10:24,079
+oh is there only four new tracks or no
+ 
+
+315
+00:10:24,079 --> 00:10:26,550
+oh is there only four new tracks or no
+yeah like oh 12
+
+316
+00:10:26,550 --> 00:10:26,560
+yeah like oh 12
+ 
+
+317
+00:10:26,560 --> 00:10:28,230
+yeah like oh 12
+no yeah 12.
+
+318
+00:10:28,230 --> 00:10:28,240
+no yeah 12.
+ 
+
+319
+00:10:28,240 --> 00:10:30,829
+no yeah 12.
+12 times wait are they oh
+
+320
+00:10:30,829 --> 00:10:30,839
+12 times wait are they oh
+ 
+
+321
+00:10:30,839 --> 00:10:33,990
+12 times wait are they oh
+oh guess these are not okay okay
+
+322
+00:10:33,990 --> 00:10:34,000
+oh guess these are not okay okay
+ 
+
+323
+00:10:34,000 --> 00:10:37,110
+oh guess these are not okay okay
+oh wait wait was it paris oh paris for
+
+324
+00:10:37,110 --> 00:10:37,120
+oh wait wait was it paris oh paris for
+ 
+
+325
+00:10:37,120 --> 00:10:39,829
+oh wait wait was it paris oh paris for
+example already in the previous one
+
+326
+00:10:39,829 --> 00:10:39,839
+example already in the previous one
+ 
+
+327
+00:10:39,839 --> 00:10:58,000
+example already in the previous one
+it's like snow land or um
+
+328
+00:10:58,000 --> 00:10:58,010
+
+ 
+
+329
+00:10:58,010 --> 00:10:59,829
+
+[Music]
+
+330
+00:10:59,829 --> 00:10:59,839
+[Music]
+ 
+
+331
+00:10:59,839 --> 00:11:01,590
+[Music]
+have enough time to try them all i'm
+
+332
+00:11:01,590 --> 00:11:01,600
+have enough time to try them all i'm
+ 
+
+333
+00:11:01,600 --> 00:11:03,030
+have enough time to try them all i'm
+sure
+
+334
+00:11:03,030 --> 00:11:03,040
+sure
+ 
+
+335
+00:11:03,040 --> 00:11:05,350
+sure
+yeah
+
+336
+00:11:05,350 --> 00:11:05,360
+yeah
+ 
+
+337
+00:11:05,360 --> 00:11:07,509
+yeah
+sound like a oh is it just like sweets
+
+338
+00:11:07,509 --> 00:11:07,519
+sound like a oh is it just like sweets
+ 
+
+339
+00:11:07,519 --> 00:11:08,470
+sound like a oh is it just like sweets
+themed
+
+340
+00:11:08,470 --> 00:11:08,480
+themed
+ 
+
+341
+00:11:08,480 --> 00:11:16,830
+themed
+it's like a diner oh yeah oh so cute
+
+342
+00:11:16,830 --> 00:11:16,840
+
+ 
+
+343
+00:11:16,840 --> 00:11:21,030
+
+[Music]
+
+344
+00:11:21,030 --> 00:11:21,040
+[Music]
+ 
+
+345
+00:11:21,040 --> 00:11:28,190
+[Music]
+oh the track map itself looks simple um
+
+346
+00:11:28,190 --> 00:11:28,200
+
+ 
+
+347
+00:11:28,200 --> 00:11:40,870
+
+[Music]
+
+348
+00:11:40,870 --> 00:11:40,880
+
+ 
+
+349
+00:11:40,880 --> 00:11:46,650
+
+like
+
+350
+00:11:46,650 --> 00:11:46,660
+
+ 
+
+351
+00:11:46,660 --> 00:12:05,090
+
+[Music]
+
+352
+00:12:05,090 --> 00:12:05,100
+
+ 
+
+353
+00:12:05,100 --> 00:12:11,340
+
+[Music]
+
+354
+00:12:11,340 --> 00:12:11,350
+
+ 
+
+355
+00:12:11,350 --> 00:12:22,150
+
+[Music]
+
+356
+00:12:22,150 --> 00:12:22,160
+
+ 
+
+357
+00:12:22,160 --> 00:12:22,829
+
+this
+
+358
+00:12:22,829 --> 00:12:22,839
+this
+ 
+
+359
+00:12:22,839 --> 00:12:24,629
+this
+is
+
+360
+00:12:24,629 --> 00:12:24,639
+is
+ 
+
+361
+00:12:24,639 --> 00:12:26,870
+is
+yes computers
+
+362
+00:12:26,870 --> 00:12:26,880
+yes computers
+ 
+
+363
+00:12:26,880 --> 00:12:29,430
+yes computers
+oh it's a socket computer i keep getting
+
+364
+00:12:29,430 --> 00:12:29,440
+oh it's a socket computer i keep getting
+ 
+
+365
+00:12:29,440 --> 00:12:30,640
+oh it's a socket computer i keep getting
+hit with something
+
+366
+00:12:30,640 --> 00:12:30,650
+hit with something
+ 
+
+367
+00:12:30,650 --> 00:12:32,470
+hit with something
+[Music]
+
+368
+00:12:32,470 --> 00:12:32,480
+[Music]
+ 
+
+369
+00:12:32,480 --> 00:12:50,790
+[Music]
+that's my hand amendment
+
+370
+00:12:50,790 --> 00:12:50,800
+
+ 
+
+371
+00:12:50,800 --> 00:13:16,790
+
+i
+
+372
+00:13:16,790 --> 00:13:16,800
+
+ 
+
+373
+00:13:16,800 --> 00:13:18,730
+
+huh
+
+374
+00:13:18,730 --> 00:13:18,740
+huh
+ 
+
+375
+00:13:18,740 --> 00:13:30,550
+huh
+[Music]
+
+376
+00:13:30,550 --> 00:13:30,560
+
+ 
+
+377
+00:13:30,560 --> 00:13:37,110
+
+the worst time to get i don't know
+
+378
+00:13:37,110 --> 00:13:37,120
+
+ 
+
+379
+00:13:37,120 --> 00:13:40,710
+
+it's a bit misleading there isn't it
+
+380
+00:13:40,710 --> 00:13:40,720
+it's a bit misleading there isn't it
+ 
+
+381
+00:13:40,720 --> 00:13:45,810
+it's a bit misleading there isn't it
+oh there we
+
+382
+00:13:45,810 --> 00:13:45,820
+
+ 
+
+383
+00:13:45,820 --> 00:13:47,430
+
+[Music]
+
+384
+00:13:47,430 --> 00:13:47,440
+[Music]
+ 
+
+385
+00:13:47,440 --> 00:13:51,110
+[Music]
+it's okay go i beat the cpu
+
+386
+00:13:51,110 --> 00:13:51,120
+it's okay go i beat the cpu
+ 
+
+387
+00:13:51,120 --> 00:13:55,189
+it's okay go i beat the cpu
+oh no you already finished oh my gosh
+
+388
+00:13:55,189 --> 00:13:55,199
+oh no you already finished oh my gosh
+ 
+
+389
+00:13:55,199 --> 00:13:57,670
+oh no you already finished oh my gosh
+i can't start
+
+390
+00:13:57,670 --> 00:13:57,680
+i can't start
+ 
+
+391
+00:13:57,680 --> 00:14:17,910
+i can't start
+you know it's in first place
+
+392
+00:14:17,910 --> 00:14:17,920
+
+ 
+
+393
+00:14:17,920 --> 00:14:20,310
+
+oh i haven't played in a long time i
+
+394
+00:14:20,310 --> 00:14:20,320
+oh i haven't played in a long time i
+ 
+
+395
+00:14:20,320 --> 00:14:23,750
+oh i haven't played in a long time i
+have because she's going to be hard too
+
+396
+00:14:23,750 --> 00:14:23,760
+have because she's going to be hard too
+ 
+
+397
+00:14:23,760 --> 00:14:25,910
+have because she's going to be hard too
+look at julina winning
+
+398
+00:14:25,910 --> 00:14:25,920
+look at julina winning
+ 
+
+399
+00:14:25,920 --> 00:14:27,100
+look at julina winning
+the muscle memory
+
+400
+00:14:27,100 --> 00:14:27,110
+the muscle memory
+ 
+
+401
+00:14:27,110 --> 00:14:29,110
+the muscle memory
+[Music]
+
+402
+00:14:29,110 --> 00:14:29,120
+[Music]
+ 
+
+403
+00:14:29,120 --> 00:14:31,430
+[Music]
+yeah it's muscle memory
+
+404
+00:14:31,430 --> 00:14:31,440
+yeah it's muscle memory
+ 
+
+405
+00:14:31,440 --> 00:14:33,750
+yeah it's muscle memory
+practiced too much
+
+406
+00:14:33,750 --> 00:14:33,760
+practiced too much
+ 
+
+407
+00:14:33,760 --> 00:14:35,509
+practiced too much
+and like a long time ago it's just in
+
+408
+00:14:35,509 --> 00:14:35,519
+and like a long time ago it's just in
+ 
+
+409
+00:14:35,519 --> 00:14:38,949
+and like a long time ago it's just in
+your head it's a long time too
+
+410
+00:14:38,949 --> 00:14:38,959
+your head it's a long time too
+ 
+
+411
+00:14:38,959 --> 00:14:41,750
+your head it's a long time too
+me and fana really want the penguin
+
+412
+00:14:41,750 --> 00:14:41,760
+me and fana really want the penguin
+ 
+
+413
+00:14:41,760 --> 00:14:47,460
+me and fana really want the penguin
+yeah
+
+414
+00:14:47,460 --> 00:14:47,470
+
+ 
+
+415
+00:14:47,470 --> 00:14:56,949
+
+[Music]
+
+416
+00:14:56,949 --> 00:14:56,959
+
+ 
+
+417
+00:14:56,959 --> 00:15:00,230
+
+with my chicken mask you know it's so
+
+418
+00:15:00,230 --> 00:15:00,240
+with my chicken mask you know it's so
+ 
+
+419
+00:15:00,240 --> 00:15:01,750
+with my chicken mask you know it's so
+funny
+
+420
+00:15:01,750 --> 00:15:01,760
+funny
+ 
+
+421
+00:15:01,760 --> 00:15:03,670
+funny
+[Music]
+
+422
+00:15:03,670 --> 00:15:03,680
+[Music]
+ 
+
+423
+00:15:03,680 --> 00:15:06,790
+[Music]
+so dramatic then maybe i if you know the
+
+424
+00:15:06,790 --> 00:15:06,800
+so dramatic then maybe i if you know the
+ 
+
+425
+00:15:06,800 --> 00:15:09,350
+so dramatic then maybe i if you know the
+new meme video
+
+426
+00:15:09,350 --> 00:15:09,360
+new meme video
+ 
+
+427
+00:15:09,360 --> 00:15:14,100
+new meme video
+you know what i'm talking about
+
+428
+00:15:14,100 --> 00:15:14,110
+
+ 
+
+429
+00:15:14,110 --> 00:15:23,990
+
+[Music]
+
+430
+00:15:23,990 --> 00:15:24,000
+
+ 
+
+431
+00:15:24,000 --> 00:15:28,230
+
+when i was a child i watched that me too
+
+432
+00:15:28,230 --> 00:15:28,240
+when i was a child i watched that me too
+ 
+
+433
+00:15:28,240 --> 00:15:29,509
+when i was a child i watched that me too
+ow
+
+434
+00:15:29,509 --> 00:15:29,519
+ow
+ 
+
+435
+00:15:29,519 --> 00:15:31,749
+ow
+the penguins hurt
+
+436
+00:15:31,749 --> 00:15:31,759
+the penguins hurt
+ 
+
+437
+00:15:31,759 --> 00:15:35,910
+the penguins hurt
+ice ice places are my territory
+
+438
+00:15:35,910 --> 00:15:35,920
+ice ice places are my territory
+ 
+
+439
+00:15:35,920 --> 00:15:41,590
+ice ice places are my territory
+i feel right at home
+
+440
+00:15:41,590 --> 00:15:41,600
+
+ 
+
+441
+00:15:41,600 --> 00:15:49,269
+
+you shot that at me didn't you no
+
+442
+00:15:49,269 --> 00:15:49,279
+
+ 
+
+443
+00:15:49,279 --> 00:15:59,430
+
+that's why why buddy
+
+444
+00:15:59,430 --> 00:15:59,440
+
+ 
+
+445
+00:15:59,440 --> 00:16:01,910
+
+what have you girls been doing today so
+
+446
+00:16:01,910 --> 00:16:01,920
+what have you girls been doing today so
+ 
+
+447
+00:16:01,920 --> 00:16:03,110
+what have you girls been doing today so
+far
+
+448
+00:16:03,110 --> 00:16:03,120
+far
+ 
+
+449
+00:16:03,120 --> 00:16:05,509
+far
+we've been moving furniture
+
+450
+00:16:05,509 --> 00:16:05,519
+we've been moving furniture
+ 
+
+451
+00:16:05,519 --> 00:16:07,990
+we've been moving furniture
+yeah you're not busy
+
+452
+00:16:07,990 --> 00:16:08,000
+yeah you're not busy
+ 
+
+453
+00:16:08,000 --> 00:16:10,069
+yeah you're not busy
+how's it going inya did you break some
+
+454
+00:16:10,069 --> 00:16:10,079
+how's it going inya did you break some
+ 
+
+455
+00:16:10,079 --> 00:16:12,310
+how's it going inya did you break some
+fingers yet or get some splinters yet
+
+456
+00:16:12,310 --> 00:16:12,320
+fingers yet or get some splinters yet
+ 
+
+457
+00:16:12,320 --> 00:16:14,230
+fingers yet or get some splinters yet
+i've been like bumping my head
+
+458
+00:16:14,230 --> 00:16:14,240
+i've been like bumping my head
+ 
+
+459
+00:16:14,240 --> 00:16:16,230
+i've been like bumping my head
+everywhere oh no
+
+460
+00:16:16,230 --> 00:16:16,240
+everywhere oh no
+ 
+
+461
+00:16:16,240 --> 00:16:21,020
+everywhere oh no
+oh
+
+462
+00:16:21,020 --> 00:16:21,030
+
+ 
+
+463
+00:16:21,030 --> 00:16:22,290
+
+[Applause]
+
+464
+00:16:22,290 --> 00:16:22,300
+[Applause]
+ 
+
+465
+00:16:22,300 --> 00:16:28,190
+[Applause]
+[Music]
+
+466
+00:16:28,190 --> 00:16:28,200
+
+ 
+
+467
+00:16:28,200 --> 00:16:34,230
+
+[Music]
+
+468
+00:16:34,230 --> 00:16:34,240
+
+ 
+
+469
+00:16:34,240 --> 00:16:36,550
+
+is
+
+470
+00:16:36,550 --> 00:16:36,560
+is
+ 
+
+471
+00:16:36,560 --> 00:16:37,910
+is
+[Applause]
+
+472
+00:16:37,910 --> 00:16:37,920
+[Applause]
+ 
+
+473
+00:16:37,920 --> 00:16:40,629
+[Applause]
+so what were the others doing
+
+474
+00:16:40,629 --> 00:16:40,639
+so what were the others doing
+ 
+
+475
+00:16:40,639 --> 00:16:42,550
+so what were the others doing
+sleeping probably
+
+476
+00:16:42,550 --> 00:16:42,560
+sleeping probably
+ 
+
+477
+00:16:42,560 --> 00:16:46,150
+sleeping probably
+yeah sleeping just woke up
+
+478
+00:16:46,150 --> 00:16:46,160
+yeah sleeping just woke up
+ 
+
+479
+00:16:46,160 --> 00:16:48,250
+yeah sleeping just woke up
+a little bit ago
+
+480
+00:16:48,250 --> 00:16:48,260
+a little bit ago
+ 
+
+481
+00:16:48,260 --> 00:16:51,829
+a little bit ago
+[Music]
+
+482
+00:16:51,829 --> 00:16:51,839
+
+ 
+
+483
+00:16:51,839 --> 00:16:54,550
+
+i did a lot of stuff today too oh what's
+
+484
+00:16:54,550 --> 00:16:54,560
+i did a lot of stuff today too oh what's
+ 
+
+485
+00:16:54,560 --> 00:16:55,829
+i did a lot of stuff today too oh what's
+it do
+
+486
+00:16:55,829 --> 00:16:55,839
+it do
+ 
+
+487
+00:16:55,839 --> 00:16:58,949
+it do
+uh
+
+488
+00:16:58,949 --> 00:16:58,959
+
+ 
+
+489
+00:16:58,959 --> 00:17:01,509
+
+all kinds of things a secret top secret
+
+490
+00:17:01,509 --> 00:17:01,519
+all kinds of things a secret top secret
+ 
+
+491
+00:17:01,519 --> 00:17:02,629
+all kinds of things a secret top secret
+oh
+
+492
+00:17:02,629 --> 00:17:02,639
+oh
+ 
+
+493
+00:17:02,639 --> 00:17:04,309
+oh
+that just makes me want to know even
+
+494
+00:17:04,309 --> 00:17:04,319
+that just makes me want to know even
+ 
+
+495
+00:17:04,319 --> 00:17:06,980
+that just makes me want to know even
+more
+
+496
+00:17:06,980 --> 00:17:06,990
+
+ 
+
+497
+00:17:06,990 --> 00:17:08,510
+
+[Music]
+
+498
+00:17:08,510 --> 00:17:08,520
+[Music]
+ 
+
+499
+00:17:08,520 --> 00:17:15,750
+[Music]
+oh sure
+
+500
+00:17:15,750 --> 00:17:15,760
+
+ 
+
+501
+00:17:15,760 --> 00:17:25,210
+
+that's such a [\h__\h]
+
+502
+00:17:25,210 --> 00:17:25,220
+
+ 
+
+503
+00:17:25,220 --> 00:17:35,830
+
+[Laughter]
+
+504
+00:17:35,830 --> 00:17:35,840
+
+ 
+
+505
+00:17:35,840 --> 00:17:37,990
+
+oh i did not practice mario kart all day
+
+506
+00:17:37,990 --> 00:17:38,000
+oh i did not practice mario kart all day
+ 
+
+507
+00:17:38,000 --> 00:17:41,750
+oh i did not practice mario kart all day
+no no no no time for that
+
+508
+00:17:41,750 --> 00:17:41,760
+
+ 
+
+509
+00:17:41,760 --> 00:17:44,830
+
+yeah god damn it okay but better than
+
+510
+00:17:44,830 --> 00:17:44,840
+yeah god damn it okay but better than
+ 
+
+511
+00:17:44,840 --> 00:17:47,190
+yeah god damn it okay but better than
+before better than nine for whatever
+
+512
+00:17:47,190 --> 00:17:47,200
+before better than nine for whatever
+ 
+
+513
+00:17:47,200 --> 00:17:48,390
+before better than nine for whatever
+okay
+
+514
+00:17:48,390 --> 00:17:48,400
+okay
+ 
+
+515
+00:17:48,400 --> 00:17:50,310
+okay
+i wanna go visit
+
+516
+00:17:50,310 --> 00:17:50,320
+i wanna go visit
+ 
+
+517
+00:17:50,320 --> 00:17:52,150
+i wanna go visit
+bales
+
+518
+00:17:52,150 --> 00:17:52,160
+bales
+ 
+
+519
+00:17:52,160 --> 00:17:54,150
+bales
+let's go to australia
+
+520
+00:17:54,150 --> 00:17:54,160
+let's go to australia
+ 
+
+521
+00:17:54,160 --> 00:17:56,310
+let's go to australia
+i want new york
+
+522
+00:17:56,310 --> 00:17:56,320
+i want new york
+ 
+
+523
+00:17:56,320 --> 00:18:00,660
+i want new york
+have you guys ever been to australia no
+
+524
+00:18:00,660 --> 00:18:00,670
+have you guys ever been to australia no
+ 
+
+525
+00:18:00,670 --> 00:18:04,549
+have you guys ever been to australia no
+[Music]
+
+526
+00:18:04,549 --> 00:18:04,559
+
+ 
+
+527
+00:18:04,559 --> 00:18:06,390
+
+i guess it depends where you are it's a
+
+528
+00:18:06,390 --> 00:18:06,400
+i guess it depends where you are it's a
+ 
+
+529
+00:18:06,400 --> 00:18:08,549
+i guess it depends where you are it's a
+long flight it's far from like
+
+530
+00:18:08,549 --> 00:18:08,559
+long flight it's far from like
+ 
+
+531
+00:18:08,559 --> 00:18:09,750
+long flight it's far from like
+everywhere
+
+532
+00:18:09,750 --> 00:18:09,760
+everywhere
+ 
+
+533
+00:18:09,760 --> 00:18:12,150
+everywhere
+yeah
+
+534
+00:18:12,150 --> 00:18:12,160
+
+ 
+
+535
+00:18:12,160 --> 00:18:13,950
+
+so isolated
+
+536
+00:18:13,950 --> 00:18:13,960
+so isolated
+ 
+
+537
+00:18:13,960 --> 00:18:17,110
+so isolated
+[Music]
+
+538
+00:18:17,110 --> 00:18:17,120
+[Music]
+ 
+
+539
+00:18:17,120 --> 00:18:19,350
+[Music]
+it feels like you should be close to
+
+540
+00:18:19,350 --> 00:18:19,360
+it feels like you should be close to
+ 
+
+541
+00:18:19,360 --> 00:18:21,750
+it feels like you should be close to
+japan but it's probably yeah yeah yeah
+
+542
+00:18:21,750 --> 00:18:21,760
+japan but it's probably yeah yeah yeah
+ 
+
+543
+00:18:21,760 --> 00:18:23,669
+japan but it's probably yeah yeah yeah
+it's like the same time zone or like
+
+544
+00:18:23,669 --> 00:18:23,679
+it's like the same time zone or like
+ 
+
+545
+00:18:23,679 --> 00:18:26,150
+it's like the same time zone or like
+summer time so it's only like yeah
+
+546
+00:18:26,150 --> 00:18:26,160
+summer time so it's only like yeah
+ 
+
+547
+00:18:26,160 --> 00:18:28,870
+summer time so it's only like yeah
+an hour or so but
+
+548
+00:18:28,870 --> 00:18:28,880
+an hour or so but
+ 
+
+549
+00:18:28,880 --> 00:18:31,830
+an hour or so but
+i know that a lot of japanese students
+
+550
+00:18:31,830 --> 00:18:31,840
+i know that a lot of japanese students
+ 
+
+551
+00:18:31,840 --> 00:18:33,590
+i know that a lot of japanese students
+when they go on
+
+552
+00:18:33,590 --> 00:18:33,600
+when they go on
+ 
+
+553
+00:18:33,600 --> 00:18:35,750
+when they go on
+a like a school
+
+554
+00:18:35,750 --> 00:18:35,760
+a like a school
+ 
+
+555
+00:18:35,760 --> 00:18:37,590
+a like a school
+trip a special one
+
+556
+00:18:37,590 --> 00:18:37,600
+trip a special one
+ 
+
+557
+00:18:37,600 --> 00:18:41,340
+trip a special one
+a lot of these um schools choose
+
+558
+00:18:41,340 --> 00:18:41,350
+a lot of these um schools choose
+ 
+
+559
+00:18:41,350 --> 00:18:42,710
+a lot of these um schools choose
+[Music]
+
+560
+00:18:42,710 --> 00:18:42,720
+[Music]
+ 
+
+561
+00:18:42,720 --> 00:18:44,710
+[Music]
+australia because it's relatively close
+
+562
+00:18:44,710 --> 00:18:44,720
+australia because it's relatively close
+ 
+
+563
+00:18:44,720 --> 00:18:45,830
+australia because it's relatively close
+and uh
+
+564
+00:18:45,830 --> 00:18:45,840
+and uh
+ 
+
+565
+00:18:45,840 --> 00:18:48,310
+and uh
+yeah it's really popular
+
+566
+00:18:48,310 --> 00:18:48,320
+yeah it's really popular
+ 
+
+567
+00:18:48,320 --> 00:18:50,789
+yeah it's really popular
+for school trips oh
+
+568
+00:18:50,789 --> 00:18:50,799
+for school trips oh
+ 
+
+569
+00:18:50,799 --> 00:18:53,110
+for school trips oh
+oh it's pretty in here oh it's like in
+
+570
+00:18:53,110 --> 00:18:53,120
+oh it's pretty in here oh it's like in
+ 
+
+571
+00:18:53,120 --> 00:18:56,549
+oh it's pretty in here oh it's like in
+uh rise up that's how you rise up
+
+572
+00:18:56,549 --> 00:18:56,559
+uh rise up that's how you rise up
+ 
+
+573
+00:18:56,559 --> 00:19:04,150
+uh rise up that's how you rise up
+oh a fancy house
+
+574
+00:19:04,150 --> 00:19:04,160
+
+ 
+
+575
+00:19:04,160 --> 00:19:06,310
+
+oh no
+
+576
+00:19:06,310 --> 00:19:06,320
+oh no
+ 
+
+577
+00:19:06,320 --> 00:19:07,750
+oh no
+oh no
+
+578
+00:19:07,750 --> 00:19:07,760
+oh no
+ 
+
+579
+00:19:07,760 --> 00:19:14,310
+oh no
+recycle your bananas guys mistakes
+
+580
+00:19:14,310 --> 00:19:14,320
+
+ 
+
+581
+00:19:14,320 --> 00:19:17,510
+
+i'm assuming you guys fell on my banana
+
+582
+00:19:17,510 --> 00:19:17,520
+i'm assuming you guys fell on my banana
+ 
+
+583
+00:19:17,520 --> 00:19:21,270
+i'm assuming you guys fell on my banana
+i felt like a banana was it your banana
+
+584
+00:19:21,270 --> 00:19:21,280
+i felt like a banana was it your banana
+ 
+
+585
+00:19:21,280 --> 00:19:23,510
+i felt like a banana was it your banana
+perhaps
+
+586
+00:19:23,510 --> 00:19:23,520
+perhaps
+ 
+
+587
+00:19:23,520 --> 00:19:25,990
+perhaps
+did your character make the happy noise
+
+588
+00:19:25,990 --> 00:19:26,000
+did your character make the happy noise
+ 
+
+589
+00:19:26,000 --> 00:19:28,150
+did your character make the happy noise
+like someone fell on their banana is
+
+590
+00:19:28,150 --> 00:19:28,160
+like someone fell on their banana is
+ 
+
+591
+00:19:28,160 --> 00:19:32,850
+like someone fell on their banana is
+that worth it
+
+592
+00:19:32,850 --> 00:19:32,860
+
+ 
+
+593
+00:19:32,860 --> 00:19:37,040
+
+[Applause]
+
+594
+00:19:37,040 --> 00:19:37,050
+
+ 
+
+595
+00:19:37,050 --> 00:19:45,990
+
+[Music]
+
+596
+00:19:45,990 --> 00:19:46,000
+
+ 
+
+597
+00:19:46,000 --> 00:19:48,710
+
+what power would you have
+
+598
+00:19:48,710 --> 00:19:48,720
+what power would you have
+ 
+
+599
+00:19:48,720 --> 00:19:50,870
+what power would you have
+um
+
+600
+00:19:50,870 --> 00:19:50,880
+um
+ 
+
+601
+00:19:50,880 --> 00:19:57,669
+um
+teleport
+
+602
+00:19:57,669 --> 00:19:57,679
+
+ 
+
+603
+00:19:57,679 --> 00:19:59,990
+
+so it's easy to get to places to
+
+604
+00:19:59,990 --> 00:20:00,000
+so it's easy to get to places to
+ 
+
+605
+00:20:00,000 --> 00:20:01,590
+so it's easy to get to places to
+australia yeah
+
+606
+00:20:01,590 --> 00:20:01,600
+australia yeah
+ 
+
+607
+00:20:01,600 --> 00:20:04,390
+australia yeah
+yeah teleportation would be great
+
+608
+00:20:04,390 --> 00:20:04,400
+yeah teleportation would be great
+ 
+
+609
+00:20:04,400 --> 00:20:13,430
+yeah teleportation would be great
+funny
+
+610
+00:20:13,430 --> 00:20:13,440
+
+ 
+
+611
+00:20:13,440 --> 00:20:15,110
+
+but i don't think i really want to talk
+
+612
+00:20:15,110 --> 00:20:15,120
+but i don't think i really want to talk
+ 
+
+613
+00:20:15,120 --> 00:20:17,310
+but i don't think i really want to talk
+to my cats
+
+614
+00:20:17,310 --> 00:20:17,320
+to my cats
+ 
+
+615
+00:20:17,320 --> 00:20:20,390
+to my cats
+[Music]
+
+616
+00:20:20,390 --> 00:20:20,400
+[Music]
+ 
+
+617
+00:20:20,400 --> 00:20:22,310
+[Music]
+what if your cat says something weird
+
+618
+00:20:22,310 --> 00:20:22,320
+what if your cat says something weird
+ 
+
+619
+00:20:22,320 --> 00:20:23,909
+what if your cat says something weird
+for you though and it changes your
+
+620
+00:20:23,909 --> 00:20:23,919
+for you though and it changes your
+ 
+
+621
+00:20:23,919 --> 00:20:27,990
+for you though and it changes your
+relationship forever
+
+622
+00:20:27,990 --> 00:20:28,000
+
+ 
+
+623
+00:20:28,000 --> 00:20:30,230
+
+no they'll just tell me they love me
+
+624
+00:20:30,230 --> 00:20:30,240
+no they'll just tell me they love me
+ 
+
+625
+00:20:30,240 --> 00:20:32,230
+no they'll just tell me they love me
+no tell them i love them
+
+626
+00:20:32,230 --> 00:20:32,240
+no tell them i love them
+ 
+
+627
+00:20:32,240 --> 00:20:38,230
+no tell them i love them
+on your food
+
+628
+00:20:38,230 --> 00:20:38,240
+
+ 
+
+629
+00:20:38,240 --> 00:20:39,669
+
+what if you like
+
+630
+00:20:39,669 --> 00:20:39,679
+what if you like
+ 
+
+631
+00:20:39,679 --> 00:20:41,590
+what if you like
+bump into birds
+
+632
+00:20:41,590 --> 00:20:41,600
+bump into birds
+ 
+
+633
+00:20:41,600 --> 00:20:42,390
+bump into birds
+like
+
+634
+00:20:42,390 --> 00:20:42,400
+like
+ 
+
+635
+00:20:42,400 --> 00:20:44,470
+like
+elijah in minecraft yeah you wouldn't
+
+636
+00:20:44,470 --> 00:20:44,480
+elijah in minecraft yeah you wouldn't
+ 
+
+637
+00:20:44,480 --> 00:20:47,350
+elijah in minecraft yeah you wouldn't
+want to bump into me huh
+
+638
+00:20:47,350 --> 00:20:47,360
+want to bump into me huh
+ 
+
+639
+00:20:47,360 --> 00:20:49,909
+want to bump into me huh
+yeah kiara you're on fire you know fire
+
+640
+00:20:49,909 --> 00:20:49,919
+yeah kiara you're on fire you know fire
+ 
+
+641
+00:20:49,919 --> 00:20:51,830
+yeah kiara you're on fire you know fire
+in the sky you don't wanna you know what
+
+642
+00:20:51,830 --> 00:20:51,840
+in the sky you don't wanna you know what
+ 
+
+643
+00:20:51,840 --> 00:20:54,230
+in the sky you don't wanna you know what
+you're always normally causing traffic
+
+644
+00:20:54,230 --> 00:20:54,240
+you're always normally causing traffic
+ 
+
+645
+00:20:54,240 --> 00:20:55,430
+you're always normally causing traffic
+air traffic
+
+646
+00:20:55,430 --> 00:20:55,440
+air traffic
+ 
+
+647
+00:20:55,440 --> 00:20:58,230
+air traffic
+you know problems
+
+648
+00:20:58,230 --> 00:20:58,240
+you know problems
+ 
+
+649
+00:20:58,240 --> 00:21:00,549
+you know problems
+we'll take videos of you and post it as
+
+650
+00:21:00,549 --> 00:21:00,559
+we'll take videos of you and post it as
+ 
+
+651
+00:21:00,559 --> 00:21:03,430
+we'll take videos of you and post it as
+a ufo i feel like is that a bird is that
+
+652
+00:21:03,430 --> 00:21:03,440
+a ufo i feel like is that a bird is that
+ 
+
+653
+00:21:03,440 --> 00:21:04,660
+a ufo i feel like is that a bird is that
+a plant oh it is a bird
+
+654
+00:21:04,660 --> 00:21:04,670
+a plant oh it is a bird
+ 
+
+655
+00:21:04,670 --> 00:21:07,510
+a plant oh it is a bird
+[Laughter]
+
+656
+00:21:07,510 --> 00:21:07,520
+[Laughter]
+ 
+
+657
+00:21:07,520 --> 00:21:10,870
+[Laughter]
+i fly with my cape like uh
+
+658
+00:21:10,870 --> 00:21:10,880
+i fly with my cape like uh
+ 
+
+659
+00:21:10,880 --> 00:21:14,470
+i fly with my cape like uh
+like a superhero yeah um
+
+660
+00:21:14,470 --> 00:21:14,480
+like a superhero yeah um
+ 
+
+661
+00:21:14,480 --> 00:21:18,149
+like a superhero yeah um
+oh i don't know what i should have
+
+662
+00:21:18,149 --> 00:21:18,159
+
+ 
+
+663
+00:21:18,159 --> 00:21:19,350
+
+like i
+
+664
+00:21:19,350 --> 00:21:19,360
+like i
+ 
+
+665
+00:21:19,360 --> 00:21:21,190
+like i
+i like the idea of flying which i can
+
+666
+00:21:21,190 --> 00:21:21,200
+i like the idea of flying which i can
+ 
+
+667
+00:21:21,200 --> 00:21:25,270
+i like the idea of flying which i can
+totally already do but hmm
+
+668
+00:21:25,270 --> 00:21:25,280
+totally already do but hmm
+ 
+
+669
+00:21:25,280 --> 00:21:27,029
+totally already do but hmm
+since i'm already got that i gotta
+
+670
+00:21:27,029 --> 00:21:27,039
+since i'm already got that i gotta
+ 
+
+671
+00:21:27,039 --> 00:21:28,789
+since i'm already got that i gotta
+choose something else what's a cool
+
+672
+00:21:28,789 --> 00:21:28,799
+choose something else what's a cool
+ 
+
+673
+00:21:28,799 --> 00:21:30,710
+choose something else what's a cool
+skill to have um
+
+674
+00:21:30,710 --> 00:21:30,720
+skill to have um
+ 
+
+675
+00:21:30,720 --> 00:21:34,630
+skill to have um
+mind reading i think yeah
+
+676
+00:21:34,630 --> 00:21:34,640
+
+ 
+
+677
+00:21:34,640 --> 00:21:37,510
+
+just thinking that i was just making it
+
+678
+00:21:37,510 --> 00:21:37,520
+just thinking that i was just making it
+ 
+
+679
+00:21:37,520 --> 00:21:40,549
+just thinking that i was just making it
+a friendship ever again that's the thing
+
+680
+00:21:40,549 --> 00:21:40,559
+a friendship ever again that's the thing
+ 
+
+681
+00:21:40,559 --> 00:21:42,230
+a friendship ever again that's the thing
+like like
+
+682
+00:21:42,230 --> 00:21:42,240
+like like
+ 
+
+683
+00:21:42,240 --> 00:21:44,950
+like like
+what great park was great responsibility
+
+684
+00:21:44,950 --> 00:21:44,960
+what great park was great responsibility
+ 
+
+685
+00:21:44,960 --> 00:21:47,510
+what great park was great responsibility
+and being able to read minds
+
+686
+00:21:47,510 --> 00:21:47,520
+and being able to read minds
+ 
+
+687
+00:21:47,520 --> 00:21:49,000
+and being able to read minds
+will isolate you
+
+688
+00:21:49,000 --> 00:21:49,010
+will isolate you
+ 
+
+689
+00:21:49,010 --> 00:21:50,950
+will isolate you
+[Music]
+
+690
+00:21:50,950 --> 00:21:50,960
+[Music]
+ 
+
+691
+00:21:50,960 --> 00:21:52,630
+[Music]
+yeah i don't think i want but it's the
+
+692
+00:21:52,630 --> 00:21:52,640
+yeah i don't think i want but it's the
+ 
+
+693
+00:21:52,640 --> 00:21:54,230
+yeah i don't think i want but it's the
+difference between can you control or
+
+694
+00:21:54,230 --> 00:21:54,240
+difference between can you control or
+ 
+
+695
+00:21:54,240 --> 00:21:56,070
+difference between can you control or
+can you not control it though it's like
+
+696
+00:21:56,070 --> 00:21:56,080
+can you not control it though it's like
+ 
+
+697
+00:21:56,080 --> 00:21:59,110
+can you not control it though it's like
+controlling is also bad though
+
+698
+00:21:59,110 --> 00:21:59,120
+controlling is also bad though
+ 
+
+699
+00:21:59,120 --> 00:22:00,149
+controlling is also bad though
+it's like
+
+700
+00:22:00,149 --> 00:22:00,159
+it's like
+ 
+
+701
+00:22:00,159 --> 00:22:02,470
+it's like
+you you get tempted but
+
+702
+00:22:02,470 --> 00:22:02,480
+you you get tempted but
+ 
+
+703
+00:22:02,480 --> 00:22:04,549
+you you get tempted but
+you're always hearing how many like this
+
+704
+00:22:04,549 --> 00:22:04,559
+you're always hearing how many like this
+ 
+
+705
+00:22:04,559 --> 00:22:07,190
+you're always hearing how many like this
+like so many people talk i think like
+
+706
+00:22:07,190 --> 00:22:07,200
+like so many people talk i think like
+ 
+
+707
+00:22:07,200 --> 00:22:09,350
+like so many people talk i think like
+you'll go crazy
+
+708
+00:22:09,350 --> 00:22:09,360
+you'll go crazy
+ 
+
+709
+00:22:09,360 --> 00:22:10,789
+you'll go crazy
+um
+
+710
+00:22:10,789 --> 00:22:10,799
+um
+ 
+
+711
+00:22:10,799 --> 00:22:14,390
+um
+that's what usually happens
+
+712
+00:22:14,390 --> 00:22:14,400
+
+ 
+
+713
+00:22:14,400 --> 00:22:18,070
+
+yeah like edward cullen from twilight
+
+714
+00:22:18,070 --> 00:22:18,080
+yeah like edward cullen from twilight
+ 
+
+715
+00:22:18,080 --> 00:22:19,990
+yeah like edward cullen from twilight
+so you can see for me
+
+716
+00:22:19,990 --> 00:22:20,000
+so you can see for me
+ 
+
+717
+00:22:20,000 --> 00:22:22,630
+so you can see for me
+oh i never watched you guys watch try on
+
+718
+00:22:22,630 --> 00:22:22,640
+oh i never watched you guys watch try on
+ 
+
+719
+00:22:22,640 --> 00:22:24,830
+oh i never watched you guys watch try on
+it i never watched it
+
+720
+00:22:24,830 --> 00:22:24,840
+it i never watched it
+ 
+
+721
+00:22:24,840 --> 00:22:27,510
+it i never watched it
+yeah i read the books
+
+722
+00:22:27,510 --> 00:22:27,520
+yeah i read the books
+ 
+
+723
+00:22:27,520 --> 00:22:28,950
+yeah i read the books
+i don't think i watched all the movies
+
+724
+00:22:28,950 --> 00:22:28,960
+i don't think i watched all the movies
+ 
+
+725
+00:22:28,960 --> 00:22:31,430
+i don't think i watched all the movies
+because they were you girls
+
+726
+00:22:31,430 --> 00:22:31,440
+because they were you girls
+ 
+
+727
+00:22:31,440 --> 00:22:35,350
+because they were you girls
+because my sister and sister loves them
+
+728
+00:22:35,350 --> 00:22:35,360
+because my sister and sister loves them
+ 
+
+729
+00:22:35,360 --> 00:22:38,149
+because my sister and sister loves them
+were you like really fanatic about it no
+
+730
+00:22:38,149 --> 00:22:38,159
+were you like really fanatic about it no
+ 
+
+731
+00:22:38,159 --> 00:22:39,830
+were you like really fanatic about it no
+it's just a book that i like look at the
+
+732
+00:22:39,830 --> 00:22:39,840
+it's just a book that i like look at the
+ 
+
+733
+00:22:39,840 --> 00:22:46,900
+it's just a book that i like look at the
+books
+
+734
+00:22:46,900 --> 00:22:46,910
+
+ 
+
+735
+00:22:46,910 --> 00:22:50,950
+
+[Music]
+
+736
+00:22:50,950 --> 00:22:50,960
+
+ 
+
+737
+00:22:50,960 --> 00:22:53,270
+
+so this is what it looks like oh you
+
+738
+00:22:53,270 --> 00:22:53,280
+so this is what it looks like oh you
+ 
+
+739
+00:22:53,280 --> 00:22:55,029
+so this is what it looks like oh you
+heard my cat
+
+740
+00:22:55,029 --> 00:22:55,039
+heard my cat
+ 
+
+741
+00:22:55,039 --> 00:22:57,750
+heard my cat
+oh yeah chunky wonky is walking in
+
+742
+00:22:57,750 --> 00:22:57,760
+oh yeah chunky wonky is walking in
+ 
+
+743
+00:22:57,760 --> 00:23:01,770
+oh yeah chunky wonky is walking in
+so cute
+
+744
+00:23:01,770 --> 00:23:01,780
+
+ 
+
+745
+00:23:01,780 --> 00:23:14,810
+
+[Music]
+
+746
+00:23:14,810 --> 00:23:14,820
+
+ 
+
+747
+00:23:14,820 --> 00:23:26,350
+
+[Applause]
+
+748
+00:23:26,350 --> 00:23:26,360
+
+ 
+
+749
+00:23:26,360 --> 00:23:30,549
+
+[Music]
+
+750
+00:23:30,549 --> 00:23:30,559
+
+ 
+
+751
+00:23:30,559 --> 00:23:32,789
+
+you're gonna pay for that
+
+752
+00:23:32,789 --> 00:23:32,799
+you're gonna pay for that
+ 
+
+753
+00:23:32,799 --> 00:23:35,110
+you're gonna pay for that
+i'm sorry i'm not
+
+754
+00:23:35,110 --> 00:23:35,120
+i'm sorry i'm not
+ 
+
+755
+00:23:35,120 --> 00:23:37,909
+i'm sorry i'm not
+not trying to start anything here
+
+756
+00:23:37,909 --> 00:23:37,919
+not trying to start anything here
+ 
+
+757
+00:23:37,919 --> 00:23:40,390
+not trying to start anything here
+really really
+
+758
+00:23:40,390 --> 00:23:40,400
+really really
+ 
+
+759
+00:23:40,400 --> 00:23:43,990
+really really
+i feel like you are no no no challenging
+
+760
+00:23:43,990 --> 00:23:44,000
+i feel like you are no no no challenging
+ 
+
+761
+00:23:44,000 --> 00:23:47,269
+i feel like you are no no no challenging
+challenging
+
+762
+00:23:47,269 --> 00:23:47,279
+
+ 
+
+763
+00:23:47,279 --> 00:23:52,670
+
+nice drift oh
+
+764
+00:23:52,670 --> 00:23:52,680
+
+ 
+
+765
+00:23:52,680 --> 00:23:57,909
+
+[Applause]
+
+766
+00:23:57,909 --> 00:23:57,919
+
+ 
+
+767
+00:23:57,919 --> 00:24:02,300
+
+oh
+
+768
+00:24:02,300 --> 00:24:02,310
+
+ 
+
+769
+00:24:02,310 --> 00:24:17,190
+
+[Laughter]
+
+770
+00:24:17,190 --> 00:24:17,200
+
+ 
+
+771
+00:24:17,200 --> 00:24:19,669
+
+i swear
+
+772
+00:24:19,669 --> 00:24:19,679
+i swear
+ 
+
+773
+00:24:19,679 --> 00:24:21,190
+i swear
+i was going to be first that was the
+
+774
+00:24:21,190 --> 00:24:21,200
+i was going to be first that was the
+ 
+
+775
+00:24:21,200 --> 00:24:27,430
+i was going to be first that was the
+third place
+
+776
+00:24:27,430 --> 00:24:27,440
+
+ 
+
+777
+00:24:27,440 --> 00:24:29,590
+
+i got i got bumped so hard the game
+
+778
+00:24:29,590 --> 00:24:29,600
+i got i got bumped so hard the game
+ 
+
+779
+00:24:29,600 --> 00:24:33,909
+i got i got bumped so hard the game
+crashed you know
+
+780
+00:24:33,909 --> 00:24:33,919
+
+ 
+
+781
+00:24:33,919 --> 00:24:36,149
+
+i think i think everyone here
+
+782
+00:24:36,149 --> 00:24:36,159
+i think i think everyone here
+ 
+
+783
+00:24:36,159 --> 00:24:39,750
+i think i think everyone here
+we have to redo this match
+
+784
+00:24:39,750 --> 00:24:39,760
+
+ 
+
+785
+00:24:39,760 --> 00:24:41,909
+
+so someone you want to make the room
+
+786
+00:24:41,909 --> 00:24:41,919
+so someone you want to make the room
+ 
+
+787
+00:24:41,919 --> 00:24:44,230
+so someone you want to make the room
+maybe it was fun are you here
+
+788
+00:24:44,230 --> 00:24:44,240
+maybe it was fun are you here
+ 
+
+789
+00:24:44,240 --> 00:24:47,110
+maybe it was fun are you here
+yeah i think uh sometimes
+
+790
+00:24:47,110 --> 00:24:47,120
+yeah i think uh sometimes
+ 
+
+791
+00:24:47,120 --> 00:24:50,310
+yeah i think uh sometimes
+oh yeah i think
+
+792
+00:24:50,310 --> 00:24:50,320
+
+ 
+
+793
+00:24:50,320 --> 00:24:52,630
+
+i think folks
+
+794
+00:24:52,630 --> 00:24:52,640
+i think folks
+ 
+
+795
+00:24:52,640 --> 00:24:54,070
+i think folks
+died
+
+796
+00:24:54,070 --> 00:24:54,080
+died
+ 
+
+797
+00:24:54,080 --> 00:24:55,750
+died
+and maybe i'mma make the room because
+
+798
+00:24:55,750 --> 00:24:55,760
+and maybe i'mma make the room because
+ 
+
+799
+00:24:55,760 --> 00:24:57,269
+and maybe i'mma make the room because
+she doesn't stream anyway so she doesn't
+
+800
+00:24:57,269 --> 00:24:57,279
+she doesn't stream anyway so she doesn't
+ 
+
+801
+00:24:57,279 --> 00:24:59,510
+she doesn't stream anyway so she doesn't
+have to worry about the what's being
+
+802
+00:24:59,510 --> 00:24:59,520
+have to worry about the what's being
+ 
+
+803
+00:24:59,520 --> 00:25:01,350
+have to worry about the what's being
+shown
+
+804
+00:25:01,350 --> 00:25:01,360
+shown
+ 
+
+805
+00:25:01,360 --> 00:25:02,630
+shown
+how do i do it
+
+806
+00:25:02,630 --> 00:25:02,640
+how do i do it
+ 
+
+807
+00:25:02,640 --> 00:25:05,029
+how do i do it
+wait okay i'll just create yeah yeah
+
+808
+00:25:05,029 --> 00:25:05,039
+wait okay i'll just create yeah yeah
+ 
+
+809
+00:25:05,039 --> 00:25:05,669
+wait okay i'll just create yeah yeah
+yeah
+
+810
+00:25:05,669 --> 00:25:05,679
+yeah
+ 
+
+811
+00:25:05,679 --> 00:25:08,230
+yeah
+yeah
+
+812
+00:25:08,230 --> 00:25:08,240
+
+ 
+
+813
+00:25:08,240 --> 00:25:10,230
+
+we need to revive her
+
+814
+00:25:10,230 --> 00:25:10,240
+we need to revive her
+ 
+
+815
+00:25:10,240 --> 00:25:11,750
+we need to revive her
+fauna
+
+816
+00:25:11,750 --> 00:25:11,760
+fauna
+ 
+
+817
+00:25:11,760 --> 00:25:15,269
+fauna
+oh okay you guys can join me
+
+818
+00:25:15,269 --> 00:25:15,279
+oh okay you guys can join me
+ 
+
+819
+00:25:15,279 --> 00:25:16,260
+oh okay you guys can join me
+noise
+
+820
+00:25:16,260 --> 00:25:16,270
+noise
+ 
+
+821
+00:25:16,270 --> 00:25:20,470
+noise
+[Music]
+
+822
+00:25:20,470 --> 00:25:20,480
+
+ 
+
+823
+00:25:20,480 --> 00:25:22,789
+
+did you guys you guys watched charmed do
+
+824
+00:25:22,789 --> 00:25:22,799
+did you guys you guys watched charmed do
+ 
+
+825
+00:25:22,799 --> 00:25:25,190
+did you guys you guys watched charmed do
+you know the show oh yeah i feel like
+
+826
+00:25:25,190 --> 00:25:25,200
+you know the show oh yeah i feel like
+ 
+
+827
+00:25:25,200 --> 00:25:28,310
+you know the show oh yeah i feel like
+i've heard about it it was my favorite
+
+828
+00:25:28,310 --> 00:25:28,320
+i've heard about it it was my favorite
+ 
+
+829
+00:25:28,320 --> 00:25:31,190
+i've heard about it it was my favorite
+show when i was younger it was a it's a
+
+830
+00:25:31,190 --> 00:25:31,200
+show when i was younger it was a it's a
+ 
+
+831
+00:25:31,200 --> 00:25:33,750
+show when i was younger it was a it's a
+show about free witches and
+
+832
+00:25:33,750 --> 00:25:33,760
+show about free witches and
+ 
+
+833
+00:25:33,760 --> 00:25:37,190
+show about free witches and
+and one of them had the power of healing
+
+834
+00:25:37,190 --> 00:25:37,200
+and one of them had the power of healing
+ 
+
+835
+00:25:37,200 --> 00:25:40,149
+and one of them had the power of healing
+one of them had the power of like moving
+
+836
+00:25:40,149 --> 00:25:40,159
+one of them had the power of like moving
+ 
+
+837
+00:25:40,159 --> 00:25:43,669
+one of them had the power of like moving
+things one of them had the power of i
+
+838
+00:25:43,669 --> 00:25:43,679
+things one of them had the power of i
+ 
+
+839
+00:25:43,679 --> 00:25:45,510
+things one of them had the power of i
+think teleportation yeah
+
+840
+00:25:45,510 --> 00:25:45,520
+think teleportation yeah
+ 
+
+841
+00:25:45,520 --> 00:25:48,549
+think teleportation yeah
+yeah i wanted to be like them
+
+842
+00:25:48,549 --> 00:25:48,559
+yeah i wanted to be like them
+ 
+
+843
+00:25:48,559 --> 00:25:51,029
+yeah i wanted to be like them
+i wanted to be like though i want to be
+
+844
+00:25:51,029 --> 00:25:51,039
+i wanted to be like though i want to be
+ 
+
+845
+00:25:51,039 --> 00:25:54,310
+i wanted to be like though i want to be
+a witch
+
+846
+00:25:54,310 --> 00:25:54,320
+
+ 
+
+847
+00:25:54,320 --> 00:25:55,830
+
+but parts of the show were kind of
+
+848
+00:25:55,830 --> 00:25:55,840
+but parts of the show were kind of
+ 
+
+849
+00:25:55,840 --> 00:25:58,149
+but parts of the show were kind of
+cringy because there was like this one
+
+850
+00:25:58,149 --> 00:25:58,159
+cringy because there was like this one
+ 
+
+851
+00:25:58,159 --> 00:26:00,310
+cringy because there was like this one
+one of the girls had like this hot
+
+852
+00:26:00,310 --> 00:26:00,320
+one of the girls had like this hot
+ 
+
+853
+00:26:00,320 --> 00:26:01,990
+one of the girls had like this hot
+affair throughout the whole series with
+
+854
+00:26:01,990 --> 00:26:02,000
+affair throughout the whole series with
+ 
+
+855
+00:26:02,000 --> 00:26:06,230
+affair throughout the whole series with
+this hot demon and all that oh spicy
+
+856
+00:26:06,230 --> 00:26:06,240
+this hot demon and all that oh spicy
+ 
+
+857
+00:26:06,240 --> 00:26:10,870
+this hot demon and all that oh spicy
+nice very spicy indeed yeah
+
+858
+00:26:10,870 --> 00:26:10,880
+
+ 
+
+859
+00:26:10,880 --> 00:26:12,789
+
+you should watch it
+
+860
+00:26:12,789 --> 00:26:12,799
+you should watch it
+ 
+
+861
+00:26:12,799 --> 00:26:15,190
+you should watch it
+they all have names starting with p i
+
+862
+00:26:15,190 --> 00:26:15,200
+they all have names starting with p i
+ 
+
+863
+00:26:15,200 --> 00:26:17,750
+they all have names starting with p i
+feel like i've seen like these books or
+
+864
+00:26:17,750 --> 00:26:17,760
+feel like i've seen like these books or
+ 
+
+865
+00:26:17,760 --> 00:26:20,149
+feel like i've seen like these books or
+something like
+
+866
+00:26:20,149 --> 00:26:20,159
+something like
+ 
+
+867
+00:26:20,159 --> 00:26:22,230
+something like
+always in the library there's like five
+
+868
+00:26:22,230 --> 00:26:22,240
+always in the library there's like five
+ 
+
+869
+00:26:22,240 --> 00:26:24,870
+always in the library there's like five
+billion of them yeah they have books too
+
+870
+00:26:24,870 --> 00:26:24,880
+billion of them yeah they have books too
+ 
+
+871
+00:26:24,880 --> 00:26:25,100
+billion of them yeah they have books too
+yeah
+
+872
+00:26:25,100 --> 00:26:25,110
+yeah
+ 
+
+873
+00:26:25,110 --> 00:26:27,110
+yeah
+[Laughter]
+
+874
+00:26:27,110 --> 00:26:27,120
+[Laughter]
+ 
+
+875
+00:26:27,120 --> 00:26:28,549
+[Laughter]
+so they're just recently and all their
+
+876
+00:26:28,549 --> 00:26:28,559
+so they're just recently and all their
+ 
+
+877
+00:26:28,559 --> 00:26:29,909
+so they're just recently and all their
+names start with p
+
+878
+00:26:29,909 --> 00:26:29,919
+names start with p
+ 
+
+879
+00:26:29,919 --> 00:26:31,990
+names start with p
+yeah yeah phoebe
+
+880
+00:26:31,990 --> 00:26:32,000
+yeah yeah phoebe
+ 
+
+881
+00:26:32,000 --> 00:26:38,149
+yeah yeah phoebe
+h prue p p p p p yeah
+
+882
+00:26:38,149 --> 00:26:38,159
+
+ 
+
+883
+00:26:38,159 --> 00:26:39,590
+
+there used to be only three but then at
+
+884
+00:26:39,590 --> 00:26:39,600
+there used to be only three but then at
+ 
+
+885
+00:26:39,600 --> 00:26:42,070
+there used to be only three but then at
+some point one got like replaced in the
+
+886
+00:26:42,070 --> 00:26:42,080
+some point one got like replaced in the
+ 
+
+887
+00:26:42,080 --> 00:26:42,950
+some point one got like replaced in the
+show
+
+888
+00:26:42,950 --> 00:26:42,960
+show
+ 
+
+889
+00:26:42,960 --> 00:26:45,220
+show
+so that's why there's four names
+
+890
+00:26:45,220 --> 00:26:45,230
+so that's why there's four names
+ 
+
+891
+00:26:45,230 --> 00:26:46,789
+so that's why there's four names
+[Music]
+
+892
+00:26:46,789 --> 00:26:46,799
+[Music]
+ 
+
+893
+00:26:46,799 --> 00:26:49,669
+[Music]
+yeah
+
+894
+00:26:49,669 --> 00:26:49,679
+
+ 
+
+895
+00:26:49,679 --> 00:26:53,430
+
+yeah hot hot witches um
+
+896
+00:26:53,430 --> 00:26:53,440
+yeah hot hot witches um
+ 
+
+897
+00:26:53,440 --> 00:26:54,710
+yeah hot hot witches um
+is that what you're watching right now
+
+898
+00:26:54,710 --> 00:26:54,720
+is that what you're watching right now
+ 
+
+899
+00:26:54,720 --> 00:26:55,510
+is that what you're watching right now
+here
+
+900
+00:26:55,510 --> 00:26:55,520
+here
+ 
+
+901
+00:26:55,520 --> 00:26:57,830
+here
+no but i bought like the box set the
+
+902
+00:26:57,830 --> 00:26:57,840
+no but i bought like the box set the
+ 
+
+903
+00:26:57,840 --> 00:26:58,950
+no but i bought like the box set the
+whole box
+
+904
+00:26:58,950 --> 00:26:58,960
+whole box
+ 
+
+905
+00:26:58,960 --> 00:27:01,750
+whole box
+you have the dvd collection
+
+906
+00:27:01,750 --> 00:27:01,760
+you have the dvd collection
+ 
+
+907
+00:27:01,760 --> 00:27:04,070
+you have the dvd collection
+yeah because they there is no way of
+
+908
+00:27:04,070 --> 00:27:04,080
+yeah because they there is no way of
+ 
+
+909
+00:27:04,080 --> 00:27:07,029
+yeah because they there is no way of
+watching it's anywhere online like no no
+
+910
+00:27:07,029 --> 00:27:07,039
+watching it's anywhere online like no no
+ 
+
+911
+00:27:07,039 --> 00:27:09,269
+watching it's anywhere online like no no
+service shows it knows every streams yet
+
+912
+00:27:09,269 --> 00:27:09,279
+service shows it knows every streams yet
+ 
+
+913
+00:27:09,279 --> 00:27:13,350
+service shows it knows every streams yet
+so i was forced to buy dvds in this day
+
+914
+00:27:13,350 --> 00:27:13,360
+so i was forced to buy dvds in this day
+ 
+
+915
+00:27:13,360 --> 00:27:15,110
+so i was forced to buy dvds in this day
+and age
+
+916
+00:27:15,110 --> 00:27:15,120
+and age
+ 
+
+917
+00:27:15,120 --> 00:27:17,830
+and age
+i don't even have like
+
+918
+00:27:17,830 --> 00:27:17,840
+i don't even have like
+ 
+
+919
+00:27:17,840 --> 00:27:28,549
+i don't even have like
+a place
+
+920
+00:27:28,549 --> 00:27:28,559
+
+ 
+
+921
+00:27:28,559 --> 00:27:31,350
+
+dvds and blu-rays but i like rarely
+
+922
+00:27:31,350 --> 00:27:31,360
+dvds and blu-rays but i like rarely
+ 
+
+923
+00:27:31,360 --> 00:27:33,590
+dvds and blu-rays but i like rarely
+watch them these days
+
+924
+00:27:33,590 --> 00:27:33,600
+watch them these days
+ 
+
+925
+00:27:33,600 --> 00:27:35,190
+watch them these days
+it's like i like the fact that i have it
+
+926
+00:27:35,190 --> 00:27:35,200
+it's like i like the fact that i have it
+ 
+
+927
+00:27:35,200 --> 00:27:37,269
+it's like i like the fact that i have it
+and i own it i can watch it any time i
+
+928
+00:27:37,269 --> 00:27:37,279
+and i own it i can watch it any time i
+ 
+
+929
+00:27:37,279 --> 00:27:40,149
+and i own it i can watch it any time i
+want what did i do
+
+930
+00:27:40,149 --> 00:27:40,159
+want what did i do
+ 
+
+931
+00:27:40,159 --> 00:27:45,269
+want what did i do
+yeah yeah
+
+932
+00:27:45,269 --> 00:27:45,279
+
+ 
+
+933
+00:27:45,279 --> 00:27:47,750
+
+the only blueberry that i have is from
+
+934
+00:27:47,750 --> 00:27:47,760
+the only blueberry that i have is from
+ 
+
+935
+00:27:47,760 --> 00:27:48,630
+the only blueberry that i have is from
+uh
+
+936
+00:27:48,630 --> 00:27:48,640
+uh
+ 
+
+937
+00:27:48,640 --> 00:27:51,990
+uh
+i think the second or the third holofes
+
+938
+00:27:51,990 --> 00:27:52,000
+i think the second or the third holofes
+ 
+
+939
+00:27:52,000 --> 00:27:55,669
+i think the second or the third holofes
+because they sent it to me oh yeah
+
+940
+00:27:55,669 --> 00:27:55,679
+because they sent it to me oh yeah
+ 
+
+941
+00:27:55,679 --> 00:27:58,630
+because they sent it to me oh yeah
+we all have a team
+
+942
+00:27:58,630 --> 00:27:58,640
+we all have a team
+ 
+
+943
+00:27:58,640 --> 00:28:03,430
+we all have a team
+i have a song
+
+944
+00:28:03,430 --> 00:28:03,440
+
+ 
+
+945
+00:28:03,440 --> 00:28:05,029
+
+i don't know where anything is anymore
+
+946
+00:28:05,029 --> 00:28:05,039
+i don't know where anything is anymore
+ 
+
+947
+00:28:05,039 --> 00:28:07,430
+i don't know where anything is anymore
+because everything is in boxes
+
+948
+00:28:07,430 --> 00:28:07,440
+because everything is in boxes
+ 
+
+949
+00:28:07,440 --> 00:28:08,230
+because everything is in boxes
+and
+
+950
+00:28:08,230 --> 00:28:08,240
+and
+ 
+
+951
+00:28:08,240 --> 00:28:10,230
+and
+ah
+
+952
+00:28:10,230 --> 00:28:10,240
+ah
+ 
+
+953
+00:28:10,240 --> 00:28:12,310
+ah
+i know how it is it's gonna take you a
+
+954
+00:28:12,310 --> 00:28:12,320
+i know how it is it's gonna take you a
+ 
+
+955
+00:28:12,320 --> 00:28:14,789
+i know how it is it's gonna take you a
+while huh to get all of that it's okay
+
+956
+00:28:14,789 --> 00:28:14,799
+while huh to get all of that it's okay
+ 
+
+957
+00:28:14,799 --> 00:28:17,110
+while huh to get all of that it's okay
+because i got i got my family they'll
+
+958
+00:28:17,110 --> 00:28:17,120
+because i got i got my family they'll
+ 
+
+959
+00:28:17,120 --> 00:28:18,789
+because i got i got my family they'll
+make sure that i don't
+
+960
+00:28:18,789 --> 00:28:18,799
+make sure that i don't
+ 
+
+961
+00:28:18,799 --> 00:28:19,669
+make sure that i don't
+i don't
+
+962
+00:28:19,669 --> 00:28:19,679
+i don't
+ 
+
+963
+00:28:19,679 --> 00:28:24,630
+i don't
+laze off and leave it
+
+964
+00:28:24,630 --> 00:28:24,640
+
+ 
+
+965
+00:28:24,640 --> 00:28:27,990
+
+yeah last time i moved it took me like
+
+966
+00:28:27,990 --> 00:28:28,000
+yeah last time i moved it took me like
+ 
+
+967
+00:28:28,000 --> 00:28:31,350
+yeah last time i moved it took me like
+six months or so until i finally
+
+968
+00:28:31,350 --> 00:28:31,360
+six months or so until i finally
+ 
+
+969
+00:28:31,360 --> 00:28:32,230
+six months or so until i finally
+had
+
+970
+00:28:32,230 --> 00:28:32,240
+had
+ 
+
+971
+00:28:32,240 --> 00:28:34,230
+had
+most of my boxes empty but then there
+
+972
+00:28:34,230 --> 00:28:34,240
+most of my boxes empty but then there
+ 
+
+973
+00:28:34,240 --> 00:28:36,870
+most of my boxes empty but then there
+were still like two or three boxes
+
+974
+00:28:36,870 --> 00:28:36,880
+were still like two or three boxes
+ 
+
+975
+00:28:36,880 --> 00:28:39,669
+were still like two or three boxes
+who which were still like boxes after a
+
+976
+00:28:39,669 --> 00:28:39,679
+who which were still like boxes after a
+ 
+
+977
+00:28:39,679 --> 00:28:40,549
+who which were still like boxes after a
+year
+
+978
+00:28:40,549 --> 00:28:40,559
+year
+ 
+
+979
+00:28:40,559 --> 00:28:42,149
+year
+yeah
+
+980
+00:28:42,149 --> 00:28:42,159
+yeah
+ 
+
+981
+00:28:42,159 --> 00:28:44,070
+yeah
+which shows you how much you actually
+
+982
+00:28:44,070 --> 00:28:44,080
+which shows you how much you actually
+ 
+
+983
+00:28:44,080 --> 00:28:46,310
+which shows you how much you actually
+need what's in there so honestly throw
+
+984
+00:28:46,310 --> 00:28:46,320
+need what's in there so honestly throw
+ 
+
+985
+00:28:46,320 --> 00:28:48,630
+need what's in there so honestly throw
+it away i don't need
+
+986
+00:28:48,630 --> 00:28:48,640
+it away i don't need
+ 
+
+987
+00:28:48,640 --> 00:28:51,190
+it away i don't need
+much like i literally just have like a
+
+988
+00:28:51,190 --> 00:28:51,200
+much like i literally just have like a
+ 
+
+989
+00:28:51,200 --> 00:28:52,950
+much like i literally just have like a
+temporary mattress
+
+990
+00:28:52,950 --> 00:28:52,960
+temporary mattress
+ 
+
+991
+00:28:52,960 --> 00:28:55,909
+temporary mattress
+behind me that's what i've been sleeping
+
+992
+00:28:55,909 --> 00:28:55,919
+behind me that's what i've been sleeping
+ 
+
+993
+00:28:55,919 --> 00:28:57,830
+behind me that's what i've been sleeping
+but other than that i've been i've been
+
+994
+00:28:57,830 --> 00:28:57,840
+but other than that i've been i've been
+ 
+
+995
+00:28:57,840 --> 00:29:00,950
+but other than that i've been i've been
+looking pretty fun and honestly like as
+
+996
+00:29:00,950 --> 00:29:00,960
+looking pretty fun and honestly like as
+ 
+
+997
+00:29:00,960 --> 00:29:02,389
+looking pretty fun and honestly like as
+long as you know you can cook for
+
+998
+00:29:02,389 --> 00:29:02,399
+long as you know you can cook for
+ 
+
+999
+00:29:02,399 --> 00:29:05,190
+long as you know you can cook for
+yourself and there's a roof and
+
+1000
+00:29:05,190 --> 00:29:05,200
+yourself and there's a roof and
+ 
+
+1001
+00:29:05,200 --> 00:29:07,590
+yourself and there's a roof and
+how dead is phone actually she says we
+
+1002
+00:29:07,590 --> 00:29:07,600
+how dead is phone actually she says we
+ 
+
+1003
+00:29:07,600 --> 00:29:09,430
+how dead is phone actually she says we
+can go on she doesn't know when it's
+
+1004
+00:29:09,430 --> 00:29:09,440
+can go on she doesn't know when it's
+ 
+
+1005
+00:29:09,440 --> 00:29:11,750
+can go on she doesn't know when it's
+coming back yeah i feel like maybe her
+
+1006
+00:29:11,750 --> 00:29:11,760
+coming back yeah i feel like maybe her
+ 
+
+1007
+00:29:11,760 --> 00:29:14,389
+coming back yeah i feel like maybe her
+internet just died died i don't know but
+
+1008
+00:29:14,389 --> 00:29:14,399
+internet just died died i don't know but
+ 
+
+1009
+00:29:14,399 --> 00:29:16,710
+internet just died died i don't know but
+for how long should we just do a race
+
+1010
+00:29:16,710 --> 00:29:16,720
+for how long should we just do a race
+ 
+
+1011
+00:29:16,720 --> 00:29:18,789
+for how long should we just do a race
+right now like one running race let's do
+
+1012
+00:29:18,789 --> 00:29:18,799
+right now like one running race let's do
+ 
+
+1013
+00:29:18,799 --> 00:29:21,350
+right now like one running race let's do
+another race to see maybe maybe
+
+1014
+00:29:21,350 --> 00:29:21,360
+another race to see maybe maybe
+ 
+
+1015
+00:29:21,360 --> 00:29:24,630
+another race to see maybe maybe
+maybe she'll come back maybe
+
+1016
+00:29:24,630 --> 00:29:24,640
+maybe she'll come back maybe
+ 
+
+1017
+00:29:24,640 --> 00:29:27,830
+maybe she'll come back maybe
+we'll summon her with our driving skills
+
+1018
+00:29:27,830 --> 00:29:27,840
+we'll summon her with our driving skills
+ 
+
+1019
+00:29:27,840 --> 00:29:31,350
+we'll summon her with our driving skills
+i guess yeah it's very strong as usual
+
+1020
+00:29:31,350 --> 00:29:31,360
+i guess yeah it's very strong as usual
+ 
+
+1021
+00:29:31,360 --> 00:29:32,789
+i guess yeah it's very strong as usual
+yeah
+
+1022
+00:29:32,789 --> 00:29:32,799
+yeah
+ 
+
+1023
+00:29:32,799 --> 00:29:35,669
+yeah
+it's it's down to myth members only now
+
+1024
+00:29:35,669 --> 00:29:35,679
+it's it's down to myth members only now
+ 
+
+1025
+00:29:35,679 --> 00:29:37,669
+it's it's down to myth members only now
+okay
+
+1026
+00:29:37,669 --> 00:29:37,679
+okay
+ 
+
+1027
+00:29:37,679 --> 00:29:42,630
+okay
+all right let's go with you okay
+
+1028
+00:29:42,630 --> 00:29:42,640
+
+ 
+
+1029
+00:29:42,640 --> 00:29:47,269
+
+wait wait what is this uh 150 cc i think
+
+1030
+00:29:47,269 --> 00:29:47,279
+wait wait what is this uh 150 cc i think
+ 
+
+1031
+00:29:47,279 --> 00:29:48,230
+wait wait what is this uh 150 cc i think
+ah
+
+1032
+00:29:48,230 --> 00:29:48,240
+ah
+ 
+
+1033
+00:29:48,240 --> 00:29:50,710
+ah
+you can't see position okay uh yeah then
+
+1034
+00:29:50,710 --> 00:29:50,720
+you can't see position okay uh yeah then
+ 
+
+1035
+00:29:50,720 --> 00:29:54,389
+you can't see position okay uh yeah then
+150. why are there teams i see teams
+
+1036
+00:29:54,389 --> 00:29:54,399
+150. why are there teams i see teams
+ 
+
+1037
+00:29:54,399 --> 00:29:55,510
+150. why are there teams i see teams
+no teams
+
+1038
+00:29:55,510 --> 00:29:55,520
+no teams
+ 
+
+1039
+00:29:55,520 --> 00:29:59,029
+no teams
+i didn't put themes on i disabled it
+
+1040
+00:29:59,029 --> 00:29:59,039
+i didn't put themes on i disabled it
+ 
+
+1041
+00:29:59,039 --> 00:30:03,909
+i didn't put themes on i disabled it
+oh
+
+1042
+00:30:03,909 --> 00:30:03,919
+
+ 
+
+1043
+00:30:03,919 --> 00:30:05,190
+
+there you go
+
+1044
+00:30:05,190 --> 00:30:05,200
+there you go
+ 
+
+1045
+00:30:05,200 --> 00:30:13,590
+there you go
+oh
+
+1046
+00:30:13,590 --> 00:30:13,600
+
+ 
+
+1047
+00:30:13,600 --> 00:30:14,950
+
+i thought
+
+1048
+00:30:14,950 --> 00:30:14,960
+i thought
+ 
+
+1049
+00:30:14,960 --> 00:30:17,830
+i thought
+you had one job amit
+
+1050
+00:30:17,830 --> 00:30:17,840
+you had one job amit
+ 
+
+1051
+00:30:17,840 --> 00:30:19,909
+you had one job amit
+can we still change it i wonder i didn't
+
+1052
+00:30:19,909 --> 00:30:19,919
+can we still change it i wonder i didn't
+ 
+
+1053
+00:30:19,919 --> 00:30:21,269
+can we still change it i wonder i didn't
+think so
+
+1054
+00:30:21,269 --> 00:30:21,279
+think so
+ 
+
+1055
+00:30:21,279 --> 00:30:23,830
+think so
+okay this should be fine
+
+1056
+00:30:23,830 --> 00:30:23,840
+okay this should be fine
+ 
+
+1057
+00:30:23,840 --> 00:30:26,070
+okay this should be fine
+it's just the friendly race
+
+1058
+00:30:26,070 --> 00:30:26,080
+it's just the friendly race
+ 
+
+1059
+00:30:26,080 --> 00:30:28,549
+it's just the friendly race
+i wanna go in new york
+
+1060
+00:30:28,549 --> 00:30:28,559
+i wanna go in new york
+ 
+
+1061
+00:30:28,559 --> 00:30:30,549
+i wanna go in new york
+these two existed before no they mixed
+
+1062
+00:30:30,549 --> 00:30:30,559
+these two existed before no they mixed
+ 
+
+1063
+00:30:30,559 --> 00:30:32,470
+these two existed before no they mixed
+in
+
+1064
+00:30:32,470 --> 00:30:32,480
+in
+ 
+
+1065
+00:30:32,480 --> 00:30:33,990
+in
+they mixed
+
+1066
+00:30:33,990 --> 00:30:34,000
+they mixed
+ 
+
+1067
+00:30:34,000 --> 00:30:36,630
+they mixed
+the into the cups did they mix old rices
+
+1068
+00:30:36,630 --> 00:30:36,640
+the into the cups did they mix old rices
+ 
+
+1069
+00:30:36,640 --> 00:30:38,070
+the into the cups did they mix old rices
+and new maces
+
+1070
+00:30:38,070 --> 00:30:38,080
+and new maces
+ 
+
+1071
+00:30:38,080 --> 00:30:41,110
+and new maces
+races okay so i see waluigi pinball with
+
+1072
+00:30:41,110 --> 00:30:41,120
+races okay so i see waluigi pinball with
+ 
+
+1073
+00:30:41,120 --> 00:30:42,549
+races okay so i see waluigi pinball with
+calamari dessert wasn't done there
+
+1074
+00:30:42,549 --> 00:30:42,559
+calamari dessert wasn't done there
+ 
+
+1075
+00:30:42,559 --> 00:30:44,549
+calamari dessert wasn't done there
+before no
+
+1076
+00:30:44,549 --> 00:30:44,559
+before no
+ 
+
+1077
+00:30:44,559 --> 00:30:46,470
+before no
+i've never seen them before
+
+1078
+00:30:46,470 --> 00:30:46,480
+i've never seen them before
+ 
+
+1079
+00:30:46,480 --> 00:31:02,549
+i've never seen them before
+oh really yeah
+
+1080
+00:31:02,549 --> 00:31:02,559
+
+ 
+
+1081
+00:31:02,559 --> 00:31:05,350
+
+i turned it off no no no you're on the
+
+1082
+00:31:05,350 --> 00:31:05,360
+i turned it off no no no you're on the
+ 
+
+1083
+00:31:05,360 --> 00:31:07,269
+i turned it off no no no you're on the
+other team here and i think this is
+
+1084
+00:31:07,269 --> 00:31:07,279
+other team here and i think this is
+ 
+
+1085
+00:31:07,279 --> 00:31:09,350
+other team here and i think this is
+still like kind of like a normal
+
+1086
+00:31:09,350 --> 00:31:09,360
+still like kind of like a normal
+ 
+
+1087
+00:31:09,360 --> 00:31:12,870
+still like kind of like a normal
+race yeah or do we steal flags
+
+1088
+00:31:12,870 --> 00:31:12,880
+race yeah or do we steal flags
+ 
+
+1089
+00:31:12,880 --> 00:31:14,710
+race yeah or do we steal flags
+you'll see the flags behind everyone's
+
+1090
+00:31:14,710 --> 00:31:14,720
+you'll see the flags behind everyone's
+ 
+
+1091
+00:31:14,720 --> 00:31:15,669
+you'll see the flags behind everyone's
+cars
+
+1092
+00:31:15,669 --> 00:31:15,679
+cars
+ 
+
+1093
+00:31:15,679 --> 00:31:17,830
+cars
+but we don't steal them right not still
+
+1094
+00:31:17,830 --> 00:31:17,840
+but we don't steal them right not still
+ 
+
+1095
+00:31:17,840 --> 00:31:19,990
+but we don't steal them right not still
+captain flag or something
+
+1096
+00:31:19,990 --> 00:31:20,000
+captain flag or something
+ 
+
+1097
+00:31:20,000 --> 00:31:21,750
+captain flag or something
+it's like it looks like it adds up the
+
+1098
+00:31:21,750 --> 00:31:21,760
+it's like it looks like it adds up the
+ 
+
+1099
+00:31:21,760 --> 00:31:24,149
+it's like it looks like it adds up the
+points of each team
+
+1100
+00:31:24,149 --> 00:31:24,159
+points of each team
+ 
+
+1101
+00:31:24,159 --> 00:31:27,669
+points of each team
+i love by luigi pinball
+
+1102
+00:31:27,669 --> 00:31:27,679
+i love by luigi pinball
+ 
+
+1103
+00:31:27,679 --> 00:31:29,669
+i love by luigi pinball
+i think i played that number four on
+
+1104
+00:31:29,669 --> 00:31:29,679
+i think i played that number four on
+ 
+
+1105
+00:31:29,679 --> 00:31:30,830
+i think i played that number four on
+gamecube
+
+1106
+00:31:30,830 --> 00:31:30,840
+gamecube
+ 
+
+1107
+00:31:30,840 --> 00:31:37,029
+gamecube
+maybe warranties
+
+1108
+00:31:37,029 --> 00:31:37,039
+
+ 
+
+1109
+00:31:37,039 --> 00:31:39,590
+
+oh was that you
+
+1110
+00:31:39,590 --> 00:31:39,600
+oh was that you
+ 
+
+1111
+00:31:39,600 --> 00:31:41,669
+oh was that you
+i was stuck i was just trying not to hit
+
+1112
+00:31:41,669 --> 00:31:41,679
+i was stuck i was just trying not to hit
+ 
+
+1113
+00:31:41,679 --> 00:31:45,190
+i was stuck i was just trying not to hit
+the wall
+
+1114
+00:31:45,190 --> 00:31:45,200
+
+ 
+
+1115
+00:31:45,200 --> 00:31:46,630
+
+it wasn't the end
+
+1116
+00:31:46,630 --> 00:31:46,640
+it wasn't the end
+ 
+
+1117
+00:31:46,640 --> 00:31:48,630
+it wasn't the end
+yeah but today in the day i'll bring it
+
+1118
+00:31:48,630 --> 00:31:48,640
+yeah but today in the day i'll bring it
+ 
+
+1119
+00:31:48,640 --> 00:31:50,230
+yeah but today in the day i'll bring it
+to gamecube too because then i play the
+
+1120
+00:31:50,230 --> 00:31:50,240
+to gamecube too because then i play the
+ 
+
+1121
+00:31:50,240 --> 00:31:51,350
+to gamecube too because then i play the
+home game
+
+1122
+00:31:51,350 --> 00:31:51,360
+home game
+ 
+
+1123
+00:31:51,360 --> 00:31:54,389
+home game
+the pinball so cool ping-ponging
+
+1124
+00:31:54,389 --> 00:31:54,399
+the pinball so cool ping-ponging
+ 
+
+1125
+00:31:54,399 --> 00:31:59,190
+the pinball so cool ping-ponging
+literally out run the ball or like
+
+1126
+00:31:59,190 --> 00:31:59,200
+literally out run the ball or like
+ 
+
+1127
+00:31:59,200 --> 00:32:02,070
+literally out run the ball or like
+oh no
+
+1128
+00:32:02,070 --> 00:32:02,080
+oh no
+ 
+
+1129
+00:32:02,080 --> 00:32:04,240
+oh no
+chaotic oh my god oh no
+
+1130
+00:32:04,240 --> 00:32:04,250
+chaotic oh my god oh no
+ 
+
+1131
+00:32:04,250 --> 00:32:05,350
+chaotic oh my god oh no
+[Music]
+
+1132
+00:32:05,350 --> 00:32:05,360
+[Music]
+ 
+
+1133
+00:32:05,360 --> 00:32:07,350
+[Music]
+oh come on do you guys remember
+
+1134
+00:32:07,350 --> 00:32:07,360
+oh come on do you guys remember
+ 
+
+1135
+00:32:07,360 --> 00:32:10,070
+oh come on do you guys remember
+the pinball game from windows
+
+1136
+00:32:10,070 --> 00:32:10,080
+the pinball game from windows
+ 
+
+1137
+00:32:10,080 --> 00:32:18,230
+the pinball game from windows
+oh yeah yeah really pinball used
+
+1138
+00:32:18,230 --> 00:32:18,240
+
+ 
+
+1139
+00:32:18,240 --> 00:32:20,549
+
+windows versions nowadays because there
+
+1140
+00:32:20,549 --> 00:32:20,559
+windows versions nowadays because there
+ 
+
+1141
+00:32:20,559 --> 00:32:23,509
+windows versions nowadays because there
+were some troubles with the permissions
+
+1142
+00:32:23,509 --> 00:32:23,519
+were some troubles with the permissions
+ 
+
+1143
+00:32:23,519 --> 00:32:26,230
+were some troubles with the permissions
+of the developer i think
+
+1144
+00:32:26,230 --> 00:32:26,240
+of the developer i think
+ 
+
+1145
+00:32:26,240 --> 00:32:27,669
+of the developer i think
+yes
+
+1146
+00:32:27,669 --> 00:32:27,679
+yes
+ 
+
+1147
+00:32:27,679 --> 00:32:31,110
+yes
+or something like a real world problem
+
+1148
+00:32:31,110 --> 00:32:31,120
+or something like a real world problem
+ 
+
+1149
+00:32:31,120 --> 00:32:34,870
+or something like a real world problem
+i watched this whole like 20 30 40
+
+1150
+00:32:34,870 --> 00:32:34,880
+i watched this whole like 20 30 40
+ 
+
+1151
+00:32:34,880 --> 00:32:37,590
+i watched this whole like 20 30 40
+minute documentation about why
+
+1152
+00:32:37,590 --> 00:32:37,600
+minute documentation about why
+ 
+
+1153
+00:32:37,600 --> 00:32:39,590
+minute documentation about why
+the windows pinball game is not in
+
+1154
+00:32:39,590 --> 00:32:39,600
+the windows pinball game is not in
+ 
+
+1155
+00:32:39,600 --> 00:32:41,269
+the windows pinball game is not in
+windows anymore
+
+1156
+00:32:41,269 --> 00:32:41,279
+windows anymore
+ 
+
+1157
+00:32:41,279 --> 00:32:44,470
+windows anymore
+oh so sad did you guys ever see that
+
+1158
+00:32:44,470 --> 00:32:44,480
+oh so sad did you guys ever see that
+ 
+
+1159
+00:32:44,480 --> 00:32:47,750
+oh so sad did you guys ever see that
+bowling
+
+1160
+00:32:47,750 --> 00:32:47,760
+
+ 
+
+1161
+00:32:47,760 --> 00:32:50,230
+
+oh yeah i think it was like a
+
+1162
+00:32:50,230 --> 00:32:50,240
+oh yeah i think it was like a
+ 
+
+1163
+00:32:50,240 --> 00:32:52,149
+oh yeah i think it was like a
+it was on an early laptops it's like
+
+1164
+00:32:52,149 --> 00:32:52,159
+it was on an early laptops it's like
+ 
+
+1165
+00:32:52,159 --> 00:32:54,870
+it was on an early laptops it's like
+this really shitty 3d elf bowling game
+
+1166
+00:32:54,870 --> 00:32:54,880
+this really shitty 3d elf bowling game
+ 
+
+1167
+00:32:54,880 --> 00:32:57,350
+this really shitty 3d elf bowling game
+oh like elf elf
+
+1168
+00:32:57,350 --> 00:32:57,360
+oh like elf elf
+ 
+
+1169
+00:32:57,360 --> 00:32:59,830
+oh like elf elf
+yeah like like little santa elves
+
+1170
+00:32:59,830 --> 00:32:59,840
+yeah like like little santa elves
+ 
+
+1171
+00:32:59,840 --> 00:33:00,910
+yeah like like little santa elves
+oh
+
+1172
+00:33:00,910 --> 00:33:00,920
+oh
+ 
+
+1173
+00:33:00,920 --> 00:33:02,310
+oh
+[Music]
+
+1174
+00:33:02,310 --> 00:33:02,320
+[Music]
+ 
+
+1175
+00:33:02,320 --> 00:33:06,310
+[Music]
+maybe if i saw a picture
+
+1176
+00:33:06,310 --> 00:33:06,320
+
+ 
+
+1177
+00:33:06,320 --> 00:33:22,950
+
+ah
+
+1178
+00:33:22,950 --> 00:33:22,960
+
+ 
+
+1179
+00:33:22,960 --> 00:33:30,389
+
+all the blue team are at the front what
+
+1180
+00:33:30,389 --> 00:33:30,399
+
+ 
+
+1181
+00:33:30,399 --> 00:33:32,070
+
+where are you elvi
+
+1182
+00:33:32,070 --> 00:33:32,080
+where are you elvi
+ 
+
+1183
+00:33:32,080 --> 00:33:35,110
+where are you elvi
+first place no no second place now
+
+1184
+00:33:35,110 --> 00:33:35,120
+first place no no second place now
+ 
+
+1185
+00:33:35,120 --> 00:33:37,430
+first place no no second place now
+the npcs are doing the hard lifting for
+
+1186
+00:33:37,430 --> 00:33:37,440
+the npcs are doing the hard lifting for
+ 
+
+1187
+00:33:37,440 --> 00:33:39,430
+the npcs are doing the hard lifting for
+ame i mean
+
+1188
+00:33:39,430 --> 00:33:39,440
+ame i mean
+ 
+
+1189
+00:33:39,440 --> 00:33:40,870
+ame i mean
+i mean
+
+1190
+00:33:40,870 --> 00:33:40,880
+i mean
+ 
+
+1191
+00:33:40,880 --> 00:33:42,230
+i mean
+what do you mean
+
+1192
+00:33:42,230 --> 00:33:42,240
+what do you mean
+ 
+
+1193
+00:33:42,240 --> 00:33:43,830
+what do you mean
+what do you mean
+
+1194
+00:33:43,830 --> 00:33:43,840
+what do you mean
+ 
+
+1195
+00:33:43,840 --> 00:33:45,390
+what do you mean
+what do you mean
+
+1196
+00:33:45,390 --> 00:33:45,400
+what do you mean
+ 
+
+1197
+00:33:45,400 --> 00:33:49,029
+what do you mean
+[Applause]
+
+1198
+00:33:49,029 --> 00:33:49,039
+
+ 
+
+1199
+00:33:49,039 --> 00:34:01,909
+
+i'm a paintball now
+
+1200
+00:34:01,909 --> 00:34:01,919
+
+ 
+
+1201
+00:34:01,919 --> 00:34:03,830
+
+have you guys seen all this new outfit
+
+1202
+00:34:03,830 --> 00:34:03,840
+have you guys seen all this new outfit
+ 
+
+1203
+00:34:03,840 --> 00:34:06,230
+have you guys seen all this new outfit
+today
+
+1204
+00:34:06,230 --> 00:34:06,240
+today
+ 
+
+1205
+00:34:06,240 --> 00:34:07,430
+today
+i didn't see it because i just woke up
+
+1206
+00:34:07,430 --> 00:34:07,440
+i didn't see it because i just woke up
+ 
+
+1207
+00:34:07,440 --> 00:34:10,310
+i didn't see it because i just woke up
+before the stream oh god you're missing
+
+1208
+00:34:10,310 --> 00:34:10,320
+before the stream oh god you're missing
+ 
+
+1209
+00:34:10,320 --> 00:34:12,629
+before the stream oh god you're missing
+out on like a legendary i know the
+
+1210
+00:34:12,629 --> 00:34:12,639
+out on like a legendary i know the
+ 
+
+1211
+00:34:12,639 --> 00:34:15,450
+out on like a legendary i know the
+silhouette looks so cool
+
+1212
+00:34:15,450 --> 00:34:15,460
+silhouette looks so cool
+ 
+
+1213
+00:34:15,460 --> 00:34:16,869
+silhouette looks so cool
+[Music]
+
+1214
+00:34:16,869 --> 00:34:16,879
+[Music]
+ 
+
+1215
+00:34:16,879 --> 00:34:19,349
+[Music]
+she is like a
+
+1216
+00:34:19,349 --> 00:34:19,359
+she is like a
+ 
+
+1217
+00:34:19,359 --> 00:34:21,589
+she is like a
+holy [\h__\h] like i can't even describe
+
+1218
+00:34:21,589 --> 00:34:21,599
+holy [\h__\h] like i can't even describe
+ 
+
+1219
+00:34:21,599 --> 00:34:24,069
+holy [\h__\h] like i can't even describe
+like oh she's dripping she's dripping so
+
+1220
+00:34:24,069 --> 00:34:24,079
+like oh she's dripping she's dripping so
+ 
+
+1221
+00:34:24,079 --> 00:34:25,510
+like oh she's dripping she's dripping so
+high
+
+1222
+00:34:25,510 --> 00:34:25,520
+high
+ 
+
+1223
+00:34:25,520 --> 00:34:27,669
+high
+[Laughter]
+
+1224
+00:34:27,669 --> 00:34:27,679
+[Laughter]
+ 
+
+1225
+00:34:27,679 --> 00:34:31,069
+[Laughter]
+i'll be first original
+
+1226
+00:34:31,069 --> 00:34:31,079
+i'll be first original
+ 
+
+1227
+00:34:31,079 --> 00:34:33,990
+i'll be first original
+oh yeah
+
+1228
+00:34:33,990 --> 00:34:34,000
+oh yeah
+ 
+
+1229
+00:34:34,000 --> 00:34:36,149
+oh yeah
+ollie looks like a pimp or something
+
+1230
+00:34:36,149 --> 00:34:36,159
+ollie looks like a pimp or something
+ 
+
+1231
+00:34:36,159 --> 00:34:38,149
+ollie looks like a pimp or something
+yeah yeah yeah
+
+1232
+00:34:38,149 --> 00:34:38,159
+yeah yeah yeah
+ 
+
+1233
+00:34:38,159 --> 00:34:40,389
+yeah yeah yeah
+she realizes like a lollipop and then
+
+1234
+00:34:40,389 --> 00:34:40,399
+she realizes like a lollipop and then
+ 
+
+1235
+00:34:40,399 --> 00:34:44,069
+she realizes like a lollipop and then
+she's with her mouth shopping
+
+1236
+00:34:44,069 --> 00:34:44,079
+
+ 
+
+1237
+00:34:44,079 --> 00:34:46,310
+
+someone's cool
+
+1238
+00:34:46,310 --> 00:34:46,320
+someone's cool
+ 
+
+1239
+00:34:46,320 --> 00:34:48,950
+someone's cool
+yeah
+
+1240
+00:34:48,950 --> 00:34:48,960
+yeah
+ 
+
+1241
+00:34:48,960 --> 00:34:50,869
+yeah
+i didn't expect that like by the drill
+
+1242
+00:34:50,869 --> 00:34:50,879
+i didn't expect that like by the drill
+ 
+
+1243
+00:34:50,879 --> 00:34:51,829
+i didn't expect that like by the drill
+hair
+
+1244
+00:34:51,829 --> 00:34:51,839
+hair
+ 
+
+1245
+00:34:51,839 --> 00:34:53,589
+hair
+you know because of a certain i guess
+
+1246
+00:34:53,589 --> 00:34:53,599
+you know because of a certain i guess
+ 
+
+1247
+00:34:53,599 --> 00:34:57,109
+you know because of a certain i guess
+yeah that's a certain character
+
+1248
+00:34:57,109 --> 00:34:57,119
+
+ 
+
+1249
+00:34:57,119 --> 00:34:58,870
+
+i thought it was gonna be like
+
+1250
+00:34:58,870 --> 00:34:58,880
+i thought it was gonna be like
+ 
+
+1251
+00:34:58,880 --> 00:35:00,790
+i thought it was gonna be like
+fully yeah yeah yeah i expected
+
+1252
+00:35:00,790 --> 00:35:00,800
+fully yeah yeah yeah i expected
+ 
+
+1253
+00:35:00,800 --> 00:35:03,670
+fully yeah yeah yeah i expected
+something like that too
+
+1254
+00:35:03,670 --> 00:35:03,680
+something like that too
+ 
+
+1255
+00:35:03,680 --> 00:35:04,950
+something like that too
+but no
+
+1256
+00:35:04,950 --> 00:35:04,960
+but no
+ 
+
+1257
+00:35:04,960 --> 00:35:08,550
+but no
+no no yeah very unexpected
+
+1258
+00:35:08,550 --> 00:35:08,560
+no no yeah very unexpected
+ 
+
+1259
+00:35:08,560 --> 00:35:11,510
+no no yeah very unexpected
+also those fishnets oh yeah
+
+1260
+00:35:11,510 --> 00:35:11,520
+also those fishnets oh yeah
+ 
+
+1261
+00:35:11,520 --> 00:35:14,950
+also those fishnets oh yeah
+it's so cool
+
+1262
+00:35:14,950 --> 00:35:14,960
+
+ 
+
+1263
+00:35:14,960 --> 00:35:17,829
+
+so good man
+
+1264
+00:35:17,829 --> 00:35:17,839
+so good man
+ 
+
+1265
+00:35:17,839 --> 00:35:20,069
+so good man
+i can't wait to see the other whole live
+
+1266
+00:35:20,069 --> 00:35:20,079
+i can't wait to see the other whole live
+ 
+
+1267
+00:35:20,079 --> 00:35:21,510
+i can't wait to see the other whole live
+ideas second gen
+
+1268
+00:35:21,510 --> 00:35:21,520
+ideas second gen
+ 
+
+1269
+00:35:21,520 --> 00:35:22,350
+ideas second gen
+new outfits
+
+1270
+00:35:22,350 --> 00:35:22,360
+new outfits
+ 
+
+1271
+00:35:22,360 --> 00:35:32,870
+new outfits
+[Music]
+
+1272
+00:35:32,870 --> 00:35:32,880
+
+ 
+
+1273
+00:35:32,880 --> 00:35:35,030
+
+yeah yeah yeah that's i think reynolds
+
+1274
+00:35:35,030 --> 00:35:35,040
+yeah yeah yeah that's i think reynolds
+ 
+
+1275
+00:35:35,040 --> 00:35:37,270
+yeah yeah yeah that's i think reynolds
+ah rainy cat
+
+1276
+00:35:37,270 --> 00:35:37,280
+ah rainy cat
+ 
+
+1277
+00:35:37,280 --> 00:35:39,750
+ah rainy cat
+i think that was very silly right
+
+1278
+00:35:39,750 --> 00:35:39,760
+i think that was very silly right
+ 
+
+1279
+00:35:39,760 --> 00:35:41,109
+i think that was very silly right
+i am hi
+
+1280
+00:35:41,109 --> 00:35:41,119
+i am hi
+ 
+
+1281
+00:35:41,119 --> 00:35:47,140
+i am hi
+i am
+
+1282
+00:35:47,140 --> 00:35:47,150
+
+ 
+
+1283
+00:35:47,150 --> 00:35:49,190
+
+[Applause]
+
+1284
+00:35:49,190 --> 00:35:49,200
+[Applause]
+ 
+
+1285
+00:35:49,200 --> 00:35:50,470
+[Applause]
+i don't know when it's happening is it
+
+1286
+00:35:50,470 --> 00:35:50,480
+i don't know when it's happening is it
+ 
+
+1287
+00:35:50,480 --> 00:35:51,829
+i don't know when it's happening is it
+tomorrow somebody in the chat says it's
+
+1288
+00:35:51,829 --> 00:35:51,839
+tomorrow somebody in the chat says it's
+ 
+
+1289
+00:35:51,839 --> 00:35:54,069
+tomorrow somebody in the chat says it's
+tomorrow tomorrow
+
+1290
+00:35:54,069 --> 00:35:54,079
+tomorrow tomorrow
+ 
+
+1291
+00:35:54,079 --> 00:36:00,160
+tomorrow tomorrow
+i knew that was halloween
+
+1292
+00:36:00,160 --> 00:36:00,170
+
+ 
+
+1293
+00:36:00,170 --> 00:36:09,750
+
+[Music]
+
+1294
+00:36:09,750 --> 00:36:09,760
+
+ 
+
+1295
+00:36:09,760 --> 00:36:13,109
+
+mamma mia
+
+1296
+00:36:13,109 --> 00:36:13,119
+
+ 
+
+1297
+00:36:13,119 --> 00:36:15,349
+
+it's not my fault like yeah where does
+
+1298
+00:36:15,349 --> 00:36:15,359
+it's not my fault like yeah where does
+ 
+
+1299
+00:36:15,359 --> 00:36:17,750
+it's not my fault like yeah where does
+cats take place is it in new york
+
+1300
+00:36:17,750 --> 00:36:17,760
+cats take place is it in new york
+ 
+
+1301
+00:36:17,760 --> 00:36:21,430
+cats take place is it in new york
+probably yeah is it i think
+
+1302
+00:36:21,430 --> 00:36:21,440
+
+ 
+
+1303
+00:36:21,440 --> 00:36:23,349
+
+the rules are so hard
+
+1304
+00:36:23,349 --> 00:36:23,359
+the rules are so hard
+ 
+
+1305
+00:36:23,359 --> 00:36:26,390
+the rules are so hard
+okay oh my gosh new york new york new
+
+1306
+00:36:26,390 --> 00:36:26,400
+okay oh my gosh new york new york new
+ 
+
+1307
+00:36:26,400 --> 00:36:32,810
+okay oh my gosh new york new york new
+york yeah i think it is in new york
+
+1308
+00:36:32,810 --> 00:36:32,820
+
+ 
+
+1309
+00:36:32,820 --> 00:36:33,990
+
+[Music]
+
+1310
+00:36:33,990 --> 00:36:34,000
+[Music]
+ 
+
+1311
+00:36:34,000 --> 00:36:36,150
+[Music]
+well we were in girls territory
+
+1312
+00:36:36,150 --> 00:36:36,160
+well we were in girls territory
+ 
+
+1313
+00:36:36,160 --> 00:36:37,750
+well we were in girls territory
+the girls haven't watched a garfield
+
+1314
+00:36:37,750 --> 00:36:37,760
+the girls haven't watched a garfield
+ 
+
+1315
+00:36:37,760 --> 00:36:41,640
+the girls haven't watched a garfield
+movie no
+
+1316
+00:36:41,640 --> 00:36:41,650
+
+ 
+
+1317
+00:36:41,650 --> 00:36:48,350
+
+[Laughter]
+
+1318
+00:36:48,350 --> 00:36:48,360
+
+ 
+
+1319
+00:36:48,360 --> 00:36:52,310
+
+[Music]
+
+1320
+00:36:52,310 --> 00:36:52,320
+
+ 
+
+1321
+00:36:52,320 --> 00:36:56,390
+
+all cat related movies are legendary
+
+1322
+00:36:56,390 --> 00:36:56,400
+all cat related movies are legendary
+ 
+
+1323
+00:36:56,400 --> 00:36:58,150
+all cat related movies are legendary
+10 of the 10 word for watch worth two
+
+1324
+00:36:58,150 --> 00:36:58,160
+10 of the 10 word for watch worth two
+ 
+
+1325
+00:36:58,160 --> 00:36:58,850
+10 of the 10 word for watch worth two
+watches
+
+1326
+00:36:58,850 --> 00:36:58,860
+watches
+ 
+
+1327
+00:36:58,860 --> 00:37:00,230
+watches
+[Music]
+
+1328
+00:37:00,230 --> 00:37:00,240
+[Music]
+ 
+
+1329
+00:37:00,240 --> 00:37:03,829
+[Music]
+someone stole my eyes oh no okay it's
+
+1330
+00:37:03,829 --> 00:37:03,839
+someone stole my eyes oh no okay it's
+ 
+
+1331
+00:37:03,839 --> 00:37:08,710
+someone stole my eyes oh no okay it's
+fine it's fine it's fine don't panic
+
+1332
+00:37:08,710 --> 00:37:08,720
+
+ 
+
+1333
+00:37:08,720 --> 00:37:10,470
+
+okay
+
+1334
+00:37:10,470 --> 00:37:10,480
+okay
+ 
+
+1335
+00:37:10,480 --> 00:37:17,430
+okay
+okay
+
+1336
+00:37:17,430 --> 00:37:17,440
+
+ 
+
+1337
+00:37:17,440 --> 00:37:20,230
+
+freaking [\h__\h]
+
+1338
+00:37:20,230 --> 00:37:20,240
+freaking [\h__\h]
+ 
+
+1339
+00:37:20,240 --> 00:37:21,440
+freaking [\h__\h]
+whoa
+
+1340
+00:37:21,440 --> 00:37:21,450
+whoa
+ 
+
+1341
+00:37:21,450 --> 00:37:44,320
+whoa
+[Music]
+
+1342
+00:37:44,320 --> 00:37:44,330
+
+ 
+
+1343
+00:37:44,330 --> 00:37:44,930
+
+[Music]
+
+1344
+00:37:44,930 --> 00:37:44,940
+[Music]
+ 
+
+1345
+00:37:44,940 --> 00:37:59,589
+[Music]
+[Laughter]
+
+1346
+00:37:59,589 --> 00:37:59,599
+
+ 
+
+1347
+00:37:59,599 --> 00:38:17,430
+
+is mario circuit really not oh there's
+
+1348
+00:38:17,430 --> 00:38:17,440
+
+ 
+
+1349
+00:38:17,440 --> 00:38:19,349
+
+because um the the the ones from the
+
+1350
+00:38:19,349 --> 00:38:19,359
+because um the the the ones from the
+ 
+
+1351
+00:38:19,359 --> 00:38:21,190
+because um the the the ones from the
+first dlc are already played but we can
+
+1352
+00:38:21,190 --> 00:38:21,200
+first dlc are already played but we can
+ 
+
+1353
+00:38:21,200 --> 00:38:22,950
+first dlc are already played but we can
+play them too
+
+1354
+00:38:22,950 --> 00:38:22,960
+play them too
+ 
+
+1355
+00:38:22,960 --> 00:38:25,270
+play them too
+there's two deals
+
+1356
+00:38:25,270 --> 00:38:25,280
+there's two deals
+ 
+
+1357
+00:38:25,280 --> 00:38:27,109
+there's two deals
+yeah that was from before
+
+1358
+00:38:27,109 --> 00:38:27,119
+yeah that was from before
+ 
+
+1359
+00:38:27,119 --> 00:38:29,910
+yeah that was from before
+i haven't even played the first one
+
+1360
+00:38:29,910 --> 00:38:29,920
+i haven't even played the first one
+ 
+
+1361
+00:38:29,920 --> 00:38:33,430
+i haven't even played the first one
+i haven't played the first one either
+
+1362
+00:38:33,430 --> 00:38:33,440
+i haven't played the first one either
+ 
+
+1363
+00:38:33,440 --> 00:38:35,109
+i haven't played the first one either
+oh there's two waves
+
+1364
+00:38:35,109 --> 00:38:35,119
+oh there's two waves
+ 
+
+1365
+00:38:35,119 --> 00:38:36,150
+oh there's two waves
+and then
+
+1366
+00:38:36,150 --> 00:38:36,160
+and then
+ 
+
+1367
+00:38:36,160 --> 00:38:37,510
+and then
+i mean so far
+
+1368
+00:38:37,510 --> 00:38:37,520
+i mean so far
+ 
+
+1369
+00:38:37,520 --> 00:38:38,870
+i mean so far
+no and then we're gonna have more and
+
+1370
+00:38:38,870 --> 00:38:38,880
+no and then we're gonna have more and
+ 
+
+1371
+00:38:38,880 --> 00:38:40,710
+no and then we're gonna have more and
+more and more i'm wondering when like
+
+1372
+00:38:40,710 --> 00:38:40,720
+more and more i'm wondering when like
+ 
+
+1373
+00:38:40,720 --> 00:38:43,990
+more and more i'm wondering when like
+when if we ever do like a
+
+1374
+00:38:43,990 --> 00:38:44,000
+when if we ever do like a
+ 
+
+1375
+00:38:44,000 --> 00:38:46,150
+when if we ever do like a
+whole live english and id
+
+1376
+00:38:46,150 --> 00:38:46,160
+whole live english and id
+ 
+
+1377
+00:38:46,160 --> 00:38:48,230
+whole live english and id
+mario kart or even like you know with
+
+1378
+00:38:48,230 --> 00:38:48,240
+mario kart or even like you know with
+ 
+
+1379
+00:38:48,240 --> 00:38:50,150
+mario kart or even like you know with
+japan japanese members again you know
+
+1380
+00:38:50,150 --> 00:38:50,160
+japan japanese members again you know
+ 
+
+1381
+00:38:50,160 --> 00:38:52,790
+japan japanese members again you know
+mario kart tournament
+
+1382
+00:38:52,790 --> 00:38:52,800
+mario kart tournament
+ 
+
+1383
+00:38:52,800 --> 00:38:54,790
+mario kart tournament
+how
+
+1384
+00:38:54,790 --> 00:38:54,800
+how
+ 
+
+1385
+00:38:54,800 --> 00:38:55,910
+how
+we
+
+1386
+00:38:55,910 --> 00:38:55,920
+we
+ 
+
+1387
+00:38:55,920 --> 00:38:57,349
+we
+have to
+
+1388
+00:38:57,349 --> 00:38:57,359
+have to
+ 
+
+1389
+00:38:57,359 --> 00:38:58,829
+have to
+like limit
+
+1390
+00:38:58,829 --> 00:38:58,839
+like limit
+ 
+
+1391
+00:38:58,839 --> 00:39:01,910
+like limit
+the the tracks that we would be using
+
+1392
+00:39:01,910 --> 00:39:01,920
+the the tracks that we would be using
+ 
+
+1393
+00:39:01,920 --> 00:39:04,069
+the the tracks that we would be using
+because i i don't think i want to
+
+1394
+00:39:04,069 --> 00:39:04,079
+because i i don't think i want to
+ 
+
+1395
+00:39:04,079 --> 00:39:06,069
+because i i don't think i want to
+practice how many are there now
+
+1396
+00:39:06,069 --> 00:39:06,079
+practice how many are there now
+ 
+
+1397
+00:39:06,079 --> 00:39:07,430
+practice how many are there now
+especially if we do it at the end of the
+
+1398
+00:39:07,430 --> 00:39:07,440
+especially if we do it at the end of the
+ 
+
+1399
+00:39:07,440 --> 00:39:08,950
+especially if we do it at the end of the
+year then there will be
+
+1400
+00:39:08,950 --> 00:39:08,960
+year then there will be
+ 
+
+1401
+00:39:08,960 --> 00:39:11,829
+year then there will be
+all the dlcs out all of the waves
+
+1402
+00:39:11,829 --> 00:39:11,839
+all the dlcs out all of the waves
+ 
+
+1403
+00:39:11,839 --> 00:39:14,790
+all the dlcs out all of the waves
+they come out by then yeah they say by
+
+1404
+00:39:14,790 --> 00:39:14,800
+they come out by then yeah they say by
+ 
+
+1405
+00:39:14,800 --> 00:39:16,069
+they come out by then yeah they say by
+the end of the year that's the promise
+
+1406
+00:39:16,069 --> 00:39:16,079
+the end of the year that's the promise
+ 
+
+1407
+00:39:16,079 --> 00:39:18,550
+the end of the year that's the promise
+from nintendo and you know nintendo
+
+1408
+00:39:18,550 --> 00:39:18,560
+from nintendo and you know nintendo
+ 
+
+1409
+00:39:18,560 --> 00:39:25,270
+from nintendo and you know nintendo
+keeps their promises right
+
+1410
+00:39:25,270 --> 00:39:25,280
+
+ 
+
+1411
+00:39:25,280 --> 00:39:26,069
+
+so
+
+1412
+00:39:26,069 --> 00:39:26,079
+so
+ 
+
+1413
+00:39:26,079 --> 00:39:28,630
+so
+maybe dlc only tournament
+
+1414
+00:39:28,630 --> 00:39:28,640
+maybe dlc only tournament
+ 
+
+1415
+00:39:28,640 --> 00:39:30,390
+maybe dlc only tournament
+oh that would be fun
+
+1416
+00:39:30,390 --> 00:39:30,400
+oh that would be fun
+ 
+
+1417
+00:39:30,400 --> 00:39:32,630
+oh that would be fun
+yeah because then we don't i mean we've
+
+1418
+00:39:32,630 --> 00:39:32,640
+yeah because then we don't i mean we've
+ 
+
+1419
+00:39:32,640 --> 00:39:34,710
+yeah because then we don't i mean we've
+all seen the
+
+1420
+00:39:34,710 --> 00:39:34,720
+all seen the
+ 
+
+1421
+00:39:34,720 --> 00:39:39,109
+all seen the
+already existing tracks a million times
+
+1422
+00:39:39,109 --> 00:39:39,119
+already existing tracks a million times
+ 
+
+1423
+00:39:39,119 --> 00:39:44,069
+already existing tracks a million times
+i think dlc only sounds fun
+
+1424
+00:39:44,069 --> 00:39:44,079
+
+ 
+
+1425
+00:39:44,079 --> 00:39:45,670
+
+yeah that makes sense
+
+1426
+00:39:45,670 --> 00:39:45,680
+yeah that makes sense
+ 
+
+1427
+00:39:45,680 --> 00:39:49,750
+yeah that makes sense
+yeah
+
+1428
+00:39:49,750 --> 00:39:49,760
+
+ 
+
+1429
+00:39:49,760 --> 00:39:52,390
+
+by the way this track was on the
+
+1430
+00:39:52,390 --> 00:39:52,400
+by the way this track was on the
+ 
+
+1431
+00:39:52,400 --> 00:39:55,109
+by the way this track was on the
+i think for the first time on the phone
+
+1432
+00:39:55,109 --> 00:39:55,119
+i think for the first time on the phone
+ 
+
+1433
+00:39:55,119 --> 00:39:57,589
+i think for the first time on the phone
+on the phone on the mario kart
+
+1434
+00:39:57,589 --> 00:39:57,599
+on the phone on the mario kart
+ 
+
+1435
+00:39:57,599 --> 00:39:59,589
+on the phone on the mario kart
+i got the wrong turn
+
+1436
+00:39:59,589 --> 00:39:59,599
+i got the wrong turn
+ 
+
+1437
+00:39:59,599 --> 00:40:01,990
+i got the wrong turn
+oh no no no i played that before it was
+
+1438
+00:40:01,990 --> 00:40:02,000
+oh no no no i played that before it was
+ 
+
+1439
+00:40:02,000 --> 00:40:04,069
+oh no no no i played that before it was
+actually pretty fun
+
+1440
+00:40:04,069 --> 00:40:04,079
+actually pretty fun
+ 
+
+1441
+00:40:04,079 --> 00:40:07,030
+actually pretty fun
+yeah okay
+
+1442
+00:40:07,030 --> 00:40:07,040
+yeah okay
+ 
+
+1443
+00:40:07,040 --> 00:40:22,470
+yeah okay
+gotcha
+
+1444
+00:40:22,470 --> 00:40:22,480
+
+ 
+
+1445
+00:40:22,480 --> 00:40:24,069
+
+oh no i thought it got at me but it
+
+1446
+00:40:24,069 --> 00:40:24,079
+oh no i thought it got at me but it
+ 
+
+1447
+00:40:24,079 --> 00:40:29,190
+oh no i thought it got at me but it
+wasn't it wasn't enough [\h__\h]
+
+1448
+00:40:29,190 --> 00:40:29,200
+
+ 
+
+1449
+00:40:29,200 --> 00:40:32,870
+
+i was holding a shell
+
+1450
+00:40:32,870 --> 00:40:32,880
+
+ 
+
+1451
+00:40:32,880 --> 00:40:38,580
+
+here we go
+
+1452
+00:40:38,580 --> 00:40:38,590
+
+ 
+
+1453
+00:40:38,590 --> 00:40:44,309
+
+[Music]
+
+1454
+00:40:44,309 --> 00:40:44,319
+
+ 
+
+1455
+00:40:44,319 --> 00:40:47,470
+
+okay that's fine it's fine it's team
+
+1456
+00:40:47,470 --> 00:40:47,480
+okay that's fine it's fine it's team
+ 
+
+1457
+00:40:47,480 --> 00:41:03,270
+okay that's fine it's fine it's team
+team good
+
+1458
+00:41:03,270 --> 00:41:03,280
+
+ 
+
+1459
+00:41:03,280 --> 00:41:04,470
+
+[Music]
+
+1460
+00:41:04,470 --> 00:41:04,480
+[Music]
+ 
+
+1461
+00:41:04,480 --> 00:41:08,230
+[Music]
+carrying
+
+1462
+00:41:08,230 --> 00:41:08,240
+
+ 
+
+1463
+00:41:08,240 --> 00:41:11,030
+
+stupid stupid isabel undermining my
+
+1464
+00:41:11,030 --> 00:41:11,040
+stupid stupid isabel undermining my
+ 
+
+1465
+00:41:11,040 --> 00:41:14,069
+stupid stupid isabel undermining my
+coolness
+
+1466
+00:41:14,069 --> 00:41:14,079
+
+ 
+
+1467
+00:41:14,079 --> 00:41:15,349
+
+all right and i guess i'm gonna play
+
+1468
+00:41:15,349 --> 00:41:15,359
+all right and i guess i'm gonna play
+ 
+
+1469
+00:41:15,359 --> 00:41:17,270
+all right and i guess i'm gonna play
+this mario circuit man
+
+1470
+00:41:17,270 --> 00:41:17,280
+this mario circuit man
+ 
+
+1471
+00:41:17,280 --> 00:41:19,349
+this mario circuit man
+i wanna see how is it different is this
+
+1472
+00:41:19,349 --> 00:41:19,359
+i wanna see how is it different is this
+ 
+
+1473
+00:41:19,359 --> 00:41:21,030
+i wanna see how is it different is this
+it looks like this is the thumb that it
+
+1474
+00:41:21,030 --> 00:41:21,040
+it looks like this is the thumb that it
+ 
+
+1475
+00:41:21,040 --> 00:41:22,710
+it looks like this is the thumb that it
+looks like well i've already played
+
+1476
+00:41:22,710 --> 00:41:22,720
+looks like well i've already played
+ 
+
+1477
+00:41:22,720 --> 00:41:25,430
+looks like well i've already played
+before
+
+1478
+00:41:25,430 --> 00:41:25,440
+
+ 
+
+1479
+00:41:25,440 --> 00:41:26,630
+
+i mean there's like
+
+1480
+00:41:26,630 --> 00:41:26,640
+i mean there's like
+ 
+
+1481
+00:41:26,640 --> 00:41:29,589
+i mean there's like
+which one mario circuit but like
+
+1482
+00:41:29,589 --> 00:41:29,599
+which one mario circuit but like
+ 
+
+1483
+00:41:29,599 --> 00:41:32,550
+which one mario circuit but like
+different i'm afraid that's right
+
+1484
+00:41:32,550 --> 00:41:32,560
+different i'm afraid that's right
+ 
+
+1485
+00:41:32,560 --> 00:41:34,710
+different i'm afraid that's right
+oh yeah i guess so wait what are you
+
+1486
+00:41:34,710 --> 00:41:34,720
+oh yeah i guess so wait what are you
+ 
+
+1487
+00:41:34,720 --> 00:41:35,910
+oh yeah i guess so wait what are you
+guys thinking
+
+1488
+00:41:35,910 --> 00:41:35,920
+guys thinking
+ 
+
+1489
+00:41:35,920 --> 00:41:38,630
+guys thinking
+mario oh mario's circuit free from like
+
+1490
+00:41:38,630 --> 00:41:38,640
+mario oh mario's circuit free from like
+ 
+
+1491
+00:41:38,640 --> 00:41:39,829
+mario oh mario's circuit free from like
+one of the
+
+1492
+00:41:39,829 --> 00:41:39,839
+one of the
+ 
+
+1493
+00:41:39,839 --> 00:41:42,550
+one of the
+one of the dlc ones
+
+1494
+00:41:42,550 --> 00:41:42,560
+one of the dlc ones
+ 
+
+1495
+00:41:42,560 --> 00:41:44,630
+one of the dlc ones
+i can't find it
+
+1496
+00:41:44,630 --> 00:41:44,640
+i can't find it
+ 
+
+1497
+00:41:44,640 --> 00:41:46,730
+i can't find it
+that's the third
+
+1498
+00:41:46,730 --> 00:41:46,740
+that's the third
+ 
+
+1499
+00:41:46,740 --> 00:41:54,470
+that's the third
+[Music]
+
+1500
+00:41:54,470 --> 00:41:54,480
+[Music]
+ 
+
+1501
+00:41:54,480 --> 00:41:56,230
+[Music]
+which one is gonna which one which one
+
+1502
+00:41:56,230 --> 00:41:56,240
+which one is gonna which one which one
+ 
+
+1503
+00:41:56,240 --> 00:42:07,829
+which one is gonna which one which one
+is it gonna be oh god no way
+
+1504
+00:42:07,829 --> 00:42:07,839
+
+ 
+
+1505
+00:42:07,839 --> 00:42:10,870
+
+i feel like fauna is not coming back huh
+
+1506
+00:42:10,870 --> 00:42:10,880
+i feel like fauna is not coming back huh
+ 
+
+1507
+00:42:10,880 --> 00:42:12,470
+i feel like fauna is not coming back huh
+okay we can break
+
+1508
+00:42:12,470 --> 00:42:12,480
+okay we can break
+ 
+
+1509
+00:42:12,480 --> 00:42:16,470
+okay we can break
+maybe maybe a baton ton pass to her
+
+1510
+00:42:16,470 --> 00:42:16,480
+maybe maybe a baton ton pass to her
+ 
+
+1511
+00:42:16,480 --> 00:42:19,190
+maybe maybe a baton ton pass to her
+that means when inna leaves after the
+
+1512
+00:42:19,190 --> 00:42:19,200
+that means when inna leaves after the
+ 
+
+1513
+00:42:19,200 --> 00:42:21,589
+that means when inna leaves after the
+one hour then it's the one on one with
+
+1514
+00:42:21,589 --> 00:42:21,599
+one hour then it's the one on one with
+ 
+
+1515
+00:42:21,599 --> 00:42:23,670
+one hour then it's the one on one with
+me in heaven
+
+1516
+00:42:23,670 --> 00:42:23,680
+me in heaven
+ 
+
+1517
+00:42:23,680 --> 00:42:25,829
+me in heaven
+we're gonna play with viewers right
+
+1518
+00:42:25,829 --> 00:42:25,839
+we're gonna play with viewers right
+ 
+
+1519
+00:42:25,839 --> 00:42:32,870
+we're gonna play with viewers right
+yeah but still it's just you and me then
+
+1520
+00:42:32,870 --> 00:42:32,880
+
+ 
+
+1521
+00:42:32,880 --> 00:42:34,950
+
+i thought we were on the team
+
+1522
+00:42:34,950 --> 00:42:34,960
+i thought we were on the team
+ 
+
+1523
+00:42:34,960 --> 00:42:36,470
+i thought we were on the team
+what you're not on my team
+
+1524
+00:42:36,470 --> 00:42:36,480
+what you're not on my team
+ 
+
+1525
+00:42:36,480 --> 00:42:38,950
+what you're not on my team
+no uh isabel uh
+
+1526
+00:42:38,950 --> 00:42:38,960
+no uh isabel uh
+ 
+
+1527
+00:42:38,960 --> 00:42:41,829
+no uh isabel uh
+isabelle what might be a fitting name
+
+1528
+00:42:41,829 --> 00:42:41,839
+isabelle what might be a fitting name
+ 
+
+1529
+00:42:41,839 --> 00:42:45,030
+isabelle what might be a fitting name
+for you i feel like a man what
+
+1530
+00:42:45,030 --> 00:42:45,040
+for you i feel like a man what
+ 
+
+1531
+00:42:45,040 --> 00:42:47,330
+for you i feel like a man what
+would be a cute name for you isabel
+
+1532
+00:42:47,330 --> 00:42:47,340
+would be a cute name for you isabel
+ 
+
+1533
+00:42:47,340 --> 00:42:50,550
+would be a cute name for you isabel
+[Applause]
+
+1534
+00:42:50,550 --> 00:42:50,560
+[Applause]
+ 
+
+1535
+00:42:50,560 --> 00:42:51,829
+
+sounds
+
+1536
+00:42:51,829 --> 00:42:51,839
+sounds
+ 
+
+1537
+00:42:51,839 --> 00:42:53,430
+sounds
+maybe a little bit too sophisticated for
+
+1538
+00:42:53,430 --> 00:42:53,440
+maybe a little bit too sophisticated for
+ 
+
+1539
+00:42:53,440 --> 00:42:58,870
+maybe a little bit too sophisticated for
+you
+
+1540
+00:42:58,870 --> 00:42:58,880
+
+ 
+
+1541
+00:42:58,880 --> 00:43:09,190
+
+now anything would be lovely on you
+
+1542
+00:43:09,190 --> 00:43:09,200
+
+ 
+
+1543
+00:43:09,200 --> 00:43:19,030
+
+she's just he's a very don't go
+
+1544
+00:43:19,030 --> 00:43:19,040
+
+ 
+
+1545
+00:43:19,040 --> 00:43:22,140
+
+[Laughter]
+
+1546
+00:43:22,140 --> 00:43:22,150
+[Laughter]
+ 
+
+1547
+00:43:22,150 --> 00:43:24,230
+[Laughter]
+[Music]
+
+1548
+00:43:24,230 --> 00:43:24,240
+[Music]
+ 
+
+1549
+00:43:24,240 --> 00:43:26,630
+[Music]
+but i'm laughing
+
+1550
+00:43:26,630 --> 00:43:26,640
+but i'm laughing
+ 
+
+1551
+00:43:26,640 --> 00:43:27,910
+but i'm laughing
+oh it's cause you're the first of the
+
+1552
+00:43:27,910 --> 00:43:27,920
+oh it's cause you're the first of the
+ 
+
+1553
+00:43:27,920 --> 00:43:30,230
+oh it's cause you're the first of the
+blues probably maybe
+
+1554
+00:43:30,230 --> 00:43:30,240
+blues probably maybe
+ 
+
+1555
+00:43:30,240 --> 00:43:32,309
+blues probably maybe
+it's like you sucks
+
+1556
+00:43:32,309 --> 00:43:32,319
+it's like you sucks
+ 
+
+1557
+00:43:32,319 --> 00:43:35,470
+it's like you sucks
+it's a villain
+
+1558
+00:43:35,470 --> 00:43:35,480
+it's a villain
+ 
+
+1559
+00:43:35,480 --> 00:43:46,100
+it's a villain
+[Music]
+
+1560
+00:43:46,100 --> 00:43:46,110
+
+ 
+
+1561
+00:43:46,110 --> 00:43:51,190
+
+[Laughter]
+
+1562
+00:43:51,190 --> 00:43:51,200
+
+ 
+
+1563
+00:43:51,200 --> 00:43:53,750
+
+come get me
+
+1564
+00:43:53,750 --> 00:43:53,760
+come get me
+ 
+
+1565
+00:43:53,760 --> 00:44:05,430
+come get me
+[Music]
+
+1566
+00:44:05,430 --> 00:44:05,440
+
+ 
+
+1567
+00:44:05,440 --> 00:44:20,950
+
+yes
+
+1568
+00:44:20,950 --> 00:44:20,960
+
+ 
+
+1569
+00:44:20,960 --> 00:44:31,910
+
+bro don't fro
+
+1570
+00:44:31,910 --> 00:44:31,920
+
+ 
+
+1571
+00:44:31,920 --> 00:44:33,829
+
+i don't hear your care i don't hear you
+
+1572
+00:44:33,829 --> 00:44:33,839
+i don't hear your care i don't hear you
+ 
+
+1573
+00:44:33,839 --> 00:44:46,950
+i don't hear your care i don't hear you
+over my weight
+
+1574
+00:44:46,950 --> 00:44:46,960
+
+ 
+
+1575
+00:44:46,960 --> 00:44:50,230
+
+okay phoenixes are colorblind
+
+1576
+00:44:50,230 --> 00:44:50,240
+okay phoenixes are colorblind
+ 
+
+1577
+00:44:50,240 --> 00:44:52,870
+okay phoenixes are colorblind
+how fun is typing fun
+
+1578
+00:44:52,870 --> 00:44:52,880
+how fun is typing fun
+ 
+
+1579
+00:44:52,880 --> 00:44:55,349
+how fun is typing fun
+could it be oh wow
+
+1580
+00:44:55,349 --> 00:44:55,359
+could it be oh wow
+ 
+
+1581
+00:44:55,359 --> 00:44:57,829
+could it be oh wow
+oh wow we win
+
+1582
+00:44:57,829 --> 00:44:57,839
+oh wow we win
+ 
+
+1583
+00:44:57,839 --> 00:44:58,870
+oh wow we win
+whoa
+
+1584
+00:44:58,870 --> 00:44:58,880
+whoa
+ 
+
+1585
+00:44:58,880 --> 00:45:00,870
+whoa
+that's great
+
+1586
+00:45:00,870 --> 00:45:00,880
+that's great
+ 
+
+1587
+00:45:00,880 --> 00:45:02,829
+that's great
+yeah yeah yeah
+
+1588
+00:45:02,829 --> 00:45:02,839
+yeah yeah yeah
+ 
+
+1589
+00:45:02,839 --> 00:45:05,750
+yeah yeah yeah
+oh fona says she's not coming back sorry
+
+1590
+00:45:05,750 --> 00:45:05,760
+oh fona says she's not coming back sorry
+ 
+
+1591
+00:45:05,760 --> 00:45:07,430
+oh fona says she's not coming back sorry
+chad
+
+1592
+00:45:07,430 --> 00:45:07,440
+chad
+ 
+
+1593
+00:45:07,440 --> 00:45:10,950
+chad
+sorry you have to deal with myth only
+
+1594
+00:45:10,950 --> 00:45:10,960
+sorry you have to deal with myth only
+ 
+
+1595
+00:45:10,960 --> 00:45:13,829
+sorry you have to deal with myth only
+i hope that's okay
+
+1596
+00:45:13,829 --> 00:45:13,839
+i hope that's okay
+ 
+
+1597
+00:45:13,839 --> 00:45:15,589
+i hope that's okay
+i hope we're good enough for you chad
+
+1598
+00:45:15,589 --> 00:45:15,599
+i hope we're good enough for you chad
+ 
+
+1599
+00:45:15,599 --> 00:45:18,450
+i hope we're good enough for you chad
+she's still with us in spirit
+
+1600
+00:45:18,450 --> 00:45:18,460
+she's still with us in spirit
+ 
+
+1601
+00:45:18,460 --> 00:45:21,910
+she's still with us in spirit
+[Music]
+
+1602
+00:45:21,910 --> 00:45:21,920
+
+ 
+
+1603
+00:45:21,920 --> 00:45:24,390
+
+when we at least got to play like
+
+1604
+00:45:24,390 --> 00:45:24,400
+when we at least got to play like
+ 
+
+1605
+00:45:24,400 --> 00:45:26,950
+when we at least got to play like
+a couple couple races yeah definitely
+
+1606
+00:45:26,950 --> 00:45:26,960
+a couple couple races yeah definitely
+ 
+
+1607
+00:45:26,960 --> 00:45:29,670
+a couple couple races yeah definitely
+yeah yeah mm-hmm let's play mom and stay
+
+1608
+00:45:29,670 --> 00:45:29,680
+yeah yeah mm-hmm let's play mom and stay
+ 
+
+1609
+00:45:29,680 --> 00:45:34,309
+yeah yeah mm-hmm let's play mom and stay
+mom before you know okay
+
+1610
+00:45:34,309 --> 00:45:34,319
+
+ 
+
+1611
+00:45:34,319 --> 00:45:35,990
+
+teams don't matter i think we can just
+
+1612
+00:45:35,990 --> 00:45:36,000
+teams don't matter i think we can just
+ 
+
+1613
+00:45:36,000 --> 00:45:38,230
+teams don't matter i think we can just
+leave that setting yeah uh
+
+1614
+00:45:38,230 --> 00:45:38,240
+leave that setting yeah uh
+ 
+
+1615
+00:45:38,240 --> 00:45:39,109
+leave that setting yeah uh
+no
+
+1616
+00:45:39,109 --> 00:45:39,119
+no
+ 
+
+1617
+00:45:39,119 --> 00:45:40,630
+no
+okay i can turn it off i turn it off
+
+1618
+00:45:40,630 --> 00:45:40,640
+okay i can turn it off i turn it off
+ 
+
+1619
+00:45:40,640 --> 00:45:42,790
+okay i can turn it off i turn it off
+okay okay okay now you can put us all in
+
+1620
+00:45:42,790 --> 00:45:42,800
+okay okay okay now you can put us all in
+ 
+
+1621
+00:45:42,800 --> 00:45:46,069
+okay okay okay now you can put us all in
+one team that's that's
+
+1622
+00:45:46,069 --> 00:45:46,079
+one team that's that's
+ 
+
+1623
+00:45:46,079 --> 00:45:48,950
+one team that's that's
+oh so we don't hurt each other too
+
+1624
+00:45:48,950 --> 00:45:48,960
+oh so we don't hurt each other too
+ 
+
+1625
+00:45:48,960 --> 00:45:50,390
+oh so we don't hurt each other too
+no teams
+
+1626
+00:45:50,390 --> 00:45:50,400
+no teams
+ 
+
+1627
+00:45:50,400 --> 00:45:52,260
+no teams
+not teams
+
+1628
+00:45:52,260 --> 00:45:52,270
+not teams
+ 
+
+1629
+00:45:52,270 --> 00:45:53,589
+not teams
+[Music]
+
+1630
+00:45:53,589 --> 00:45:53,599
+[Music]
+ 
+
+1631
+00:45:53,599 --> 00:45:55,829
+[Music]
+right so i guess that did feel like a
+
+1632
+00:45:55,829 --> 00:45:55,839
+right so i guess that did feel like a
+ 
+
+1633
+00:45:55,839 --> 00:45:57,510
+right so i guess that did feel like a
+different
+
+1634
+00:45:57,510 --> 00:45:57,520
+different
+ 
+
+1635
+00:45:57,520 --> 00:46:01,270
+different
+mario circuit i guess so
+
+1636
+00:46:01,270 --> 00:46:01,280
+mario circuit i guess so
+ 
+
+1637
+00:46:01,280 --> 00:46:02,710
+mario circuit i guess so
+i like that one
+
+1638
+00:46:02,710 --> 00:46:02,720
+i like that one
+ 
+
+1639
+00:46:02,720 --> 00:46:05,030
+i like that one
+like column
+
+1640
+00:46:05,030 --> 00:46:05,040
+like column
+ 
+
+1641
+00:46:05,040 --> 00:46:07,589
+like column
+different version of that
+
+1642
+00:46:07,589 --> 00:46:07,599
+different version of that
+ 
+
+1643
+00:46:07,599 --> 00:46:09,430
+different version of that
+i mean not only i keep saying on
+
+1644
+00:46:09,430 --> 00:46:09,440
+i mean not only i keep saying on
+ 
+
+1645
+00:46:09,440 --> 00:46:17,109
+i mean not only i keep saying on
+earrings squid rings
+
+1646
+00:46:17,109 --> 00:46:17,119
+
+ 
+
+1647
+00:46:17,119 --> 00:46:18,790
+
+okay now you just reminded me of what
+
+1648
+00:46:18,790 --> 00:46:18,800
+okay now you just reminded me of what
+ 
+
+1649
+00:46:18,800 --> 00:46:21,270
+okay now you just reminded me of what
+that even means oh
+
+1650
+00:46:21,270 --> 00:46:21,280
+that even means oh
+ 
+
+1651
+00:46:21,280 --> 00:46:22,870
+that even means oh
+no
+
+1652
+00:46:22,870 --> 00:46:22,880
+no
+ 
+
+1653
+00:46:22,880 --> 00:46:24,870
+no
+that was wrong okay
+
+1654
+00:46:24,870 --> 00:46:24,880
+that was wrong okay
+ 
+
+1655
+00:46:24,880 --> 00:46:26,309
+that was wrong okay
+oh is that
+
+1656
+00:46:26,309 --> 00:46:26,319
+oh is that
+ 
+
+1657
+00:46:26,319 --> 00:46:30,230
+oh is that
+character supposed to eh i'm confused
+
+1658
+00:46:30,230 --> 00:46:30,240
+character supposed to eh i'm confused
+ 
+
+1659
+00:46:30,240 --> 00:46:32,400
+character supposed to eh i'm confused
+is that character or calamari when
+
+1660
+00:46:32,400 --> 00:46:32,410
+is that character or calamari when
+ 
+
+1661
+00:46:32,410 --> 00:46:33,589
+is that character or calamari when
+[Music]
+
+1662
+00:46:33,589 --> 00:46:33,599
+[Music]
+ 
+
+1663
+00:46:33,599 --> 00:46:35,910
+[Music]
+what what you got the booze why are you
+
+1664
+00:46:35,910 --> 00:46:35,920
+what what you got the booze why are you
+ 
+
+1665
+00:46:35,920 --> 00:46:37,829
+what what you got the booze why are you
+faster
+
+1666
+00:46:37,829 --> 00:46:37,839
+faster
+ 
+
+1667
+00:46:37,839 --> 00:46:39,430
+faster
+because of the cards or something like
+
+1668
+00:46:39,430 --> 00:46:39,440
+because of the cards or something like
+ 
+
+1669
+00:46:39,440 --> 00:46:46,309
+because of the cards or something like
+that
+
+1670
+00:46:46,309 --> 00:46:46,319
+
+ 
+
+1671
+00:46:46,319 --> 00:46:51,510
+
+it's a technical question
+
+1672
+00:46:51,510 --> 00:46:51,520
+
+ 
+
+1673
+00:46:51,520 --> 00:46:52,309
+
+but
+
+1674
+00:46:52,309 --> 00:46:52,319
+but
+ 
+
+1675
+00:46:52,319 --> 00:46:54,470
+but
+honestly i just threw my my cart and
+
+1676
+00:46:54,470 --> 00:46:54,480
+honestly i just threw my my cart and
+ 
+
+1677
+00:46:54,480 --> 00:46:57,349
+honestly i just threw my my cart and
+stuff together without really knowing
+
+1678
+00:46:57,349 --> 00:46:57,359
+stuff together without really knowing
+ 
+
+1679
+00:46:57,359 --> 00:46:59,990
+stuff together without really knowing
+what's i mean there is this one cart
+
+1680
+00:46:59,990 --> 00:47:00,000
+what's i mean there is this one cart
+ 
+
+1681
+00:47:00,000 --> 00:47:02,230
+what's i mean there is this one cart
+that's like you know the best car that
+
+1682
+00:47:02,230 --> 00:47:02,240
+that's like you know the best car that
+ 
+
+1683
+00:47:02,240 --> 00:47:03,589
+that's like you know the best car that
+everybody uses
+
+1684
+00:47:03,589 --> 00:47:03,599
+everybody uses
+ 
+
+1685
+00:47:03,599 --> 00:47:05,430
+everybody uses
+in the tournament
+
+1686
+00:47:05,430 --> 00:47:05,440
+in the tournament
+ 
+
+1687
+00:47:05,440 --> 00:47:07,349
+in the tournament
+yeah but i still don't have that i got
+
+1688
+00:47:07,349 --> 00:47:07,359
+yeah but i still don't have that i got
+ 
+
+1689
+00:47:07,359 --> 00:47:09,030
+yeah but i still don't have that i got
+all the other [\h__\h]
+
+1690
+00:47:09,030 --> 00:47:09,040
+all the other [\h__\h]
+ 
+
+1691
+00:47:09,040 --> 00:47:10,710
+all the other [\h__\h]
+but i'm not getting that one for some
+
+1692
+00:47:10,710 --> 00:47:10,720
+but i'm not getting that one for some
+ 
+
+1693
+00:47:10,720 --> 00:47:13,840
+but i'm not getting that one for some
+reason
+
+1694
+00:47:13,840 --> 00:47:13,850
+
+ 
+
+1695
+00:47:13,850 --> 00:47:17,510
+
+[Applause]
+
+1696
+00:47:17,510 --> 00:47:17,520
+
+ 
+
+1697
+00:47:17,520 --> 00:47:25,330
+
+i hit you with the boomerang you hit me
+
+1698
+00:47:25,330 --> 00:47:25,340
+
+ 
+
+1699
+00:47:25,340 --> 00:47:28,520
+
+[Music]
+
+1700
+00:47:28,520 --> 00:47:28,530
+[Music]
+ 
+
+1701
+00:47:28,530 --> 00:47:31,349
+[Music]
+[Applause]
+
+1702
+00:47:31,349 --> 00:47:31,359
+[Applause]
+ 
+
+1703
+00:47:31,359 --> 00:47:33,109
+[Applause]
+that was a close one
+
+1704
+00:47:33,109 --> 00:47:33,119
+that was a close one
+ 
+
+1705
+00:47:33,119 --> 00:47:38,080
+that was a close one
+there's a train
+
+1706
+00:47:38,080 --> 00:47:38,090
+
+ 
+
+1707
+00:47:38,090 --> 00:47:47,670
+
+[Music]
+
+1708
+00:47:47,670 --> 00:47:47,680
+
+ 
+
+1709
+00:47:47,680 --> 00:47:54,390
+
+never played on this map i think
+
+1710
+00:47:54,390 --> 00:47:54,400
+
+ 
+
+1711
+00:47:54,400 --> 00:48:01,670
+
+eat them eat them eat them eat them
+
+1712
+00:48:01,670 --> 00:48:01,680
+
+ 
+
+1713
+00:48:01,680 --> 00:48:03,590
+
+come on
+
+1714
+00:48:03,590 --> 00:48:03,600
+come on
+ 
+
+1715
+00:48:03,600 --> 00:48:10,060
+come on
+[Music]
+
+1716
+00:48:10,060 --> 00:48:10,070
+
+ 
+
+1717
+00:48:10,070 --> 00:48:19,270
+
+[Music]
+
+1718
+00:48:19,270 --> 00:48:19,280
+
+ 
+
+1719
+00:48:19,280 --> 00:48:22,069
+
+i was trying to go straight but i guess
+
+1720
+00:48:22,069 --> 00:48:22,079
+i was trying to go straight but i guess
+ 
+
+1721
+00:48:22,079 --> 00:48:26,150
+i was trying to go straight but i guess
+i'm european
+
+1722
+00:48:26,150 --> 00:48:26,160
+
+ 
+
+1723
+00:48:26,160 --> 00:48:31,900
+
+thanks ahmed for laughing undead
+
+1724
+00:48:31,900 --> 00:48:31,910
+
+ 
+
+1725
+00:48:31,910 --> 00:48:33,200
+
+[Applause]
+
+1726
+00:48:33,200 --> 00:48:33,210
+[Applause]
+ 
+
+1727
+00:48:33,210 --> 00:48:42,870
+[Applause]
+[Music]
+
+1728
+00:48:42,870 --> 00:48:42,880
+
+ 
+
+1729
+00:48:42,880 --> 00:48:47,430
+
+what the [\h__\h] she's she's
+
+1730
+00:48:47,430 --> 00:48:47,440
+
+ 
+
+1731
+00:48:47,440 --> 00:48:49,349
+
+yeah cheating cheating
+
+1732
+00:48:49,349 --> 00:48:49,359
+yeah cheating cheating
+ 
+
+1733
+00:48:49,359 --> 00:48:51,109
+yeah cheating cheating
+what
+
+1734
+00:48:51,109 --> 00:48:51,119
+what
+ 
+
+1735
+00:48:51,119 --> 00:48:53,510
+what
+no comment
+
+1736
+00:48:53,510 --> 00:48:53,520
+no comment
+ 
+
+1737
+00:48:53,520 --> 00:48:55,829
+no comment
+can't hear you over this first place
+
+1738
+00:48:55,829 --> 00:48:55,839
+can't hear you over this first place
+ 
+
+1739
+00:48:55,839 --> 00:49:08,790
+can't hear you over this first place
+trophy
+
+1740
+00:49:08,790 --> 00:49:08,800
+
+ 
+
+1741
+00:49:08,800 --> 00:49:13,670
+
+that was fun but very confusing
+
+1742
+00:49:13,670 --> 00:49:13,680
+
+ 
+
+1743
+00:49:13,680 --> 00:49:27,349
+
+that's like my life
+
+1744
+00:49:27,349 --> 00:49:27,359
+
+ 
+
+1745
+00:49:27,359 --> 00:49:30,549
+
+outfit if we ever do like a whole live
+
+1746
+00:49:30,549 --> 00:49:30,559
+outfit if we ever do like a whole live
+ 
+
+1747
+00:49:30,559 --> 00:49:33,270
+outfit if we ever do like a whole live
+myth whole life hold a little myth full
+
+1748
+00:49:33,270 --> 00:49:33,280
+myth whole life hold a little myth full
+ 
+
+1749
+00:49:33,280 --> 00:49:34,870
+myth whole life hold a little myth full
+of english carnival
+
+1750
+00:49:34,870 --> 00:49:34,880
+of english carnival
+ 
+
+1751
+00:49:34,880 --> 00:49:36,870
+of english carnival
+i think inna would look cool in the
+
+1752
+00:49:36,870 --> 00:49:36,880
+i think inna would look cool in the
+ 
+
+1753
+00:49:36,880 --> 00:49:39,030
+i think inna would look cool in the
+ninja outfit
+
+1754
+00:49:39,030 --> 00:49:39,040
+ninja outfit
+ 
+
+1755
+00:49:39,040 --> 00:49:42,150
+ninja outfit
+because i'll be i'll be ninja
+
+1756
+00:49:42,150 --> 00:49:42,160
+because i'll be i'll be ninja
+ 
+
+1757
+00:49:42,160 --> 00:49:45,670
+because i'll be i'll be ninja
+hana in every tentacle
+
+1758
+00:49:45,670 --> 00:49:45,680
+hana in every tentacle
+ 
+
+1759
+00:49:45,680 --> 00:49:49,270
+hana in every tentacle
+oh cartwheel and all my enemies are dead
+
+1760
+00:49:49,270 --> 00:49:49,280
+oh cartwheel and all my enemies are dead
+ 
+
+1761
+00:49:49,280 --> 00:49:52,150
+oh cartwheel and all my enemies are dead
+i didn't get the boost
+
+1762
+00:49:52,150 --> 00:49:52,160
+i didn't get the boost
+ 
+
+1763
+00:49:52,160 --> 00:49:53,990
+i didn't get the boost
+i got it
+
+1764
+00:49:53,990 --> 00:49:54,000
+i got it
+ 
+
+1765
+00:49:54,000 --> 00:50:07,670
+i got it
+maybe i'm the better ninja
+
+1766
+00:50:07,670 --> 00:50:07,680
+
+ 
+
+1767
+00:50:07,680 --> 00:50:09,510
+
+i know your dojo better than you know
+
+1768
+00:50:09,510 --> 00:50:09,520
+i know your dojo better than you know
+ 
+
+1769
+00:50:09,520 --> 00:50:11,430
+i know your dojo better than you know
+yours
+
+1770
+00:50:11,430 --> 00:50:11,440
+yours
+ 
+
+1771
+00:50:11,440 --> 00:50:14,470
+yours
+oh i like the music oh
+
+1772
+00:50:14,470 --> 00:50:14,480
+oh i like the music oh
+ 
+
+1773
+00:50:14,480 --> 00:50:16,230
+oh i like the music oh
+oh wow
+
+1774
+00:50:16,230 --> 00:50:16,240
+oh wow
+ 
+
+1775
+00:50:16,240 --> 00:50:17,829
+oh wow
+it's so cool though this place is so
+
+1776
+00:50:17,829 --> 00:50:17,839
+it's so cool though this place is so
+ 
+
+1777
+00:50:17,839 --> 00:50:20,150
+it's so cool though this place is so
+cool yeah it looks nice oh
+
+1778
+00:50:20,150 --> 00:50:20,160
+cool yeah it looks nice oh
+ 
+
+1779
+00:50:20,160 --> 00:50:52,829
+cool yeah it looks nice oh
+this is like a completely new one
+
+1780
+00:50:52,829 --> 00:50:52,839
+
+ 
+
+1781
+00:50:52,839 --> 00:50:56,630
+
+oh since we can't go into japan normally
+
+1782
+00:50:56,630 --> 00:50:56,640
+oh since we can't go into japan normally
+ 
+
+1783
+00:50:56,640 --> 00:50:58,710
+oh since we can't go into japan normally
+i guess this is all we'll get
+
+1784
+00:50:58,710 --> 00:50:58,720
+i guess this is all we'll get
+ 
+
+1785
+00:50:58,720 --> 00:51:00,230
+i guess this is all we'll get
+so
+
+1786
+00:51:00,230 --> 00:51:00,240
+so
+ 
+
+1787
+00:51:00,240 --> 00:51:02,630
+so
+oops that's okay oh oh there's a bottom
+
+1788
+00:51:02,630 --> 00:51:02,640
+oops that's okay oh oh there's a bottom
+ 
+
+1789
+00:51:02,640 --> 00:51:06,069
+oops that's okay oh oh there's a bottom
+part oh i didn't know that
+
+1790
+00:51:06,069 --> 00:51:06,079
+
+ 
+
+1791
+00:51:06,079 --> 00:51:09,750
+
+i kind of okay to fall down
+
+1792
+00:51:09,750 --> 00:51:09,760
+i kind of okay to fall down
+ 
+
+1793
+00:51:09,760 --> 00:51:14,230
+i kind of okay to fall down
+what the [\h__\h] the music is popping
+
+1794
+00:51:14,230 --> 00:51:14,240
+
+ 
+
+1795
+00:51:14,240 --> 00:51:17,330
+
+the shams you hear me
+
+1796
+00:51:17,330 --> 00:51:17,340
+the shams you hear me
+ 
+
+1797
+00:51:17,340 --> 00:51:17,620
+the shams you hear me
+[Applause]
+
+1798
+00:51:17,620 --> 00:51:17,630
+[Applause]
+ 
+
+1799
+00:51:17,630 --> 00:51:25,900
+[Applause]
+[Music]
+
+1800
+00:51:25,900 --> 00:51:25,910
+
+ 
+
+1801
+00:51:25,910 --> 00:51:33,829
+
+[Music]
+
+1802
+00:51:33,829 --> 00:51:33,839
+
+ 
+
+1803
+00:51:33,839 --> 00:51:49,109
+
+oh
+
+1804
+00:51:49,109 --> 00:51:49,119
+
+ 
+
+1805
+00:51:49,119 --> 00:51:50,710
+
+yeah yeah
+
+1806
+00:51:50,710 --> 00:51:50,720
+yeah yeah
+ 
+
+1807
+00:51:50,720 --> 00:51:52,549
+yeah yeah
+my comeback is coming
+
+1808
+00:51:52,549 --> 00:51:52,559
+my comeback is coming
+ 
+
+1809
+00:51:52,559 --> 00:51:54,549
+my comeback is coming
+back
+
+1810
+00:51:54,549 --> 00:51:54,559
+back
+ 
+
+1811
+00:51:54,559 --> 00:51:56,549
+back
+i hear i hear the shell where is it
+
+1812
+00:51:56,549 --> 00:51:56,559
+i hear i hear the shell where is it
+ 
+
+1813
+00:51:56,559 --> 00:51:59,349
+i hear i hear the shell where is it
+going
+
+1814
+00:51:59,349 --> 00:51:59,359
+
+ 
+
+1815
+00:51:59,359 --> 00:52:02,790
+
+left no shell
+
+1816
+00:52:02,790 --> 00:52:02,800
+
+ 
+
+1817
+00:52:02,800 --> 00:52:04,940
+
+a
+
+1818
+00:52:04,940 --> 00:52:04,950
+a
+ 
+
+1819
+00:52:04,950 --> 00:52:10,750
+a
+[Music]
+
+1820
+00:52:10,750 --> 00:52:10,760
+
+ 
+
+1821
+00:52:10,760 --> 00:52:11,990
+
+[Applause]
+
+1822
+00:52:11,990 --> 00:52:12,000
+[Applause]
+ 
+
+1823
+00:52:12,000 --> 00:52:17,030
+[Applause]
+no driving on the tatami mats please
+
+1824
+00:52:17,030 --> 00:52:17,040
+
+ 
+
+1825
+00:52:17,040 --> 00:52:19,829
+
+shy guys
+
+1826
+00:52:19,829 --> 00:52:19,839
+shy guys
+ 
+
+1827
+00:52:19,839 --> 00:52:34,810
+shy guys
+okay [\h__\h] you then
+
+1828
+00:52:34,810 --> 00:52:34,820
+
+ 
+
+1829
+00:52:34,820 --> 00:52:36,549
+
+[Music]
+
+1830
+00:52:36,549 --> 00:52:36,559
+[Music]
+ 
+
+1831
+00:52:36,559 --> 00:52:39,109
+[Music]
+let me jump on the trees come on
+
+1832
+00:52:39,109 --> 00:52:39,119
+let me jump on the trees come on
+ 
+
+1833
+00:52:39,119 --> 00:52:40,549
+let me jump on the trees come on
+where is the finish down it's like on
+
+1834
+00:52:40,549 --> 00:52:40,559
+where is the finish down it's like on
+ 
+
+1835
+00:52:40,559 --> 00:52:41,910
+where is the finish down it's like on
+the roof yeah it's like it's like the
+
+1836
+00:52:41,910 --> 00:52:41,920
+the roof yeah it's like it's like the
+ 
+
+1837
+00:52:41,920 --> 00:52:43,190
+the roof yeah it's like it's like the
+edge of the
+
+1838
+00:52:43,190 --> 00:52:43,200
+edge of the
+ 
+
+1839
+00:52:43,200 --> 00:52:44,549
+edge of the
+it's weird
+
+1840
+00:52:44,549 --> 00:52:44,559
+it's weird
+ 
+
+1841
+00:52:44,559 --> 00:52:49,030
+it's weird
+oh that
+
+1842
+00:52:49,030 --> 00:52:49,040
+
+ 
+
+1843
+00:52:49,040 --> 00:52:51,030
+
+that was [\h__\h]
+
+1844
+00:52:51,030 --> 00:52:51,040
+that was [\h__\h]
+ 
+
+1845
+00:52:51,040 --> 00:52:52,790
+that was [\h__\h]
+you know how the [\h__\h] did you get one
+
+1846
+00:52:52,790 --> 00:52:52,800
+you know how the [\h__\h] did you get one
+ 
+
+1847
+00:52:52,800 --> 00:52:54,549
+you know how the [\h__\h] did you get one
+again
+
+1848
+00:52:54,549 --> 00:52:54,559
+again
+ 
+
+1849
+00:52:54,559 --> 00:53:04,030
+again
+how does she do it
+
+1850
+00:53:04,030 --> 00:53:04,040
+
+ 
+
+1851
+00:53:04,040 --> 00:53:12,870
+
+[Laughter]
+
+1852
+00:53:12,870 --> 00:53:12,880
+
+ 
+
+1853
+00:53:12,880 --> 00:53:17,829
+
+looks yummy
+
+1854
+00:53:17,829 --> 00:53:17,839
+
+ 
+
+1855
+00:53:17,839 --> 00:53:21,829
+
+anything's fine feeling cool
+
+1856
+00:53:21,829 --> 00:53:21,839
+
+ 
+
+1857
+00:53:21,839 --> 00:53:24,350
+
+and that was a popular one
+
+1858
+00:53:24,350 --> 00:53:24,360
+and that was a popular one
+ 
+
+1859
+00:53:24,360 --> 00:53:26,390
+and that was a popular one
+[Music]
+
+1860
+00:53:26,390 --> 00:53:26,400
+[Music]
+ 
+
+1861
+00:53:26,400 --> 00:53:28,470
+[Music]
+really good lemonade today it was like a
+
+1862
+00:53:28,470 --> 00:53:28,480
+really good lemonade today it was like a
+ 
+
+1863
+00:53:28,480 --> 00:53:30,950
+really good lemonade today it was like a
+coconut pineapple lemonade it was so
+
+1864
+00:53:30,950 --> 00:53:30,960
+coconut pineapple lemonade it was so
+ 
+
+1865
+00:53:30,960 --> 00:53:33,270
+coconut pineapple lemonade it was so
+good that does sound yummy it's
+
+1866
+00:53:33,270 --> 00:53:33,280
+good that does sound yummy it's
+ 
+
+1867
+00:53:33,280 --> 00:53:35,670
+good that does sound yummy it's
+expensive though
+
+1868
+00:53:35,670 --> 00:53:35,680
+expensive though
+ 
+
+1869
+00:53:35,680 --> 00:53:37,990
+expensive though
+that's those premium lemonades
+
+1870
+00:53:37,990 --> 00:53:38,000
+that's those premium lemonades
+ 
+
+1871
+00:53:38,000 --> 00:53:39,750
+that's those premium lemonades
+those fancy bottles
+
+1872
+00:53:39,750 --> 00:53:39,760
+those fancy bottles
+ 
+
+1873
+00:53:39,760 --> 00:53:41,670
+those fancy bottles
+i had an ice cream puffy today with
+
+1874
+00:53:41,670 --> 00:53:41,680
+i had an ice cream puffy today with
+ 
+
+1875
+00:53:41,680 --> 00:53:43,430
+i had an ice cream puffy today with
+strawberries
+
+1876
+00:53:43,430 --> 00:53:43,440
+strawberries
+ 
+
+1877
+00:53:43,440 --> 00:53:45,349
+strawberries
+oh i love you
+
+1878
+00:53:45,349 --> 00:53:45,359
+oh i love you
+ 
+
+1879
+00:53:45,359 --> 00:53:48,470
+oh i love you
+this time i was not
+
+1880
+00:53:48,470 --> 00:53:48,480
+this time i was not
+ 
+
+1881
+00:53:48,480 --> 00:53:51,750
+this time i was not
+terrorized by a bee actually was a wasp
+
+1882
+00:53:51,750 --> 00:53:51,760
+terrorized by a bee actually was a wasp
+ 
+
+1883
+00:53:51,760 --> 00:53:53,750
+terrorized by a bee actually was a wasp
+last time
+
+1884
+00:53:53,750 --> 00:53:53,760
+last time
+ 
+
+1885
+00:53:53,760 --> 00:53:55,349
+last time
+i like how you were like oh it's a bee
+
+1886
+00:53:55,349 --> 00:53:55,359
+i like how you were like oh it's a bee
+ 
+
+1887
+00:53:55,359 --> 00:53:57,109
+i like how you were like oh it's a bee
+but then someone's like uh i don't think
+
+1888
+00:53:57,109 --> 00:53:57,119
+but then someone's like uh i don't think
+ 
+
+1889
+00:53:57,119 --> 00:53:58,470
+but then someone's like uh i don't think
+that's something
+
+1890
+00:53:58,470 --> 00:53:58,480
+that's something
+ 
+
+1891
+00:53:58,480 --> 00:54:00,470
+that's something
+everybody oh my god like ninety percent
+
+1892
+00:54:00,470 --> 00:54:00,480
+everybody oh my god like ninety percent
+ 
+
+1893
+00:54:00,480 --> 00:54:03,030
+everybody oh my god like ninety percent
+of the replies to that tweet were um
+
+1894
+00:54:03,030 --> 00:54:03,040
+of the replies to that tweet were um
+ 
+
+1895
+00:54:03,040 --> 00:54:05,510
+of the replies to that tweet were um
+i think that's a wasp
+
+1896
+00:54:05,510 --> 00:54:05,520
+i think that's a wasp
+ 
+
+1897
+00:54:05,520 --> 00:54:07,349
+i think that's a wasp
+don't you know what the bee looks like
+
+1898
+00:54:07,349 --> 00:54:07,359
+don't you know what the bee looks like
+ 
+
+1899
+00:54:07,359 --> 00:54:08,829
+don't you know what the bee looks like
+and what it was looks
+
+1900
+00:54:08,829 --> 00:54:08,839
+and what it was looks
+ 
+
+1901
+00:54:08,839 --> 00:54:13,829
+and what it was looks
+like well i don't apparently
+
+1902
+00:54:13,829 --> 00:54:13,839
+
+ 
+
+1903
+00:54:13,839 --> 00:54:16,950
+
+feel like stupid
+
+1904
+00:54:16,950 --> 00:54:16,960
+feel like stupid
+ 
+
+1905
+00:54:16,960 --> 00:54:21,109
+feel like stupid
+okay now i know now i know
+
+1906
+00:54:21,109 --> 00:54:21,119
+
+ 
+
+1907
+00:54:21,119 --> 00:54:26,880
+
+like me too much
+
+1908
+00:54:26,880 --> 00:54:26,890
+
+ 
+
+1909
+00:54:26,890 --> 00:54:37,430
+
+[Laughter]
+
+1910
+00:54:37,430 --> 00:54:37,440
+
+ 
+
+1911
+00:54:37,440 --> 00:54:40,230
+
+uh small ammo did a good job at crx oh
+
+1912
+00:54:40,230 --> 00:54:40,240
+uh small ammo did a good job at crx oh
+ 
+
+1913
+00:54:40,240 --> 00:54:41,829
+uh small ammo did a good job at crx oh
+yeah
+
+1914
+00:54:41,829 --> 00:54:41,839
+yeah
+ 
+
+1915
+00:54:41,839 --> 00:54:46,069
+yeah
+yeah those dance moves are legit
+
+1916
+00:54:46,069 --> 00:54:46,079
+yeah those dance moves are legit
+ 
+
+1917
+00:54:46,079 --> 00:54:48,870
+yeah those dance moves are legit
+she's so cute man i saw a photo of her
+
+1918
+00:54:48,870 --> 00:54:48,880
+she's so cute man i saw a photo of her
+ 
+
+1919
+00:54:48,880 --> 00:54:50,309
+she's so cute man i saw a photo of her
+being beheaded though
+
+1920
+00:54:50,309 --> 00:54:50,319
+being beheaded though
+ 
+
+1921
+00:54:50,319 --> 00:54:53,190
+being beheaded though
+oh
+
+1922
+00:54:53,190 --> 00:54:53,200
+oh
+ 
+
+1923
+00:54:53,200 --> 00:54:54,470
+oh
+um
+
+1924
+00:54:54,470 --> 00:54:54,480
+um
+ 
+
+1925
+00:54:54,480 --> 00:54:56,470
+um
+what happened there
+
+1926
+00:54:56,470 --> 00:54:56,480
+what happened there
+ 
+
+1927
+00:54:56,480 --> 00:54:58,870
+what happened there
+wow
+
+1928
+00:54:58,870 --> 00:54:58,880
+
+ 
+
+1929
+00:54:58,880 --> 00:55:00,630
+
+i think uh
+
+1930
+00:55:00,630 --> 00:55:00,640
+i think uh
+ 
+
+1931
+00:55:00,640 --> 00:55:03,349
+i think uh
+oh yeah
+
+1932
+00:55:03,349 --> 00:55:03,359
+
+ 
+
+1933
+00:55:03,359 --> 00:55:04,870
+
+i think she was just taking a break you
+
+1934
+00:55:04,870 --> 00:55:04,880
+i think she was just taking a break you
+ 
+
+1935
+00:55:04,880 --> 00:55:07,990
+i think she was just taking a break you
+know oh so that's how
+
+1936
+00:55:07,990 --> 00:55:08,000
+know oh so that's how
+ 
+
+1937
+00:55:08,000 --> 00:55:09,750
+know oh so that's how
+that's how she takes a break yeah she's
+
+1938
+00:55:09,750 --> 00:55:09,760
+that's how she takes a break yeah she's
+ 
+
+1939
+00:55:09,760 --> 00:55:12,470
+that's how she takes a break yeah she's
+like a lego man where you could take the
+
+1940
+00:55:12,470 --> 00:55:12,480
+like a lego man where you could take the
+ 
+
+1941
+00:55:12,480 --> 00:55:13,670
+like a lego man where you could take the
+yeah yeah
+
+1942
+00:55:13,670 --> 00:55:13,680
+yeah yeah
+ 
+
+1943
+00:55:13,680 --> 00:55:15,910
+yeah yeah
+damn i didn't know that does that mean
+
+1944
+00:55:15,910 --> 00:55:15,920
+damn i didn't know that does that mean
+ 
+
+1945
+00:55:15,920 --> 00:55:17,829
+damn i didn't know that does that mean
+that she was having a headache
+
+1946
+00:55:17,829 --> 00:55:17,839
+that she was having a headache
+ 
+
+1947
+00:55:17,839 --> 00:55:22,069
+that she was having a headache
+and so on works like that too
+
+1948
+00:55:22,069 --> 00:55:22,079
+
+ 
+
+1949
+00:55:22,079 --> 00:55:23,910
+
+oh this is a different version
+
+1950
+00:55:23,910 --> 00:55:23,920
+oh this is a different version
+ 
+
+1951
+00:55:23,920 --> 00:55:26,630
+oh this is a different version
+so oh probably not what the [\h__\h] this
+
+1952
+00:55:26,630 --> 00:55:26,640
+so oh probably not what the [\h__\h] this
+ 
+
+1953
+00:55:26,640 --> 00:55:28,069
+so oh probably not what the [\h__\h] this
+guy's just doing donuts in the middle of
+
+1954
+00:55:28,069 --> 00:55:28,079
+guy's just doing donuts in the middle of
+ 
+
+1955
+00:55:28,079 --> 00:55:30,870
+guy's just doing donuts in the middle of
+the road
+
+1956
+00:55:30,870 --> 00:55:30,880
+
+ 
+
+1957
+00:55:30,880 --> 00:55:34,630
+
+did you see the cafe food though yeah oh
+
+1958
+00:55:34,630 --> 00:55:34,640
+did you see the cafe food though yeah oh
+ 
+
+1959
+00:55:34,640 --> 00:55:36,069
+did you see the cafe food though yeah oh
+i didn't see the food itself but i saw
+
+1960
+00:55:36,069 --> 00:55:36,079
+i didn't see the food itself but i saw
+ 
+
+1961
+00:55:36,079 --> 00:55:37,349
+i didn't see the food itself but i saw
+the menu
+
+1962
+00:55:37,349 --> 00:55:37,359
+the menu
+ 
+
+1963
+00:55:37,359 --> 00:55:39,349
+the menu
+yeah well the track family was really
+
+1964
+00:55:39,349 --> 00:55:39,359
+yeah well the track family was really
+ 
+
+1965
+00:55:39,359 --> 00:55:40,150
+yeah well the track family was really
+good
+
+1966
+00:55:40,150 --> 00:55:40,160
+good
+ 
+
+1967
+00:55:40,160 --> 00:55:41,910
+good
+i think it's funny you became like an
+
+1968
+00:55:41,910 --> 00:55:41,920
+i think it's funny you became like an
+ 
+
+1969
+00:55:41,920 --> 00:55:44,430
+i think it's funny you became like an
+actual fast food manager yeah yeah
+
+1970
+00:55:44,430 --> 00:55:44,440
+actual fast food manager yeah yeah
+ 
+
+1971
+00:55:44,440 --> 00:55:46,150
+actual fast food manager yeah yeah
+[Music]
+
+1972
+00:55:46,150 --> 00:55:46,160
+[Music]
+ 
+
+1973
+00:55:46,160 --> 00:55:48,309
+[Music]
+finally man i've been waiting for that
+
+1974
+00:55:48,309 --> 00:55:48,319
+finally man i've been waiting for that
+ 
+
+1975
+00:55:48,319 --> 00:55:50,150
+finally man i've been waiting for that
+for so long
+
+1976
+00:55:50,150 --> 00:55:50,160
+for so long
+ 
+
+1977
+00:55:50,160 --> 00:55:53,190
+for so long
+oh why did it change now
+
+1978
+00:55:53,190 --> 00:55:53,200
+oh why did it change now
+ 
+
+1979
+00:55:53,200 --> 00:55:55,910
+oh why did it change now
+and at the same time like in
+
+1980
+00:55:55,910 --> 00:55:55,920
+and at the same time like in
+ 
+
+1981
+00:55:55,920 --> 00:55:58,309
+and at the same time like in
+korea there's this this adiplus
+
+1982
+00:55:58,309 --> 00:55:58,319
+korea there's this this adiplus
+ 
+
+1983
+00:55:58,319 --> 00:56:00,150
+korea there's this this adiplus
+collaboration too right and right now
+
+1984
+00:56:00,150 --> 00:56:00,160
+collaboration too right and right now
+ 
+
+1985
+00:56:00,160 --> 00:56:02,549
+collaboration too right and right now
+they're also selling my curry my
+
+1986
+00:56:02,549 --> 00:56:02,559
+they're also selling my curry my
+ 
+
+1987
+00:56:02,559 --> 00:56:06,150
+they're also selling my curry my
+chihuahua curry with fr uh with kadage
+
+1988
+00:56:06,150 --> 00:56:06,160
+chihuahua curry with fr uh with kadage
+ 
+
+1989
+00:56:06,160 --> 00:56:07,750
+chihuahua curry with fr uh with kadage
+chicken on top so there's a lot of
+
+1990
+00:56:07,750 --> 00:56:07,760
+chicken on top so there's a lot of
+ 
+
+1991
+00:56:07,760 --> 00:56:09,910
+chicken on top so there's a lot of
+caffeine food right now in this world
+
+1992
+00:56:09,910 --> 00:56:09,920
+caffeine food right now in this world
+ 
+
+1993
+00:56:09,920 --> 00:56:17,640
+caffeine food right now in this world
+and it makes me really happy
+
+1994
+00:56:17,640 --> 00:56:17,650
+
+ 
+
+1995
+00:56:17,650 --> 00:56:23,670
+
+[Music]
+
+1996
+00:56:23,670 --> 00:56:23,680
+
+ 
+
+1997
+00:56:23,680 --> 00:56:26,390
+
+wow
+
+1998
+00:56:26,390 --> 00:56:26,400
+
+ 
+
+1999
+00:56:26,400 --> 00:56:28,870
+
+wow really really i really use a donut
+
+2000
+00:56:28,870 --> 00:56:28,880
+wow really really i really use a donut
+ 
+
+2001
+00:56:28,880 --> 00:56:32,309
+wow really really i really use a donut
+honestly i should have gotten some
+
+2002
+00:56:32,309 --> 00:56:32,319
+honestly i should have gotten some
+ 
+
+2003
+00:56:32,319 --> 00:56:36,069
+honestly i should have gotten some
+donuts
+
+2004
+00:56:36,069 --> 00:56:36,079
+
+ 
+
+2005
+00:56:36,079 --> 00:56:37,670
+
+donuts
+
+2006
+00:56:37,670 --> 00:56:37,680
+donuts
+ 
+
+2007
+00:56:37,680 --> 00:56:40,150
+donuts
+why donut why do not because the car was
+
+2008
+00:56:40,150 --> 00:56:40,160
+why donut why do not because the car was
+ 
+
+2009
+00:56:40,160 --> 00:56:42,789
+why donut why do not because the car was
+doing a donut
+
+2010
+00:56:42,789 --> 00:56:42,799
+doing a donut
+ 
+
+2011
+00:56:42,799 --> 00:56:46,390
+doing a donut
+yeah a car when a car does a circle like
+
+2012
+00:56:46,390 --> 00:56:46,400
+yeah a car when a car does a circle like
+ 
+
+2013
+00:56:46,400 --> 00:56:48,150
+yeah a car when a car does a circle like
+it's called
+
+2014
+00:56:48,150 --> 00:56:48,160
+it's called
+ 
+
+2015
+00:56:48,160 --> 00:56:48,950
+it's called
+ah
+
+2016
+00:56:48,950 --> 00:56:48,960
+ah
+ 
+
+2017
+00:56:48,960 --> 00:56:51,430
+ah
+what you call that a donut what yeah
+
+2018
+00:56:51,430 --> 00:56:51,440
+what you call that a donut what yeah
+ 
+
+2019
+00:56:51,440 --> 00:56:53,589
+what you call that a donut what yeah
+cause if you look from the from the top
+
+2020
+00:56:53,589 --> 00:56:53,599
+cause if you look from the from the top
+ 
+
+2021
+00:56:53,599 --> 00:56:55,430
+cause if you look from the from the top
+tire marks they're kind of like
+
+2022
+00:56:55,430 --> 00:56:55,440
+tire marks they're kind of like
+ 
+
+2023
+00:56:55,440 --> 00:56:58,470
+tire marks they're kind of like
+yeah
+
+2024
+00:56:58,470 --> 00:56:58,480
+
+ 
+
+2025
+00:56:58,480 --> 00:56:59,990
+
+leaves behind and then usually like if
+
+2026
+00:56:59,990 --> 00:57:00,000
+leaves behind and then usually like if
+ 
+
+2027
+00:57:00,000 --> 00:57:01,430
+leaves behind and then usually like if
+somebody's doing that you'd say you'd
+
+2028
+00:57:01,430 --> 00:57:01,440
+somebody's doing that you'd say you'd
+ 
+
+2029
+00:57:01,440 --> 00:57:02,710
+somebody's doing that you'd say you'd
+use it in a sentence like somebody's
+
+2030
+00:57:02,710 --> 00:57:02,720
+use it in a sentence like somebody's
+ 
+
+2031
+00:57:02,720 --> 00:57:04,549
+use it in a sentence like somebody's
+doing doughnuts in the parking lot yeah
+
+2032
+00:57:04,549 --> 00:57:04,559
+doing doughnuts in the parking lot yeah
+ 
+
+2033
+00:57:04,559 --> 00:57:05,910
+doing doughnuts in the parking lot yeah
+if you don't get it i'm not worried
+
+2034
+00:57:05,910 --> 00:57:05,920
+if you don't get it i'm not worried
+ 
+
+2035
+00:57:05,920 --> 00:57:06,950
+if you don't get it i'm not worried
+about it
+
+2036
+00:57:06,950 --> 00:57:06,960
+about it
+ 
+
+2037
+00:57:06,960 --> 00:57:08,630
+about it
+it sounds way too cute to describe
+
+2038
+00:57:08,630 --> 00:57:08,640
+it sounds way too cute to describe
+ 
+
+2039
+00:57:08,640 --> 00:57:11,990
+it sounds way too cute to describe
+something so bad
+
+2040
+00:57:11,990 --> 00:57:12,000
+something so bad
+ 
+
+2041
+00:57:12,000 --> 00:57:16,390
+something so bad
+a better word forget it
+
+2042
+00:57:16,390 --> 00:57:16,400
+
+ 
+
+2043
+00:57:16,400 --> 00:57:19,109
+
+and whatever whatever you want
+
+2044
+00:57:19,109 --> 00:57:19,119
+and whatever whatever you want
+ 
+
+2045
+00:57:19,119 --> 00:57:21,190
+and whatever whatever you want
+whatever you want
+
+2046
+00:57:21,190 --> 00:57:21,200
+whatever you want
+ 
+
+2047
+00:57:21,200 --> 00:57:23,510
+whatever you want
+not random because you could pick a old
+
+2048
+00:57:23,510 --> 00:57:23,520
+not random because you could pick a old
+ 
+
+2049
+00:57:23,520 --> 00:57:24,710
+not random because you could pick a old
+one
+
+2050
+00:57:24,710 --> 00:57:24,720
+one
+ 
+
+2051
+00:57:24,720 --> 00:57:32,760
+one
+oh
+
+2052
+00:57:32,760 --> 00:57:32,770
+
+ 
+
+2053
+00:57:32,770 --> 00:57:39,589
+
+[Music]
+
+2054
+00:57:39,589 --> 00:57:39,599
+
+ 
+
+2055
+00:57:39,599 --> 00:57:40,950
+
+oh yeah
+
+2056
+00:57:40,950 --> 00:57:40,960
+oh yeah
+ 
+
+2057
+00:57:40,960 --> 00:57:42,069
+oh yeah
+ahmed
+
+2058
+00:57:42,069 --> 00:57:42,079
+ahmed
+ 
+
+2059
+00:57:42,079 --> 00:57:44,789
+ahmed
+oh
+
+2060
+00:57:44,789 --> 00:57:44,799
+
+ 
+
+2061
+00:57:44,799 --> 00:57:47,030
+
+really liked your bag in hollow bags
+
+2062
+00:57:47,030 --> 00:57:47,040
+really liked your bag in hollow bags
+ 
+
+2063
+00:57:47,040 --> 00:57:48,230
+really liked your bag in hollow bags
+reviews
+
+2064
+00:57:48,230 --> 00:57:48,240
+reviews
+ 
+
+2065
+00:57:48,240 --> 00:57:51,430
+reviews
+oh yes
+
+2066
+00:57:51,430 --> 00:57:51,440
+
+ 
+
+2067
+00:57:51,440 --> 00:57:53,349
+
+so funny because it stood out so much
+
+2068
+00:57:53,349 --> 00:57:53,359
+so funny because it stood out so much
+ 
+
+2069
+00:57:53,359 --> 00:57:55,109
+so funny because it stood out so much
+and everybody said oh that was really
+
+2070
+00:57:55,109 --> 00:57:55,119
+and everybody said oh that was really
+ 
+
+2071
+00:57:55,119 --> 00:57:59,460
+and everybody said oh that was really
+like i mean like it had personality
+
+2072
+00:57:59,460 --> 00:57:59,470
+
+ 
+
+2073
+00:57:59,470 --> 00:58:02,230
+
+[Music]
+
+2074
+00:58:02,230 --> 00:58:02,240
+[Music]
+ 
+
+2075
+00:58:02,240 --> 00:58:04,309
+[Music]
+but i think it was a compliment
+
+2076
+00:58:04,309 --> 00:58:04,319
+but i think it was a compliment
+ 
+
+2077
+00:58:04,319 --> 00:58:06,630
+but i think it was a compliment
+yeah you know the whole nuts but but the
+
+2078
+00:58:06,630 --> 00:58:06,640
+yeah you know the whole nuts but but the
+ 
+
+2079
+00:58:06,640 --> 00:58:09,829
+yeah you know the whole nuts but but the
+question was uh what movie did you watch
+
+2080
+00:58:09,829 --> 00:58:09,839
+question was uh what movie did you watch
+ 
+
+2081
+00:58:09,839 --> 00:58:11,190
+question was uh what movie did you watch
+with the freddie
+
+2082
+00:58:11,190 --> 00:58:11,200
+with the freddie
+ 
+
+2083
+00:58:11,200 --> 00:58:14,549
+with the freddie
+the goggles oh it's for um
+
+2084
+00:58:14,549 --> 00:58:14,559
+the goggles oh it's for um
+ 
+
+2085
+00:58:14,559 --> 00:58:17,109
+the goggles oh it's for um
+it was like uh around christmas time and
+
+2086
+00:58:17,109 --> 00:58:17,119
+it was like uh around christmas time and
+ 
+
+2087
+00:58:17,119 --> 00:58:19,589
+it was like uh around christmas time and
+i went to that the the people that pick
+
+2088
+00:58:19,589 --> 00:58:19,599
+i went to that the the people that pick
+ 
+
+2089
+00:58:19,599 --> 00:58:21,670
+i went to that the the people that pick
+up their legs really high
+
+2090
+00:58:21,670 --> 00:58:21,680
+up their legs really high
+ 
+
+2091
+00:58:21,680 --> 00:58:23,109
+up their legs really high
+what
+
+2092
+00:58:23,109 --> 00:58:23,119
+what
+ 
+
+2093
+00:58:23,119 --> 00:58:24,720
+what
+belay
+
+2094
+00:58:24,720 --> 00:58:24,730
+belay
+ 
+
+2095
+00:58:24,730 --> 00:58:27,670
+belay
+[Music]
+
+2096
+00:58:27,670 --> 00:58:27,680
+[Music]
+ 
+
+2097
+00:58:27,680 --> 00:58:30,309
+[Music]
+what do you call that the rockets
+
+2098
+00:58:30,309 --> 00:58:30,319
+what do you call that the rockets
+ 
+
+2099
+00:58:30,319 --> 00:58:31,190
+what do you call that the rockets
+oh
+
+2100
+00:58:31,190 --> 00:58:31,200
+oh
+ 
+
+2101
+00:58:31,200 --> 00:58:39,910
+oh
+yeah they headed through these yeah
+
+2102
+00:58:39,910 --> 00:58:39,920
+
+ 
+
+2103
+00:58:39,920 --> 00:58:41,589
+
+yeah it's real people but they had like
+
+2104
+00:58:41,589 --> 00:58:41,599
+yeah it's real people but they had like
+ 
+
+2105
+00:58:41,599 --> 00:58:43,349
+yeah it's real people but they had like
+a little 3d it was really dumb it was
+
+2106
+00:58:43,349 --> 00:58:43,359
+a little 3d it was really dumb it was
+ 
+
+2107
+00:58:43,359 --> 00:58:44,630
+a little 3d it was really dumb it was
+really lame
+
+2108
+00:58:44,630 --> 00:58:44,640
+really lame
+ 
+
+2109
+00:58:44,640 --> 00:58:46,390
+really lame
+it was like it was like the intro for
+
+2110
+00:58:46,390 --> 00:58:46,400
+it was like it was like the intro for
+ 
+
+2111
+00:58:46,400 --> 00:58:48,950
+it was like it was like the intro for
+santa claus and santa was in 3d and then
+
+2112
+00:58:48,950 --> 00:58:48,960
+santa claus and santa was in 3d and then
+ 
+
+2113
+00:58:48,960 --> 00:58:55,410
+santa claus and santa was in 3d and then
+he appeared for santa claus
+
+2114
+00:58:55,410 --> 00:58:55,420
+
+ 
+
+2115
+00:58:55,420 --> 00:58:58,710
+
+[Music]
+
+2116
+00:58:58,710 --> 00:58:58,720
+[Music]
+ 
+
+2117
+00:58:58,720 --> 00:59:00,870
+[Music]
+that's
+
+2118
+00:59:00,870 --> 00:59:00,880
+that's
+ 
+
+2119
+00:59:00,880 --> 00:59:01,829
+that's
+nice
+
+2120
+00:59:01,829 --> 00:59:01,839
+nice
+ 
+
+2121
+00:59:01,839 --> 00:59:04,390
+nice
+and inna's back was so clean and
+
+2122
+00:59:04,390 --> 00:59:04,400
+and inna's back was so clean and
+ 
+
+2123
+00:59:04,400 --> 00:59:06,549
+and inna's back was so clean and
+obvious oh yeah i didn't even have to
+
+2124
+00:59:06,549 --> 00:59:06,559
+obvious oh yeah i didn't even have to
+ 
+
+2125
+00:59:06,559 --> 00:59:09,990
+obvious oh yeah i didn't even have to
+blur it like it was so obviously ina i
+
+2126
+00:59:09,990 --> 00:59:10,000
+blur it like it was so obviously ina i
+ 
+
+2127
+00:59:10,000 --> 00:59:12,069
+blur it like it was so obviously ina i
+tried to you know make people think oh
+
+2128
+00:59:12,069 --> 00:59:12,079
+tried to you know make people think oh
+ 
+
+2129
+00:59:12,079 --> 00:59:13,990
+tried to you know make people think oh
+maybe it's eop maybe it's i don't know
+
+2130
+00:59:13,990 --> 00:59:14,000
+maybe it's eop maybe it's i don't know
+ 
+
+2131
+00:59:14,000 --> 00:59:30,950
+maybe it's eop maybe it's i don't know
+marine or whoever draws
+
+2132
+00:59:30,950 --> 00:59:30,960
+
+ 
+
+2133
+00:59:30,960 --> 00:59:32,549
+
+didn't have it with her when she was
+
+2134
+00:59:32,549 --> 00:59:32,559
+didn't have it with her when she was
+ 
+
+2135
+00:59:32,559 --> 00:59:34,150
+didn't have it with her when she was
+with us she had her
+
+2136
+00:59:34,150 --> 00:59:34,160
+with us she had her
+ 
+
+2137
+00:59:34,160 --> 00:59:36,549
+with us she had her
+her ipad for drawing yeah because i
+
+2138
+00:59:36,549 --> 00:59:36,559
+her ipad for drawing yeah because i
+ 
+
+2139
+00:59:36,559 --> 00:59:38,670
+her ipad for drawing yeah because i
+traveled like her last one
+
+2140
+00:59:38,670 --> 00:59:38,680
+traveled like her last one
+ 
+
+2141
+00:59:38,680 --> 00:59:41,349
+traveled like her last one
+[Music]
+
+2142
+00:59:41,349 --> 00:59:41,359
+[Music]
+ 
+
+2143
+00:59:41,359 --> 00:59:47,610
+[Music]
+oh my god
+
+2144
+00:59:47,610 --> 00:59:47,620
+
+ 
+
+2145
+00:59:47,620 --> 00:59:52,789
+
+[Music]
+
+2146
+00:59:52,789 --> 00:59:52,799
+
+ 
+
+2147
+00:59:52,799 --> 00:59:57,030
+
+oh that wasn't even you ah
+
+2148
+00:59:57,030 --> 00:59:57,040
+
+ 
+
+2149
+00:59:57,040 --> 01:00:00,170
+
+i want to pull it
+
+2150
+01:00:00,170 --> 01:00:00,180
+i want to pull it
+ 
+
+2151
+01:00:00,180 --> 01:00:02,580
+i want to pull it
+[Music]
+
+2152
+01:00:02,580 --> 01:00:02,590
+[Music]
+ 
+
+2153
+01:00:02,590 --> 01:00:04,950
+[Music]
+[Applause]
+
+2154
+01:00:04,950 --> 01:00:04,960
+[Applause]
+ 
+
+2155
+01:00:04,960 --> 01:00:10,430
+[Applause]
+come on give me something good
+
+2156
+01:00:10,430 --> 01:00:10,440
+
+ 
+
+2157
+01:00:10,440 --> 01:00:26,390
+
+[Music]
+
+2158
+01:00:26,390 --> 01:00:26,400
+
+ 
+
+2159
+01:00:26,400 --> 01:00:28,410
+
+[\h__\h] help
+
+2160
+01:00:28,410 --> 01:00:28,420
+[\h__\h] help
+ 
+
+2161
+01:00:28,420 --> 01:00:31,230
+[\h__\h] help
+[Laughter]
+
+2162
+01:00:31,230 --> 01:00:31,240
+[Laughter]
+ 
+
+2163
+01:00:31,240 --> 01:00:32,789
+[Laughter]
+[Music]
+
+2164
+01:00:32,789 --> 01:00:32,799
+[Music]
+ 
+
+2165
+01:00:32,799 --> 01:00:36,789
+[Music]
+you did well
+
+2166
+01:00:36,789 --> 01:00:36,799
+
+ 
+
+2167
+01:00:36,799 --> 01:00:39,109
+
+in my heart i'm first
+
+2168
+01:00:39,109 --> 01:00:39,119
+in my heart i'm first
+ 
+
+2169
+01:00:39,119 --> 01:00:41,190
+in my heart i'm first
+weren't you like in fifth place until
+
+2170
+01:00:41,190 --> 01:00:41,200
+weren't you like in fifth place until
+ 
+
+2171
+01:00:41,200 --> 01:00:43,510
+weren't you like in fifth place until
+like right before the end what the hell
+
+2172
+01:00:43,510 --> 01:00:43,520
+like right before the end what the hell
+ 
+
+2173
+01:00:43,520 --> 01:00:48,069
+like right before the end what the hell
+i had triple mushrooms and i uh i zoomed
+
+2174
+01:00:48,069 --> 01:00:48,079
+i had triple mushrooms and i uh i zoomed
+ 
+
+2175
+01:00:48,079 --> 01:00:51,430
+i had triple mushrooms and i uh i zoomed
+in
+
+2176
+01:00:51,430 --> 01:00:51,440
+
+ 
+
+2177
+01:00:51,440 --> 01:00:53,430
+
+oh we're at the one hour mark yeah i
+
+2178
+01:00:53,430 --> 01:00:53,440
+oh we're at the one hour mark yeah i
+ 
+
+2179
+01:00:53,440 --> 01:01:00,069
+oh we're at the one hour mark yeah i
+gotta go home tomorrow
+
+2180
+01:01:00,069 --> 01:01:00,079
+
+ 
+
+2181
+01:01:00,079 --> 01:01:02,549
+
+thank you guys for playing
+
+2182
+01:01:02,549 --> 01:01:02,559
+thank you guys for playing
+ 
+
+2183
+01:01:02,559 --> 01:01:04,870
+thank you guys for playing
+thank you thank you
+
+2184
+01:01:04,870 --> 01:01:04,880
+thank you thank you
+ 
+
+2185
+01:01:04,880 --> 01:01:06,870
+thank you thank you
+good luck playing with the viewers don't
+
+2186
+01:01:06,870 --> 01:01:06,880
+good luck playing with the viewers don't
+ 
+
+2187
+01:01:06,880 --> 01:01:16,390
+good luck playing with the viewers don't
+bully them too much
+
+2188
+01:01:16,390 --> 01:01:16,400
+
+ 
+
+2189
+01:01:16,400 --> 01:01:18,789
+
+thanks for watching chat go check out uh
+
+2190
+01:01:18,789 --> 01:01:18,799
+thanks for watching chat go check out uh
+ 
+
+2191
+01:01:18,799 --> 01:01:20,309
+thanks for watching chat go check out uh
+kia who's streaming
+
+2192
+01:01:20,309 --> 01:01:20,319
+kia who's streaming
+ 
+
+2193
+01:01:20,319 --> 01:01:24,069
+kia who's streaming
+amazing i'm the only one now okay
+
+2194
+01:01:24,069 --> 01:01:24,079
+amazing i'm the only one now okay
+ 
+
+2195
+01:01:24,079 --> 01:01:26,950
+amazing i'm the only one now okay
+i will gladly adopt everybody come here
+
+2196
+01:01:26,950 --> 01:01:26,960
+i will gladly adopt everybody come here
+ 
+
+2197
+01:01:26,960 --> 01:01:28,950
+i will gladly adopt everybody come here
+yeah take care i'll see you guys next
+
+2198
+01:01:28,950 --> 01:01:28,960
+yeah take care i'll see you guys next
+ 
+
+2199
+01:01:28,960 --> 01:01:30,390
+yeah take care i'll see you guys next
+week bye-bye
+
+2200
+01:01:30,390 --> 01:01:30,400
+week bye-bye
+ 
+
+2201
+01:01:30,400 --> 01:01:32,069
+week bye-bye
+bye
+
+2202
+01:01:32,069 --> 01:01:32,079
+bye
+ 
+
+2203
+01:01:32,079 --> 01:01:33,990
+bye
+good luck
+
+2204
+01:01:33,990 --> 01:01:34,000
+good luck
+ 
+
+2205
+01:01:34,000 --> 01:01:37,510
+good luck
+won't get splinters
+
+2206
+01:01:37,510 --> 01:01:37,520
+
+ 
+
+2207
+01:01:37,520 --> 01:01:39,270
+
+oh wait i can still be in here while i
+
+2208
+01:01:39,270 --> 01:01:39,280
+oh wait i can still be in here while i
+ 
+
+2209
+01:01:39,280 --> 01:01:42,789
+oh wait i can still be in here while i
+end the stream
+
+2210
+01:01:42,789 --> 01:01:42,799
+
+ 
+
+2211
+01:01:42,799 --> 01:02:23,750
+
+wait let me let me
+
+2212
+01:02:23,750 --> 01:02:23,760
+
+ 
+
+2213
+01:02:23,760 --> 01:02:25,990
+
+i can't i'm gonna send you to kiara's
+
+2214
+01:02:25,990 --> 01:02:26,000
+i can't i'm gonna send you to kiara's
+ 
+
+2215
+01:02:26,000 --> 01:02:28,390
+i can't i'm gonna send you to kiara's
+chat now
+
+2216
+01:02:28,390 --> 01:02:28,400
+chat now
+ 
+
+2217
+01:02:28,400 --> 01:02:29,750
+chat now
+see you guys
+
+2218
+01:02:29,750 --> 01:02:29,760
+see you guys
+ 
+
+2219
+01:02:29,760 --> 01:02:33,799
+see you guys
+next time bye
+

@@ -1,0 +1,157 @@
+1
+00:00:00,918 --> 00:00:03,821
+​​<i>​ ​A phoenix has countless lives.​ ​</i>​
+
+2
+00:00:04,989 --> 00:00:05,089
+​​<i>​ ​​​ ​</i>​
+
+3
+00:00:05,422 --> 00:00:07,992
+​​<i>​ ​Sometimes, a symbol of hope.​ ​</i>​
+
+4
+00:00:09,460 --> 00:00:12,629
+​​<i>​ ​Sometimes, a portent of prosperity.​ ​</i>​
+
+5
+00:00:14,064 --> 00:00:17,468
+​​<i>​ ​Sometimes, an avatar of rebirth.​ ​</i>​
+
+6
+00:00:19,036 --> 00:00:22,706
+​​<i>​ ​For eons, I've used​ ​</i>​
+​<i>​ ​my power to help people.​ ​</i>​
+
+7
+00:00:22,706 --> 00:00:24,908
+​​<i>​ ​There's not a problem I can't solve!​ ​</i>​
+
+8
+00:00:24,908 --> 00:00:26,377
+​​<i>​ ​Or so I thought...​ ​</i>​
+
+9
+00:00:26,377 --> 00:00:27,444
+​​<i>​ ​It all started one day,​ ​</i>​
+
+10
+00:00:27,444 --> 00:00:30,347
+​​<i>​ ​when I decided to drop by​ ​</i>​
+​<i>​ ​my favorite fast food place​ ​</i>​
+
+11
+00:00:30,347 --> 00:00:32,516
+​​<i>​ ​for one of their delicious burgers.​ ​</i>​
+
+12
+00:00:32,516 --> 00:00:34,418
+​​<i>​ ​I found out that​ ​</i>​
+​<i>​ ​they were almost broke,​ ​</i>​
+
+13
+00:00:34,418 --> 00:00:37,321
+​​<i>​ ​and would have to close​ ​</i>​
+​<i>​ ​if they couldn't pay back their debts.​ ​</i>​
+
+14
+00:00:38,055 --> 00:00:40,524
+​​<i>​ ​Pfft, with my powers? No problem!​ ​</i>​
+
+15
+00:00:40,524 --> 00:00:43,093
+​​<i>​ ​We just gotta make​ ​</i>​
+​<i>​ ​this thing called... "profit," right?​ ​</i>​
+
+16
+00:00:43,093 --> 00:00:44,428
+​​<i>​ ​Should be a piece of cake...​ ​</i>​
+
+17
+00:00:44,428 --> 00:00:45,329
+​​<i>​ ​But it wasn't!​ ​</i>​
+
+18
+00:00:45,329 --> 00:00:47,865
+​​<i>​ ​Once I became a "part-timer,"​ ​</i>​
+​<i>​ ​my fate was sealed!​ ​</i>​
+
+19
+00:00:47,865 --> 00:00:50,067
+​​<i>​ ​It was work, work, and more work!​ ​</i>​
+
+20
+00:00:50,067 --> 00:00:53,404
+​​<i>​ ​I used to lead armies!​ ​</i>​
+​<i>​ ​Now I'm working for minimum wage?!​ ​</i>​
+
+21
+00:00:53,404 --> 00:00:55,139
+​​<i>​ ​Making money is hard...​ ​</i>​
+
+22
+00:00:55,139 --> 00:00:56,840
+​​<i>​ ​I can't just beat up bad guys.​ ​</i>​
+
+23
+00:00:56,840 --> 00:00:58,842
+​​<i>​ ​Instead, I gotta​ ​</i>​
+​<i>​ ​keep the restaurant clean,​ ​</i>​
+
+24
+00:00:58,842 --> 00:01:01,912
+​​<i>​ ​serve good food, and make​ ​</i>​
+​<i>​ ​customers want to come again.​ ​</i>​
+
+25
+00:01:02,346 --> 00:01:05,516
+​​<i>​ ​And keep doing it,​ ​</i>​
+​<i>​ ​day after day after day...​ ​</i>​
+
+26
+00:01:05,516 --> 00:01:09,820
+​​​ ​*pant* *pant* I'm gonna die!​ ​​
+​​ ​And I'm supposed to be immortal!​ ​​
+
+27
+00:01:09,820 --> 00:01:11,321
+​​<i>​ ​At the same time...​ ​</i>​
+
+28
+00:01:11,321 --> 00:01:12,923
+​​<i>​ ​it was also a lot of fun.​ ​</i>​
+
+29
+00:01:13,724 --> 00:01:15,626
+​​<i>​ ​I learned to do so many new things.​ ​</i>​
+
+30
+00:01:15,626 --> 00:01:18,529
+​​<i>​ ​I'm happy,​ ​</i>​
+​<i>​ ​and everyone else is happy, too.​ ​</i>​
+
+31
+00:01:18,529 --> 00:01:20,330
+​​<i>​ ​They all tell me how good the food is.​ ​</i>​
+
+32
+00:01:20,330 --> 00:01:21,365
+​​<i>​ ​Business is booming,​ ​</i>​
+
+33
+00:01:21,365 --> 00:01:22,766
+​​<i>​ ​and the debt's all repaid.​ ​</i>​
+
+34
+00:01:22,766 --> 00:01:27,037
+​​<i>​ ​In fact, even the debt collectors​ ​</i>​
+​<i>​ ​are now regular customers.​ ​</i>​
+
+35
+00:01:27,037 --> 00:01:29,306
+​​<i>​ ​The owner was overjoyed.​ ​</i>​
+
+36
+00:01:29,306 --> 00:01:31,375
+​​<i>​ ​I'd call that a happy ending.​ ​</i>​
+

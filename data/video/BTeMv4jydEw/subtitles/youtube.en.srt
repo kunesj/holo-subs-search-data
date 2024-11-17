@@ -1,0 +1,549 @@
+1
+00:00:00,818 --> 00:00:51,201
+​​​ ​1. hololive IDOL PROJECT​ ​​
+​​ ​Shiny Smily Story​ ​​
+
+2
+00:00:51,201 --> 00:01:37,981
+​​​ ​2. Shirakami Fubuki​ ​​
+​​ ​Say!Fanfare!​ ​​
+
+3
+00:01:31,408 --> 00:01:34,511
+​​​ ​hololive DJ Megamix​ ​​
+
+4
+00:01:35,112 --> 00:01:37,981
+​​​ ​Mixed by IOSYS TRAX​ ​​
+
+5
+00:01:37,981 --> 00:02:18,522
+​​​ ​3. Usada Pekora​ ​​
+​​ ​PEKORANDOMBRAIN​ ​​
+
+6
+00:02:18,522 --> 00:02:59,229
+​​​ ​4. Momosuzu Nene​ ​​
+​​ ​NENENENENENENENE!DAIBAKUSOU​ ​​
+
+7
+00:02:59,229 --> 00:03:39,036
+​​​ ​5. Shiranui Flare​ ​​
+​​ ​Smile & Go!!​ ​​
+
+8
+00:03:39,036 --> 00:04:02,926
+​​​ ​6. hololive IDOL PROJECT​ ​​
+​​ ​DAILY DIARY​ ​​
+
+9
+00:04:02,926 --> 00:04:25,382
+​​​ ​7. Ookami Mio​ ​​
+​​ ​Bowwow Ahwoooooo​ ​​
+
+10
+00:04:25,382 --> 00:04:48,038
+​​​ ​8. Ookami Mio, Oozora Subaru, Nekomata Okayu​ ​​
+​​ ​SASHIMIO feat. SubaOka​ ​​
+
+11
+00:04:48,038 --> 00:05:17,467
+​​​ ​9. Omaru Polka​ ​​
+​​ ​Po​ ​​
+
+12
+00:05:17,467 --> 00:05:59,876
+​​​ ​10. Houshou Marine​ ​​
+​​ ​Ahoy!! We are Houshou Pirates​ ​​
+
+13
+00:05:59,876 --> 00:06:30,607
+​​​ ​11. UMISEA​ ​​
+​​ ​Domination! All the World Is an Ocean​ ​​
+
+14
+00:06:30,607 --> 00:06:59,770
+​​​ ​12. Oozora Subaru​ ​​
+​​ ​Pleiades!​ ​​
+
+15
+00:06:59,770 --> 00:07:45,715
+​​​ ​13. Minato Aqua, Usada Pekora, Oozora Subaru​ ​​
+​​ ​Hacha-Mecha Miracle​ ​​
+
+16
+00:07:45,715 --> 00:08:17,447
+​​​ ​14. Natsuiro Matsuri​ ​​
+​​ ​HiHi High Tension!​ ​​
+
+17
+00:08:17,447 --> 00:08:48,078
+​​​ ​15. Sakura Miko​ ​​
+​​ ​Sakurairo High Tension!​ ​​
+
+18
+00:08:48,078 --> 00:09:25,982
+​​​ ​16. MelKiss​ ​​
+​​ ​Choco♡Melty​ ​​
+
+19
+00:09:25,982 --> 00:09:54,210
+​​​ ​17. Tsunomaki Watame, Shishiro Botan​ ​​
+​​ ​Shishi Wata Cooking feat. Shishiro Botan​ ​​
+
+20
+00:09:54,210 --> 00:10:23,873
+​​​ ​18. Tsunomaki Watame​ ​​
+​​ ​aimai chocolate​ ​​
+
+21
+00:10:23,873 --> 00:11:03,179
+​​​ ​19. Shirakami Fubuki, Ookami Mio​ ​​
+​​ ​Wakuwaku Everyday​ ​​
+
+22
+00:11:03,179 --> 00:11:42,352
+​​​ ​20. Minato Aqua​ ​​
+​​ ​#aqua iro palette​ ​​
+
+23
+00:11:42,352 --> 00:12:28,598
+​​​ ​21. Nakiri Ayame​ ​​
+​​ ​Yoi no Yo, Yoi!​ ​​
+
+24
+00:12:28,598 --> 00:12:57,060
+​​​ ​22. hololive IDOL PROJECT​ ​​
+​​ ​Hyakka Ryoran Hanafubuki​ ​​
+
+25
+00:12:57,060 --> 00:13:27,924
+​​​ ​23. Inugami Korone​ ​​
+​​ ​SAIKYO TENSAI​ ​​
+​​ ​WANDERFUL WORLD of KORONE​ ​​
+
+26
+00:13:27,924 --> 00:14:07,463
+​​​ ​24. Minato Aqua​ ​​
+​​ ​Kira Kira​ ​​
+
+27
+00:14:07,463 --> 00:14:30,086
+​​​ ​25. Murasaki Shion​ ​​
+​​ ​MAGE OF VIOLET​ ​​
+
+28
+00:14:30,086 --> 00:15:07,457
+​​​ ​26. AyaFubuMi​ ​​
+​​ ​ONIKEMODANCE​ ​​
+
+29
+00:15:07,457 --> 00:15:31,447
+​​​ ​27. Mori Calliope​ ​​
+​​ ​Red​ ​​
+
+30
+00:15:31,447 --> 00:16:05,348
+​​​ ​28. Ookami Mio​ ​​
+​​ ​Howling​ ​​
+
+31
+00:16:05,348 --> 00:16:32,976
+​​​ ​29. Hoshimachi Suisei​ ​​
+​​ ​Run​ ​​
+
+32
+00:16:32,976 --> 00:17:14,484
+​​​ ​30. Hoshimachi Suisei​ ​​
+​​ ​GHOST​ ​​
+
+33
+00:17:14,484 --> 00:17:45,314
+​​​ ​31. IRyS​ ​​
+​​ ​HERE COMES HOPE​ ​​
+
+34
+00:17:45,314 --> 00:18:14,811
+​​​ ​32. Tsunomaki Watame​ ​​
+​​ ​mayday, mayday​ ​​
+
+35
+00:18:14,811 --> 00:19:04,861
+​​​ ​33. AZKi​ ​​
+​​ ​Gamen no Naka no Kimi ga Suki​ ​​
+
+36
+00:19:04,861 --> 00:19:56,879
+​​​ ​34. Aki Rosenthal​ ​​
+​​ ​SHALLYS​ ​​
+
+37
+00:19:56,879 --> 00:20:53,302
+​​​ ​35. Gawr Gura​ ​​
+​​ ​REFLECT​ ​​
+
+38
+00:20:53,302 --> 00:21:24,200
+​​​ ​36. Takanashi Kiara​ ​​
+​​ ​SPARKS​ ​​
+
+39
+00:21:24,200 --> 00:21:42,785
+​​​ ​37. Pavolia Reine​ ​​
+​​ ​Gate Open: Start!​ ​​
+
+40
+00:21:42,785 --> 00:22:26,729
+​​​ ​38. Momosuzu Nene​ ​​
+​​ ​Lunch with me​ ​​
+
+41
+00:22:26,729 --> 00:22:42,645
+​​​ ​39. Yuzuki Choco​ ​​
+​​ ​ChocoLove​ ​​
+
+42
+00:22:42,645 --> 00:23:13,376
+​​​ ​40. hololive IDOL PROJECT​ ​​
+​​ ​Candy-Go-Round​ ​​
+
+43
+00:23:13,376 --> 00:23:45,741
+​​​ ​41. Tokoyami Towa​ ​​
+​​ ​FACT​ ​​
+
+44
+00:23:45,741 --> 00:24:15,438
+​​​ ​42. hololive IDOL PROJECT​ ​​
+​​ ​Suspect​ ​​
+
+45
+00:24:15,438 --> 00:24:46,435
+​​​ ​43. hololive IDOL PROJECT​ ​​
+​​ ​Halloween Night, Tonight!​ ​​
+
+46
+00:24:46,435 --> 00:25:24,507
+​​​ ​44. Sakura Miko, Inugami Korone - Mikkorone×Showtime!!​ ​​
+
+47
+00:25:24,507 --> 00:25:59,341
+​​​ ​45. Yozora Mel​ ​​
+​​ ​Chew the Night Sky​ ​​
+
+48
+00:25:59,341 --> 00:26:16,292
+​​​ ​46. Mori Calliope​ ​​
+​​ ​The Grim Reaper is a Live-Streamer​ ​​
+
+49
+00:26:16,292 --> 00:27:16,919
+​​​ ​47. Mori Calliope​ ​​
+​​ ​“Excuse My Rudeness,​ ​​
+​​ ​But Could You Please RIP?”​ ​​
+
+50
+00:27:05,808 --> 00:27:09,178
+​​​ ​hololive DJ Megamix​ ​​
+
+51
+00:27:09,178 --> 00:27:12,448
+​​​ ​Mixed by IOSYS TRAX​ ​​
+
+52
+00:27:16,919 --> 00:27:58,661
+​​​ ​48. Hoshimachi Suisei​ ​​
+​​ ​Her Trail on the Celestial Sphere​ ​​
+
+53
+00:27:58,661 --> 00:28:37,433
+​​​ ​49. Hoshimachi Suisei​ ​​
+​​ ​SelfishDazzling​ ​​
+
+54
+00:28:37,433 --> 00:29:23,445
+​​​ ​50. Hoshimachi Suisei​ ​​
+​​ ​bye bye rainy​ ​​
+
+55
+00:29:23,445 --> 00:30:35,884
+​​​ ​51. Hoshimachi Suisei​ ​​
+​​ ​NEXT COLOR PLANET​ ​​
+
+56
+00:30:35,884 --> 00:31:17,860
+​​​ ​52. Sakura Miko​ ​​
+​​ ​Kagetsu no Yume​ ​​
+
+57
+00:31:17,860 --> 00:31:46,021
+​​​ ​53. hololive IDOL PROJECT​ ​​
+​​ ​BLUE CLAPPER​ ​​
+
+58
+00:31:46,021 --> 00:32:27,162
+​​​ ​54. Hoshimachi Suisei​ ​​
+​​ ​Bluerose​ ​​
+
+59
+00:32:27,162 --> 00:33:16,845
+​​​ ​55. Nekomata Okayu​ ​​
+​​ ​Mogu Mogu YUMMY!​ ​​
+
+60
+00:33:16,845 --> 00:33:55,884
+​​​ ​56. Mori Calliope​ ​​
+​​ ​guh​ ​​
+
+61
+00:33:55,884 --> 00:34:23,845
+​​​ ​57. Mori Calliope​ ​​
+​​ ​DEAD BEATS​ ​​
+
+62
+00:34:23,845 --> 00:35:36,618
+​​​ ​58. Houshou Marine​ ​​
+​​ ​Unison​ ​​
+
+63
+00:35:36,618 --> 00:36:17,392
+​​​ ​59. Shishiro Botan​ ​​
+​​ ​Lioness' Pride​ ​​
+
+64
+00:36:17,392 --> 00:37:14,549
+​​​ ​60. Hoshimachi Suisei​ ​​
+​​ ​comet​ ​​
+
+65
+00:37:14,549 --> 00:37:39,908
+​​​ ​61. Mori Calliope​ ​​
+​​ ​Cursed Night​ ​​
+
+66
+00:37:39,908 --> 00:38:13,775
+​​​ ​62. Mori Calliope​ ​​
+​​ ​Ijimekko Bully​ ​​
+
+67
+00:38:13,775 --> 00:39:05,994
+​​​ ​63. Mori Calliope​ ​​
+​​ ​Off With Their Heads​ ​​
+
+68
+00:39:05,994 --> 00:40:21,903
+​​​ ​64. Mori Calliope​ ​​
+​​ ​Live Again​ ​​
+
+69
+00:40:21,903 --> 00:41:03,378
+​​​ ​65. Omaru Polka​ ​​
+​​ ​EverBlue​ ​​
+
+70
+00:41:03,378 --> 00:42:11,813
+​​​ ​66. Amane Kanata​ ​​
+​​ ​Tokusya-Seizon Wonder-la-der!!​ ​​
+
+71
+00:42:11,813 --> 00:42:54,756
+​​​ ​67. Shirogane Noel​ ​​
+​​ ​Homenobi​ ​​
+
+72
+00:42:54,756 --> 00:43:29,624
+​​​ ​68. hololive 1st Generation​ ​​
+​​ ​Plasmagic Seasons!​ ​​
+
+73
+00:43:29,624 --> 00:43:57,619
+​​​ ​69. Aki Rosenthal​ ​​
+​​ ​Heroine Audition​ ​​
+
+74
+00:43:57,619 --> 00:44:44,632
+​​​ ​70. Moona Hoshinova​ ​​
+​​ ​Ai no Chiisana Uta​ ​​
+
+75
+00:44:44,632 --> 00:45:05,987
+​​​ ​71. Mori Calliope​ ​​
+​​ ​end of a life​ ​​
+
+76
+00:45:05,987 --> 00:45:43,925
+​​​ ​72. Robocosan​ ​​
+​​ ​kotonoha​ ​​
+
+77
+00:45:43,925 --> 00:46:33,074
+​​​ ​73. hololive IDOL PROJECT​ ​​
+​​ ​Taisetsu Photographs - Bouquet ver.​ ​​
+
+78
+00:46:33,074 --> 00:46:59,367
+​​​ ​74. Ninomae Ina'nis​ ​​
+​​ ​VIOLET​ ​​
+
+79
+00:46:59,367 --> 00:47:23,457
+​​​ ​75. IRyS​ ​​
+​​ ​diorama​ ​​
+
+80
+00:47:23,457 --> 00:47:58,893
+​​​ ​76. AZKi​ ​​
+​​ ​Creating world​ ​​
+
+81
+00:47:58,893 --> 00:48:49,277
+​​​ ​77. Amane Kanata, Tokoyami Towa​ ​​
+​​ ​madoromi​ ​​
+
+82
+00:48:49,277 --> 00:49:19,974
+​​​ ​78. Amane Kanata​ ​​
+​​ ​TENSHI NO AGAPE​ ​​
+
+83
+00:49:19,974 --> 00:49:43,965
+​​​ ​79. IRyS​ ​​
+​​ ​Caesura of Despair​ ​​
+
+84
+00:49:43,965 --> 00:50:24,772
+​​​ ​80. Hoshimachi Suisei​ ​​
+​​ ​Stellar Stellar​ ​​
+
+85
+00:50:24,772 --> 00:51:03,477
+​​​ ​81. Uruha Rushia​ ​​
+​​ ​Iris​ ​​
+
+86
+00:51:03,477 --> 00:51:31,739
+​​​ ​82. Tsunomaki Watame​ ​​
+​​ ​Melody For You​ ​​
+
+87
+00:51:31,739 --> 00:52:07,942
+​​​ ​83. Tsunomaki Watame, Mori Calliope​ ​​
+​​ ​Cloudy Sheep feat. Mori Calliope​ ​​
+
+88
+00:52:07,942 --> 00:52:42,309
+​​​ ​84. Takanashi Kiara​ ​​
+​​ ​Heart Challenger​ ​​
+
+89
+00:52:42,309 --> 00:53:03,230
+​​​ ​85. Oozora Subaru​ ​​
+​​ ​Taiyou Shoujyo​ ​​
+
+90
+00:53:03,230 --> 00:53:50,044
+​​​ ​86. hololive IDOL PROJECT​ ​​
+​​ ​STARDUST SONG​ ​​
+
+91
+00:53:50,044 --> 00:54:26,814
+​​​ ​87. Tsunomaki Watame​ ​​
+​​ ​Everlasting Soul​ ​​
+
+92
+00:54:20,908 --> 00:54:23,944
+​​​ ​hololive DJ Megamix​ ​​
+
+93
+00:54:24,245 --> 00:54:27,548
+​​​ ​Mixed by IOSYS TRAX​ ​​
+
+94
+00:54:26,814 --> 00:55:03,851
+​​​ ​88. hololive IDOL PROJECT​ ​​
+​​ ​SHIJOSHUGI ADTRUCK​ ​​
+
+95
+00:55:03,851 --> 00:55:57,638
+​​​ ​89. hololive Indonesia​ ​​
+​​ ​id:entity voices​ ​​
+
+96
+00:55:49,496 --> 00:55:52,466
+​​​ ​hololive DJ Megamix​ ​​
+
+97
+00:55:53,967 --> 00:55:57,037
+​​​ ​Mixed by IOSYS TRAX​ ​​
+
+98
+00:55:57,638 --> 00:56:35,109
+​​​ ​90. hololive IDOL PROJECT​ ​​
+​​ ​Dreaming Days​ ​​
+
+99
+00:56:35,109 --> 00:57:25,859
+​​​ ​91. Sakura Miko​ ​​
+​​ ​Sakurakaze​ ​​
+
+100
+00:57:25,859 --> 00:57:55,889
+​​​ ​92. Minato Aqua​ ​​
+​​ ​KAISOU RESSHA​ ​​
+
+101
+00:57:55,889 --> 00:58:39,933
+​​​ ​93. Yukihana Lamy​ ​​
+​​ ​Asuenokyokaisen​ ​​
+
+102
+00:58:39,933 --> 00:59:26,580
+​​​ ​94. Momosuzu Nene​ ​​
+​​ ​momonone​ ​​
+
+103
+00:59:19,273 --> 00:59:22,242
+​​​ ​hololive DJ Megamix​ ​​
+
+104
+00:59:22,576 --> 00:59:25,245
+​​​ ​Mixed by IOSYS TRAX​ ​​
+
+105
+00:59:26,580 --> 00:59:47,601
+​​​ ​95. hololive IDOL PROJECT​ ​​
+​​ ​Yumemiru Sora He​ ​​
+
+106
+00:59:47,601 --> 01:00:39,886
+​​​ ​96. hololive IDOL PROJECT​ ​​
+​​ ​AsuiroClearSky​ ​​
+
+107
+01:00:39,886 --> 01:01:37,844
+​​​ ​97. HOLOLIVE FANTASY​ ​​
+​​ ​Interact Fantasia​ ​​
+
+108
+01:01:37,844 --> 01:02:41,007
+​​​ ​98. hololive 4th Generation​ ​​
+​​ ​Kiseki knot​ ​​
+
+109
+01:02:41,007 --> 01:03:30,090
+​​​ ​99. hololive IDOL PROJECT​ ​​
+​​ ​Kirameki Rider​ ​​
+
+110
+01:03:30,090 --> 01:04:32,285
+​​​ ​100. hololive IDOL PROJECT​ ​​
+​​ ​Shiny Smily Story​ ​​
+
+111
+01:03:45,005 --> 01:03:48,408
+​​​ ​hololive DJ Megamix​ ​​
+
+112
+01:03:48,408 --> 01:03:51,444
+​​​ ​Mixed by IOSYS TRAX​ ​​
+

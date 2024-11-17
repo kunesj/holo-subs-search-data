@@ -1,0 +1,35 @@
+1
+00:00:02,900 --> 00:00:07,990
+
+[Music]
+
+2
+00:00:07,990 --> 00:00:08,000
+
+ 
+
+3
+00:00:08,000 --> 00:00:11,350
+
+birthday concert is tomorrow
+
+4
+00:00:11,350 --> 00:00:11,360
+birthday concert is tomorrow
+ 
+
+5
+00:00:11,360 --> 00:00:13,110
+birthday concert is tomorrow
+tomorrow
+
+6
+00:00:13,110 --> 00:00:13,120
+tomorrow
+ 
+
+7
+00:00:13,120 --> 00:00:16,360
+tomorrow
+let's go
+

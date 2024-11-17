@@ -1,0 +1,2032 @@
+1
+00:00:14,898 --> 00:00:15,165
+​​​ ​Lying down on the floor​ ​​
+
+2
+00:00:15,165 --> 00:00:15,399
+​​​ ​Lying down on the floor​ ​​
+
+3
+00:00:15,399 --> 00:00:15,833
+​​​ ​Lying down on the floor​ ​​
+
+4
+00:00:15,833 --> 00:00:16,066
+​​​ ​Lying down on the floor​ ​​
+
+5
+00:00:16,066 --> 00:00:16,300
+​​​ ​Lying down on the floor​ ​​
+
+6
+00:00:16,300 --> 00:00:16,767
+​​​ ​Lying down on the floor​ ​​
+
+7
+00:00:16,767 --> 00:00:17,234
+​​​ ​Late night and you don't know, don't know​ ​​
+
+8
+00:00:17,234 --> 00:00:17,668
+​​​ ​Late night and you don't know, don't know​ ​​
+
+9
+00:00:17,668 --> 00:00:17,901
+​​​ ​Late night and you don't know, don't know​ ​​
+
+10
+00:00:17,901 --> 00:00:18,135
+​​​ ​Late night and you don't know, don't know​ ​​
+
+11
+00:00:18,135 --> 00:00:18,369
+​​​ ​Late night and you don't know, don't know​ ​​
+
+12
+00:00:18,369 --> 00:00:19,036
+​​​ ​Late night and you don't know, don't know​ ​​
+
+13
+00:00:19,036 --> 00:00:19,269
+​​​ ​Late night and you don't know, don't know​ ​​
+
+14
+00:00:19,269 --> 00:00:19,937
+​​​ ​Late night and you don't know, don't know​ ​​
+
+15
+00:00:19,937 --> 00:00:20,404
+​​​ ​Don't know what to do-o​ ​​
+
+16
+00:00:20,404 --> 00:00:20,637
+​​​ ​Don't know what to do-o​ ​​
+
+17
+00:00:20,637 --> 00:00:20,871
+​​​ ​Don't know what to do-o​ ​​
+
+18
+00:00:20,871 --> 00:00:21,071
+​​​ ​Don't know what to do-o​ ​​
+
+19
+00:00:21,071 --> 00:00:21,538
+​​​ ​Don't know what to do-o​ ​​
+
+20
+00:00:21,538 --> 00:00:22,206
+​​​ ​Don't know what to do-o​ ​​
+
+21
+00:00:22,206 --> 00:00:22,439
+​​​ ​Hard to tell what's wrong, what's right​ ​​
+
+22
+00:00:22,439 --> 00:00:22,673
+​​​ ​Hard to tell what's wrong, what's right​ ​​
+
+23
+00:00:22,673 --> 00:00:23,107
+​​​ ​Hard to tell what's wrong, what's right​ ​​
+
+24
+00:00:23,107 --> 00:00:23,574
+​​​ ​Hard to tell what's wrong, what's right​ ​​
+
+25
+00:00:23,574 --> 00:00:24,008
+​​​ ​Hard to tell what's wrong, what's right​ ​​
+
+26
+00:00:24,008 --> 00:00:24,475
+​​​ ​Hard to tell what's wrong, what's right​ ​​
+
+27
+00:00:24,475 --> 00:00:24,942
+​​​ ​Hard to tell what's wrong, what's right​ ​​
+
+28
+00:00:24,942 --> 00:00:25,175
+​​​ ​If yes or no, don't know​ ​​
+
+29
+00:00:25,175 --> 00:00:25,409
+​​​ ​If yes or no, don't know​ ​​
+
+30
+00:00:25,409 --> 00:00:25,642
+​​​ ​If yes or no, don't know​ ​​
+
+31
+00:00:25,642 --> 00:00:26,310
+​​​ ​If yes or no, don't know​ ​​
+
+32
+00:00:26,310 --> 00:00:26,543
+​​​ ​If yes or no, don't know​ ​​
+
+33
+00:00:26,543 --> 00:00:27,211
+​​​ ​If yes or no, don't know​ ​​
+
+34
+00:00:27,211 --> 00:00:27,678
+​​​ ​Don't know what to do-o​ ​​
+
+35
+00:00:27,678 --> 00:00:27,878
+​​​ ​Don't know what to do-o​ ​​
+
+36
+00:00:27,878 --> 00:00:28,145
+​​​ ​Don't know what to do-o​ ​​
+
+37
+00:00:28,145 --> 00:00:28,345
+​​​ ​Don't know what to do-o​ ​​
+
+38
+00:00:28,345 --> 00:00:28,812
+​​​ ​Don't know what to do-o​ ​​
+
+39
+00:00:28,812 --> 00:00:29,046
+​​​ ​Don't know what to do-o​ ​​
+
+40
+00:00:29,046 --> 00:00:29,279
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+41
+00:00:29,279 --> 00:00:29,613
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+42
+00:00:29,613 --> 00:00:29,947
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+43
+00:00:29,947 --> 00:00:30,381
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+44
+00:00:30,381 --> 00:00:30,647
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+45
+00:00:30,647 --> 00:00:30,848
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+46
+00:00:30,848 --> 00:00:31,315
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+47
+00:00:31,315 --> 00:00:31,548
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+48
+00:00:31,548 --> 00:00:31,749
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+49
+00:00:31,749 --> 00:00:32,649
+​​​ ​The storm hits hard and you're losing the way​ ​​
+
+50
+00:00:32,649 --> 00:00:32,883
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+51
+00:00:32,883 --> 00:00:33,217
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+52
+00:00:33,217 --> 00:00:33,584
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+53
+00:00:33,584 --> 00:00:34,018
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+54
+00:00:34,018 --> 00:00:34,485
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+55
+00:00:34,485 --> 00:00:34,918
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+56
+00:00:34,918 --> 00:00:35,152
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+57
+00:00:35,152 --> 00:00:35,386
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+58
+00:00:35,386 --> 00:00:36,086
+​​​ ​Just take a chance and dance in the rain​ ​​
+
+59
+00:00:36,086 --> 00:00:36,320
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+60
+00:00:36,320 --> 00:00:36,553
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+61
+00:00:36,553 --> 00:00:36,887
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+62
+00:00:36,887 --> 00:00:37,221
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+63
+00:00:37,221 --> 00:00:37,688
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+64
+00:00:37,688 --> 00:00:37,921
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+65
+00:00:37,921 --> 00:00:38,155
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+66
+00:00:38,155 --> 00:00:38,622
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+67
+00:00:38,622 --> 00:00:38,822
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+68
+00:00:38,822 --> 00:00:39,023
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+69
+00:00:39,023 --> 00:00:39,490
+​​​ ​'Cuz you got the key, never throw it away​ ​​
+
+70
+00:00:39,490 --> 00:00:39,723
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+71
+00:00:39,723 --> 00:00:39,957
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+72
+00:00:39,957 --> 00:00:40,391
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+73
+00:00:40,391 --> 00:00:40,624
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+74
+00:00:40,624 --> 00:00:40,858
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+75
+00:00:40,858 --> 00:00:41,291
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+76
+00:00:41,291 --> 00:00:41,525
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+77
+00:00:41,525 --> 00:00:41,759
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+78
+00:00:41,759 --> 00:00:41,992
+​​​ ​Don't forget, don't forget what I said​ ​​
+
+79
+00:00:43,360 --> 00:00:43,827
+​​​ ​Get out of your head!​ ​​
+
+80
+00:00:43,827 --> 00:00:44,695
+​​​ ​Get out of your head!​ ​​
+
+81
+00:00:44,695 --> 00:00:45,162
+​​​ ​Get out of your head!​ ​​
+
+82
+00:00:45,162 --> 00:00:45,362
+​​​ ​Get out of your head!​ ​​
+
+83
+00:00:45,362 --> 00:00:46,096
+​​​ ​Get out of your head!​ ​​
+
+84
+00:00:46,096 --> 00:00:46,330
+​​​ ​Life is only what you make it​ ​​
+
+85
+00:00:46,330 --> 00:00:46,530
+​​​ ​Life is only what you make it​ ​​
+
+86
+00:00:46,530 --> 00:00:46,764
+​​​ ​Life is only what you make it​ ​​
+
+87
+00:00:46,764 --> 00:00:46,964
+​​​ ​Life is only what you make it​ ​​
+
+88
+00:00:46,964 --> 00:00:47,231
+​​​ ​Life is only what you make it​ ​​
+
+89
+00:00:47,231 --> 00:00:47,431
+​​​ ​Life is only what you make it​ ​​
+
+90
+00:00:47,431 --> 00:00:47,798
+​​​ ​Life is only what you make it​ ​​
+
+91
+00:00:47,798 --> 00:00:48,132
+​​​ ​Life is only what you make it​ ​​
+
+92
+00:00:48,132 --> 00:00:48,332
+​​​ ​You're gonna be okay​ ​​
+
+93
+00:00:48,332 --> 00:00:48,599
+​​​ ​You're gonna be okay​ ​​
+
+94
+00:00:48,599 --> 00:00:48,832
+​​​ ​You're gonna be okay​ ​​
+
+95
+00:00:48,832 --> 00:00:49,066
+​​​ ​You're gonna be okay​ ​​
+
+96
+00:00:49,066 --> 00:00:49,266
+​​​ ​You're gonna be okay​ ​​
+
+97
+00:00:49,266 --> 00:00:49,600
+​​​ ​You're gonna be okay​ ​​
+
+98
+00:00:50,834 --> 00:00:51,035
+​​​ ​So go ahead and do it, do it​ ​​
+
+99
+00:00:51,035 --> 00:00:51,301
+​​​ ​So go ahead and do it, do it​ ​​
+
+100
+00:00:51,301 --> 00:00:51,435
+​​​ ​So go ahead and do it, do it​ ​​
+
+101
+00:00:51,435 --> 00:00:51,769
+​​​ ​So go ahead and do it, do it​ ​​
+
+102
+00:00:51,769 --> 00:00:52,002
+​​​ ​So go ahead and do it, do it​ ​​
+
+103
+00:00:52,002 --> 00:00:52,236
+​​​ ​So go ahead and do it, do it​ ​​
+
+104
+00:00:52,236 --> 00:00:52,469
+​​​ ​So go ahead and do it, do it​ ​​
+
+105
+00:00:52,469 --> 00:00:52,669
+​​​ ​So go ahead and do it, do it​ ​​
+
+106
+00:00:52,669 --> 00:00:52,903
+​​​ ​So go ahead and do it, do it​ ​​
+
+107
+00:00:52,903 --> 00:00:53,170
+​​​ ​If you want it let's get to it!​ ​​
+
+108
+00:00:53,170 --> 00:00:53,370
+​​​ ​If you want it let's get to it!​ ​​
+
+109
+00:00:53,370 --> 00:00:53,604
+​​​ ​If you want it let's get to it!​ ​​
+
+110
+00:00:53,604 --> 00:00:53,804
+​​​ ​If you want it let's get to it!​ ​​
+
+111
+00:00:53,804 --> 00:00:54,071
+​​​ ​If you want it let's get to it!​ ​​
+
+112
+00:00:54,071 --> 00:00:54,271
+​​​ ​If you want it let's get to it!​ ​​
+
+113
+00:00:54,271 --> 00:00:54,505
+​​​ ​If you want it let's get to it!​ ​​
+
+114
+00:00:54,505 --> 00:00:54,705
+​​​ ​If you want it let's get to it!​ ​​
+
+115
+00:00:54,705 --> 00:00:54,972
+​​​ ​Everybody's gonna know your name​ ​​
+
+116
+00:00:54,972 --> 00:00:55,172
+​​​ ​Everybody's gonna know your name​ ​​
+
+117
+00:00:55,172 --> 00:00:55,372
+​​​ ​Everybody's gonna know your name​ ​​
+
+118
+00:00:55,372 --> 00:00:55,606
+​​​ ​Everybody's gonna know your name​ ​​
+
+119
+00:00:55,606 --> 00:00:55,839
+​​​ ​Everybody's gonna know your name​ ​​
+
+120
+00:00:55,839 --> 00:00:56,073
+​​​ ​Everybody's gonna know your name​ ​​
+
+121
+00:00:56,073 --> 00:00:56,306
+​​​ ​Everybody's gonna know your name​ ​​
+
+122
+00:00:56,306 --> 00:00:56,540
+​​​ ​Everybody's gonna know your name​ ​​
+
+123
+00:00:56,540 --> 00:00:57,174
+​​​ ​Everybody's gonna know your name​ ​​
+
+124
+00:00:57,875 --> 00:00:58,142
+​​​ ​Cuz sparks light the flame​ ​​
+
+125
+00:00:58,142 --> 00:00:58,575
+​​​ ​Cuz sparks light the flame​ ​​
+
+126
+00:00:58,575 --> 00:00:58,809
+​​​ ​Cuz sparks light the flame​ ​​
+
+127
+00:00:58,809 --> 00:00:59,043
+​​​ ​Cuz sparks light the flame​ ​​
+
+128
+00:00:59,043 --> 00:00:59,476
+​​​ ​Cuz sparks light the flame​ ​​
+
+129
+00:00:59,476 --> 00:00:59,710
+​​​ ​Turn the dark of the night into day​ ​​
+
+130
+00:00:59,710 --> 00:00:59,943
+​​​ ​Turn the dark of the night into day​ ​​
+
+131
+00:00:59,943 --> 00:01:00,377
+​​​ ​Turn the dark of the night into day​ ​​
+
+132
+00:01:00,377 --> 00:01:00,611
+​​​ ​Turn the dark of the night into day​ ​​
+
+133
+00:01:00,611 --> 00:01:00,844
+​​​ ​Turn the dark of the night into day​ ​​
+
+134
+00:01:00,844 --> 00:01:01,278
+​​​ ​Turn the dark of the night into day​ ​​
+
+135
+00:01:01,278 --> 00:01:01,512
+​​​ ​Turn the dark of the night into day​ ​​
+
+136
+00:01:01,512 --> 00:01:01,745
+​​​ ​Turn the dark of the night into day​ ​​
+
+137
+00:01:01,745 --> 00:01:02,212
+​​​ ​Turn the dark of the night into day​ ​​
+
+138
+00:01:02,212 --> 00:01:02,446
+​​​ ​(Don't stop, don't stop​ ​​
+
+139
+00:01:02,446 --> 00:01:02,913
+​​​ ​(Don't stop, don't stop​ ​​
+
+140
+00:01:02,913 --> 00:01:03,113
+​​​ ​(Don't stop, don't stop​ ​​
+
+141
+00:01:03,113 --> 00:01:03,580
+​​​ ​(Don't stop, don't stop​ ​​
+
+142
+00:01:03,580 --> 00:01:03,814
+​​​ ​Just go your own way!!)​ ​​
+
+143
+00:01:03,814 --> 00:01:04,048
+​​​ ​Just go your own way!!)​ ​​
+
+144
+00:01:04,048 --> 00:01:04,281
+​​​ ​Just go your own way!!)​ ​​
+
+145
+00:01:04,281 --> 00:01:04,715
+​​​ ​Just go your own way!!)​ ​​
+
+146
+00:01:04,715 --> 00:01:05,149
+​​​ ​Just go your own way!!)​ ​​
+
+147
+00:01:05,149 --> 00:01:05,416
+​​​ ​So don't be afraid​ ​​
+
+148
+00:01:05,416 --> 00:01:05,816
+​​​ ​So don't be afraid​ ​​
+
+149
+00:01:05,816 --> 00:01:06,050
+​​​ ​So don't be afraid​ ​​
+
+150
+00:01:06,050 --> 00:01:06,283
+​​​ ​So don't be afraid​ ​​
+
+151
+00:01:06,283 --> 00:01:06,750
+​​​ ​So don't be afraid​ ​​
+
+152
+00:01:06,750 --> 00:01:06,984
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+153
+00:01:06,984 --> 00:01:07,217
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+154
+00:01:07,217 --> 00:01:07,684
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+155
+00:01:07,684 --> 00:01:07,885
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+156
+00:01:07,885 --> 00:01:08,118
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+157
+00:01:08,118 --> 00:01:08,585
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+158
+00:01:08,585 --> 00:01:08,786
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+159
+00:01:08,786 --> 00:01:09,019
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+160
+00:01:09,019 --> 00:01:09,453
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+161
+00:01:09,453 --> 00:01:09,720
+​​​ ​(Keep up, keep up​ ​​
+
+162
+00:01:09,720 --> 00:01:10,154
+​​​ ​(Keep up, keep up​ ​​
+
+163
+00:01:10,154 --> 00:01:10,387
+​​​ ​(Keep up, keep up​ ​​
+
+164
+00:01:10,387 --> 00:01:10,854
+​​​ ​(Keep up, keep up​ ​​
+
+165
+00:01:10,854 --> 00:01:11,088
+​​​ ​And never be afraid!!)​ ​​
+
+166
+00:01:11,088 --> 00:01:11,288
+​​​ ​And never be afraid!!)​ ​​
+
+167
+00:01:11,288 --> 00:01:11,555
+​​​ ​And never be afraid!!)​ ​​
+
+168
+00:01:11,555 --> 00:01:11,755
+​​​ ​And never be afraid!!)​ ​​
+
+169
+00:01:11,755 --> 00:01:11,989
+​​​ ​And never be afraid!!)​ ​​
+
+170
+00:01:11,989 --> 00:01:12,222
+​​​ ​And never be afraid!!)​ ​​
+
+171
+00:01:12,222 --> 00:01:12,322
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+172
+00:01:12,322 --> 00:01:12,456
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+173
+00:01:12,456 --> 00:01:12,689
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+174
+00:01:12,689 --> 00:01:12,890
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+175
+00:01:12,890 --> 00:01:13,223
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+176
+00:01:13,223 --> 00:01:13,357
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+177
+00:01:13,357 --> 00:01:13,590
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+178
+00:01:13,590 --> 00:01:13,824
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+179
+00:01:13,824 --> 00:01:14,158
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+180
+00:01:14,158 --> 00:01:14,258
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+181
+00:01:14,258 --> 00:01:14,491
+​​​ ​Strike a match and burn it up​ ​​
+
+182
+00:01:14,491 --> 00:01:14,725
+​​​ ​Strike a match and burn it up​ ​​
+
+183
+00:01:14,725 --> 00:01:15,059
+​​​ ​Strike a match and burn it up​ ​​
+
+184
+00:01:15,059 --> 00:01:15,159
+​​​ ​Strike a match and burn it up​ ​​
+
+185
+00:01:15,159 --> 00:01:15,426
+​​​ ​Strike a match and burn it up​ ​​
+
+186
+00:01:15,426 --> 00:01:15,626
+​​​ ​Strike a match and burn it up​ ​​
+
+187
+00:01:15,626 --> 00:01:16,060
+​​​ ​Strike a match and burn it up​ ​​
+
+188
+00:01:16,060 --> 00:01:16,293
+​​​ ​Kick your feet against the table​ ​​
+
+189
+00:01:16,293 --> 00:01:16,527
+​​​ ​Kick your feet against the table​ ​​
+
+190
+00:01:16,527 --> 00:01:16,860
+​​​ ​Kick your feet against the table​ ​​
+
+191
+00:01:16,860 --> 00:01:16,994
+​​​ ​Kick your feet against the table​ ​​
+
+192
+00:01:16,994 --> 00:01:17,227
+​​​ ​Kick your feet against the table​ ​​
+
+193
+00:01:17,227 --> 00:01:17,428
+​​​ ​Kick your feet against the table​ ​​
+
+194
+00:01:17,428 --> 00:01:17,761
+​​​ ​Kick your feet against the table​ ​​
+
+195
+00:01:17,761 --> 00:01:17,895
+​​​ ​Kick your feet against the table​ ​​
+
+196
+00:01:17,895 --> 00:01:18,128
+​​​ ​To the beat of your own drum​ ​​
+
+197
+00:01:18,128 --> 00:01:18,362
+​​​ ​To the beat of your own drum​ ​​
+
+198
+00:01:18,362 --> 00:01:18,695
+​​​ ​To the beat of your own drum​ ​​
+
+199
+00:01:18,695 --> 00:01:18,796
+​​​ ​To the beat of your own drum​ ​​
+
+200
+00:01:18,796 --> 00:01:18,996
+​​​ ​To the beat of your own drum​ ​​
+
+201
+00:01:18,996 --> 00:01:19,263
+​​​ ​To the beat of your own drum​ ​​
+
+202
+00:01:19,263 --> 00:01:19,930
+​​​ ​To the beat of your own drum​ ​​
+
+203
+00:01:19,930 --> 00:01:20,397
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+204
+00:01:20,397 --> 00:01:20,597
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+205
+00:01:20,597 --> 00:01:20,831
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+206
+00:01:20,831 --> 00:01:21,265
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+207
+00:01:21,265 --> 00:01:21,532
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+208
+00:01:21,532 --> 00:01:21,765
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+209
+00:01:21,765 --> 00:01:22,232
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+210
+00:01:22,232 --> 00:01:22,433
+​​​ ​Start a fire today​ ​​
+
+211
+00:01:22,433 --> 00:01:22,699
+​​​ ​Start a fire today​ ​​
+
+212
+00:01:22,699 --> 00:01:23,133
+​​​ ​Start a fire today​ ​​
+
+213
+00:01:23,133 --> 00:01:23,367
+​​​ ​Start a fire today​ ​​
+
+214
+00:01:23,367 --> 00:01:23,600
+​​​ ​Start a fire today​ ​​
+
+215
+00:01:23,600 --> 00:01:24,068
+​​​ ​Start a fire today​ ​​
+
+216
+00:01:24,068 --> 00:01:24,268
+​​​ ​(Don't stop, don't stop​ ​​
+
+217
+00:01:24,268 --> 00:01:24,735
+​​​ ​(Don't stop, don't stop​ ​​
+
+218
+00:01:24,735 --> 00:01:24,968
+​​​ ​(Don't stop, don't stop​ ​​
+
+219
+00:01:24,968 --> 00:01:25,402
+​​​ ​(Don't stop, don't stop​ ​​
+
+220
+00:01:25,402 --> 00:01:25,636
+​​​ ​Just go your own way!!)​ ​​
+
+221
+00:01:25,636 --> 00:01:25,836
+​​​ ​Just go your own way!!)​ ​​
+
+222
+00:01:25,836 --> 00:01:26,070
+​​​ ​Just go your own way!!)​ ​​
+
+223
+00:01:26,070 --> 00:01:26,537
+​​​ ​Just go your own way!!)​ ​​
+
+224
+00:01:26,537 --> 00:01:26,937
+​​​ ​Just go your own way!!)​ ​​
+
+225
+00:01:27,438 --> 00:01:27,671
+​​​ ​We ain't looking back​ ​​
+
+226
+00:01:27,671 --> 00:01:27,871
+​​​ ​We ain't looking back​ ​​
+
+227
+00:01:27,871 --> 00:01:28,105
+​​​ ​We ain't looking back​ ​​
+
+228
+00:01:28,105 --> 00:01:28,338
+​​​ ​We ain't looking back​ ​​
+
+229
+00:01:28,338 --> 00:01:28,806
+​​​ ​We ain't looking back​ ​​
+
+230
+00:01:28,806 --> 00:01:29,039
+​​​ ​Take the fast lane now​ ​​
+
+231
+00:01:29,039 --> 00:01:29,273
+​​​ ​Take the fast lane now​ ​​
+
+232
+00:01:29,273 --> 00:01:29,706
+​​​ ​Take the fast lane now​ ​​
+
+233
+00:01:29,706 --> 00:01:30,174
+​​​ ​Take the fast lane now​ ​​
+
+234
+00:01:30,174 --> 00:01:30,407
+​​​ ​Take the fast lane now​ ​​
+
+235
+00:01:30,407 --> 00:01:30,541
+​​​ ​In the driver's seat strapped​ ​​
+
+236
+00:01:30,541 --> 00:01:30,841
+​​​ ​In the driver's seat strapped​ ​​
+
+237
+00:01:30,841 --> 00:01:31,275
+​​​ ​In the driver's seat strapped​ ​​
+
+238
+00:01:31,275 --> 00:01:31,508
+​​​ ​In the driver's seat strapped​ ​​
+
+239
+00:01:31,508 --> 00:01:31,975
+​​​ ​In the driver's seat strapped​ ​​
+
+240
+00:01:31,975 --> 00:01:32,443
+​​​ ​In the driver's seat strapped​ ​​
+
+241
+00:01:32,443 --> 00:01:32,709
+​​​ ​They just gasp out loud​ ​​
+
+242
+00:01:32,709 --> 00:01:32,910
+​​​ ​They just gasp out loud​ ​​
+
+243
+00:01:32,910 --> 00:01:33,343
+​​​ ​They just gasp out loud​ ​​
+
+244
+00:01:33,343 --> 00:01:33,610
+​​​ ​They just gasp out loud​ ​​
+
+245
+00:01:33,610 --> 00:01:34,044
+​​​ ​They just gasp out loud​ ​​
+
+246
+00:01:34,044 --> 00:01:34,211
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+247
+00:01:34,211 --> 00:01:34,478
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+248
+00:01:34,478 --> 00:01:34,711
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+249
+00:01:34,711 --> 00:01:35,179
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+250
+00:01:35,179 --> 00:01:35,612
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+251
+00:01:35,612 --> 00:01:35,846
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+252
+00:01:35,846 --> 00:01:36,080
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+253
+00:01:36,080 --> 00:01:36,313
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+254
+00:01:36,313 --> 00:01:36,547
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+255
+00:01:36,547 --> 00:01:36,980
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+256
+00:01:36,980 --> 00:01:37,214
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+257
+00:01:37,214 --> 00:01:37,681
+​​​ ​We're going so fast that it shouldn't be allowed​ ​​
+
+258
+00:01:37,681 --> 00:01:37,881
+​​​ ​That's how we like it​ ​​
+
+259
+00:01:37,881 --> 00:01:38,148
+​​​ ​That's how we like it​ ​​
+
+260
+00:01:38,148 --> 00:01:38,348
+​​​ ​That's how we like it​ ​​
+
+261
+00:01:38,348 --> 00:01:38,715
+​​​ ​That's how we like it​ ​​
+
+262
+00:01:38,715 --> 00:01:39,016
+​​​ ​That's how we like it​ ​​
+
+263
+00:01:39,016 --> 00:01:39,249
+​​​ ​You heard what I said​ ​​
+
+264
+00:01:39,249 --> 00:01:39,583
+​​​ ​You heard what I said​ ​​
+
+265
+00:01:39,583 --> 00:01:39,917
+​​​ ​You heard what I said​ ​​
+
+266
+00:01:39,917 --> 00:01:40,184
+​​​ ​You heard what I said​ ​​
+
+267
+00:01:40,184 --> 00:01:40,284
+​​​ ​You heard what I said​ ​​
+
+268
+00:01:40,384 --> 00:01:40,451
+​​​ ​You heard what I said​ ​​
+
+269
+00:01:40,517 --> 00:01:40,584
+​​​ ​You heard what I said​ ​​
+
+270
+00:01:40,651 --> 00:01:40,717
+​​​ ​You heard what I said​ ​​
+
+271
+00:01:40,784 --> 00:01:40,851
+​​​ ​You heard what I said​ ​​
+
+272
+00:01:40,918 --> 00:01:40,984
+​​​ ​You heard what I said​ ​​
+
+273
+00:01:41,051 --> 00:01:41,251
+​​​ ​You heard what I said​ ​​
+
+274
+00:01:41,485 --> 00:01:41,985
+​​​ ​Get out of your head!​ ​​
+
+275
+00:01:41,985 --> 00:01:42,886
+​​​ ​Get out of your head!​ ​​
+
+276
+00:01:42,886 --> 00:01:43,320
+​​​ ​Get out of your head!​ ​​
+
+277
+00:01:43,320 --> 00:01:43,554
+​​​ ​Get out of your head!​ ​​
+
+278
+00:01:43,554 --> 00:01:44,288
+​​​ ​Get out of your head!​ ​​
+
+279
+00:01:44,288 --> 00:01:44,488
+​​​ ​Life is only what you make it​ ​​
+
+280
+00:01:44,488 --> 00:01:44,721
+​​​ ​Life is only what you make it​ ​​
+
+281
+00:01:44,721 --> 00:01:44,955
+​​​ ​Life is only what you make it​ ​​
+
+282
+00:01:44,955 --> 00:01:45,155
+​​​ ​Life is only what you make it​ ​​
+
+283
+00:01:45,155 --> 00:01:45,422
+​​​ ​Life is only what you make it​ ​​
+
+284
+00:01:45,422 --> 00:01:45,622
+​​​ ​Life is only what you make it​ ​​
+
+285
+00:01:45,622 --> 00:01:45,956
+​​​ ​Life is only what you make it​ ​​
+
+286
+00:01:45,956 --> 00:01:46,323
+​​​ ​Life is only what you make it​ ​​
+
+287
+00:01:46,323 --> 00:01:46,523
+​​​ ​You're gonna be okay (yeah)​ ​​
+
+288
+00:01:46,523 --> 00:01:46,790
+​​​ ​You're gonna be okay (yeah)​ ​​
+
+289
+00:01:46,790 --> 00:01:47,024
+​​​ ​You're gonna be okay (yeah)​ ​​
+
+290
+00:01:47,024 --> 00:01:47,257
+​​​ ​You're gonna be okay (yeah)​ ​​
+
+291
+00:01:47,257 --> 00:01:47,458
+​​​ ​You're gonna be okay (yeah)​ ​​
+
+292
+00:01:47,458 --> 00:01:47,758
+​​​ ​You're gonna be okay (yeah)​ ​​
+
+293
+00:01:47,758 --> 00:01:49,026
+​​​ ​You're gonna be okay (yeah)​ ​​
+
+294
+00:01:49,026 --> 00:01:49,193
+​​​ ​So take a step and move it, move it​ ​​
+
+295
+00:01:49,193 --> 00:01:49,460
+​​​ ​So take a step and move it, move it​ ​​
+
+296
+00:01:49,460 --> 00:01:49,693
+​​​ ​So take a step and move it, move it​ ​​
+
+297
+00:01:49,693 --> 00:01:49,927
+​​​ ​So take a step and move it, move it​ ​​
+
+298
+00:01:49,927 --> 00:01:50,127
+​​​ ​So take a step and move it, move it​ ​​
+
+299
+00:01:50,127 --> 00:01:50,394
+​​​ ​So take a step and move it, move it​ ​​
+
+300
+00:01:50,394 --> 00:01:50,594
+​​​ ​So take a step and move it, move it​ ​​
+
+301
+00:01:50,594 --> 00:01:50,828
+​​​ ​So take a step and move it, move it​ ​​
+
+302
+00:01:50,828 --> 00:01:51,061
+​​​ ​So take a step and move it, move it​ ​​
+
+303
+00:01:51,061 --> 00:01:51,295
+​​​ ​'Less you try you won't get through it​ ​​
+
+304
+00:01:51,295 --> 00:01:51,528
+​​​ ​'Less you try you won't get through it​ ​​
+
+305
+00:01:51,528 --> 00:01:51,762
+​​​ ​'Less you try you won't get through it​ ​​
+
+306
+00:01:51,762 --> 00:01:51,962
+​​​ ​'Less you try you won't get through it​ ​​
+
+307
+00:01:51,962 --> 00:01:52,196
+​​​ ​'Less you try you won't get through it​ ​​
+
+308
+00:01:52,196 --> 00:01:52,429
+​​​ ​'Less you try you won't get through it​ ​​
+
+309
+00:01:52,429 --> 00:01:52,663
+​​​ ​'Less you try you won't get through it​ ​​
+
+310
+00:01:52,663 --> 00:01:52,896
+​​​ ​'Less you try you won't get through it​ ​​
+
+311
+00:01:52,896 --> 00:01:53,130
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+312
+00:01:53,130 --> 00:01:53,363
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+313
+00:01:53,363 --> 00:01:53,564
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+314
+00:01:53,564 --> 00:01:53,797
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+315
+00:01:53,797 --> 00:01:54,031
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+316
+00:01:54,031 --> 00:01:54,264
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+317
+00:01:54,264 --> 00:01:54,498
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+318
+00:01:54,498 --> 00:01:54,731
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+319
+00:01:54,731 --> 00:01:55,265
+​​​ ​Everybody's gonna know your name!!!​ ​​
+
+320
+00:01:56,066 --> 00:01:56,333
+​​​ ​Cuz sparks light the flame​ ​​
+
+321
+00:01:56,333 --> 00:01:56,767
+​​​ ​Cuz sparks light the flame​ ​​
+
+322
+00:01:56,767 --> 00:01:57,000
+​​​ ​Cuz sparks light the flame​ ​​
+
+323
+00:01:57,000 --> 00:01:57,234
+​​​ ​Cuz sparks light the flame​ ​​
+
+324
+00:01:57,234 --> 00:01:57,668
+​​​ ​Cuz sparks light the flame​ ​​
+
+325
+00:01:57,668 --> 00:01:57,901
+​​​ ​Turn the dark of the night into day​ ​​
+
+326
+00:01:57,901 --> 00:01:58,135
+​​​ ​Turn the dark of the night into day​ ​​
+
+327
+00:01:58,135 --> 00:01:58,569
+​​​ ​Turn the dark of the night into day​ ​​
+
+328
+00:01:58,569 --> 00:01:58,802
+​​​ ​Turn the dark of the night into day​ ​​
+
+329
+00:01:58,802 --> 00:01:59,036
+​​​ ​Turn the dark of the night into day​ ​​
+
+330
+00:01:59,036 --> 00:01:59,470
+​​​ ​Turn the dark of the night into day​ ​​
+
+331
+00:01:59,470 --> 00:01:59,703
+​​​ ​Turn the dark of the night into day​ ​​
+
+332
+00:01:59,703 --> 00:01:59,937
+​​​ ​Turn the dark of the night into day​ ​​
+
+333
+00:01:59,937 --> 00:02:00,404
+​​​ ​Turn the dark of the night into day​ ​​
+
+334
+00:02:00,404 --> 00:02:00,637
+​​​ ​(Don't stop, don't stop​ ​​
+
+335
+00:02:00,637 --> 00:02:01,105
+​​​ ​(Don't stop, don't stop​ ​​
+
+336
+00:02:01,105 --> 00:02:01,305
+​​​ ​(Don't stop, don't stop​ ​​
+
+337
+00:02:01,305 --> 00:02:01,772
+​​​ ​(Don't stop, don't stop​ ​​
+
+338
+00:02:01,772 --> 00:02:02,005
+​​​ ​Just go your own way!!)​ ​​
+
+339
+00:02:02,005 --> 00:02:02,239
+​​​ ​Just go your own way!!)​ ​​
+
+340
+00:02:02,239 --> 00:02:02,473
+​​​ ​Just go your own way!!)​ ​​
+
+341
+00:02:02,473 --> 00:02:02,906
+​​​ ​Just go your own way!!)​ ​​
+
+342
+00:02:02,906 --> 00:02:03,340
+​​​ ​Just go your own way!!)​ ​​
+
+343
+00:02:03,340 --> 00:02:03,607
+​​​ ​So don't be afraid​ ​​
+
+344
+00:02:03,607 --> 00:02:04,007
+​​​ ​So don't be afraid​ ​​
+
+345
+00:02:04,007 --> 00:02:04,241
+​​​ ​So don't be afraid​ ​​
+
+346
+00:02:04,241 --> 00:02:04,475
+​​​ ​So don't be afraid​ ​​
+
+347
+00:02:04,475 --> 00:02:04,942
+​​​ ​So don't be afraid​ ​​
+
+348
+00:02:04,942 --> 00:02:05,175
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+349
+00:02:05,175 --> 00:02:05,409
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+350
+00:02:05,409 --> 00:02:05,876
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+351
+00:02:05,876 --> 00:02:06,076
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+352
+00:02:06,076 --> 00:02:06,310
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+353
+00:02:06,310 --> 00:02:06,777
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+354
+00:02:06,777 --> 00:02:06,977
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+355
+00:02:06,977 --> 00:02:07,211
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+356
+00:02:07,211 --> 00:02:07,678
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+357
+00:02:07,678 --> 00:02:07,911
+​​​ ​(Keep up, keep up​ ​​
+
+358
+00:02:07,911 --> 00:02:08,378
+​​​ ​(Keep up, keep up​ ​​
+
+359
+00:02:08,378 --> 00:02:08,612
+​​​ ​(Keep up, keep up​ ​​
+
+360
+00:02:08,612 --> 00:02:09,046
+​​​ ​(Keep up, keep up​ ​​
+
+361
+00:02:09,046 --> 00:02:09,279
+​​​ ​And never be afraid!!)​ ​​
+
+362
+00:02:09,279 --> 00:02:09,480
+​​​ ​And never be afraid!!)​ ​​
+
+363
+00:02:09,480 --> 00:02:09,746
+​​​ ​And never be afraid!!)​ ​​
+
+364
+00:02:09,746 --> 00:02:09,947
+​​​ ​And never be afraid!!)​ ​​
+
+365
+00:02:09,947 --> 00:02:10,180
+​​​ ​And never be afraid!!)​ ​​
+
+366
+00:02:10,180 --> 00:02:10,614
+​​​ ​And never be afraid!!)​ ​​
+
+367
+00:02:14,718 --> 00:02:15,185
+​​​ ​Let go of the past tonight​ ​​
+
+368
+00:02:15,185 --> 00:02:15,586
+​​​ ​Let go of the past tonight​ ​​
+
+369
+00:02:15,586 --> 00:02:16,086
+​​​ ​Let go of the past tonight​ ​​
+
+370
+00:02:16,086 --> 00:02:16,320
+​​​ ​Let go of the past tonight​ ​​
+
+371
+00:02:16,320 --> 00:02:16,787
+​​​ ​Let go of the past tonight​ ​​
+
+372
+00:02:16,787 --> 00:02:17,221
+​​​ ​Let go of the past tonight​ ​​
+
+373
+00:02:17,221 --> 00:02:17,888
+​​​ ​Let go of the past tonight​ ​​
+
+374
+00:02:17,888 --> 00:02:18,122
+​​​ ​Choose the future only you define​ ​​
+
+375
+00:02:18,122 --> 00:02:18,355
+​​​ ​Choose the future only you define​ ​​
+
+376
+00:02:18,355 --> 00:02:18,589
+​​​ ​Choose the future only you define​ ​​
+
+377
+00:02:18,589 --> 00:02:18,822
+​​​ ​Choose the future only you define​ ​​
+
+378
+00:02:18,822 --> 00:02:19,022
+​​​ ​Choose the future only you define​ ​​
+
+379
+00:02:19,022 --> 00:02:19,256
+​​​ ​Choose the future only you define​ ​​
+
+380
+00:02:19,256 --> 00:02:19,723
+​​​ ​Choose the future only you define​ ​​
+
+381
+00:02:19,723 --> 00:02:20,157
+​​​ ​Choose the future only you define​ ​​
+
+382
+00:02:20,157 --> 00:02:20,858
+​​​ ​Choose the future only you define​ ​​
+
+383
+00:02:20,858 --> 00:02:21,091
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+384
+00:02:21,091 --> 00:02:21,291
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+385
+00:02:21,291 --> 00:02:21,558
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+386
+00:02:21,558 --> 00:02:21,758
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+387
+00:02:21,758 --> 00:02:22,192
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+388
+00:02:22,192 --> 00:02:22,459
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+389
+00:02:22,459 --> 00:02:22,693
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+390
+00:02:22,693 --> 00:02:23,127
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+391
+00:02:23,127 --> 00:02:23,360
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+392
+00:02:23,360 --> 00:02:23,560
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+393
+00:02:23,560 --> 00:02:24,027
+​​​ ​Even when the flames burn too bright, you're alive​ ​​
+
+394
+00:02:24,027 --> 00:02:24,261
+​​​ ​From the ashes you rise​ ​​
+
+395
+00:02:24,261 --> 00:02:24,495
+​​​ ​From the ashes you rise​ ​​
+
+396
+00:02:24,495 --> 00:02:24,962
+​​​ ​From the ashes you rise​ ​​
+
+397
+00:02:24,962 --> 00:02:25,162
+​​​ ​From the ashes you rise​ ​​
+
+398
+00:02:25,162 --> 00:02:25,395
+​​​ ​From the ashes you rise​ ​​
+
+399
+00:02:25,395 --> 00:02:28,799
+​​​ ​From the ashes you rise​ ​​
+
+400
+00:02:43,313 --> 00:02:43,580
+​​​ ​Cuz sparks light the flame​ ​​
+
+401
+00:02:43,580 --> 00:02:44,014
+​​​ ​Cuz sparks light the flame​ ​​
+
+402
+00:02:44,014 --> 00:02:44,248
+​​​ ​Cuz sparks light the flame​ ​​
+
+403
+00:02:44,248 --> 00:02:44,481
+​​​ ​Cuz sparks light the flame​ ​​
+
+404
+00:02:44,481 --> 00:02:44,948
+​​​ ​Cuz sparks light the flame​ ​​
+
+405
+00:02:44,948 --> 00:02:45,182
+​​​ ​Turn the dark of the night into day​ ​​
+
+406
+00:02:45,182 --> 00:02:45,415
+​​​ ​Turn the dark of the night into day​ ​​
+
+407
+00:02:45,415 --> 00:02:45,849
+​​​ ​Turn the dark of the night into day​ ​​
+
+408
+00:02:45,849 --> 00:02:46,083
+​​​ ​Turn the dark of the night into day​ ​​
+
+409
+00:02:46,083 --> 00:02:46,316
+​​​ ​Turn the dark of the night into day​ ​​
+
+410
+00:02:46,316 --> 00:02:46,750
+​​​ ​Turn the dark of the night into day​ ​​
+
+411
+00:02:46,750 --> 00:02:46,984
+​​​ ​Turn the dark of the night into day​ ​​
+
+412
+00:02:46,984 --> 00:02:47,217
+​​​ ​Turn the dark of the night into day​ ​​
+
+413
+00:02:47,217 --> 00:02:47,651
+​​​ ​Turn the dark of the night into day​ ​​
+
+414
+00:02:47,651 --> 00:02:47,885
+​​​ ​(Don't stop, don't stop​ ​​
+
+415
+00:02:47,885 --> 00:02:48,352
+​​​ ​(Don't stop, don't stop​ ​​
+
+416
+00:02:48,352 --> 00:02:48,552
+​​​ ​(Don't stop, don't stop​ ​​
+
+417
+00:02:48,552 --> 00:02:49,019
+​​​ ​(Don't stop, don't stop​ ​​
+
+418
+00:02:49,019 --> 00:02:49,253
+​​​ ​Just go your own way!!)​ ​​
+
+419
+00:02:49,253 --> 00:02:49,486
+​​​ ​Just go your own way!!)​ ​​
+
+420
+00:02:49,486 --> 00:02:49,720
+​​​ ​Just go your own way!!)​ ​​
+
+421
+00:02:49,720 --> 00:02:50,154
+​​​ ​Just go your own way!!)​ ​​
+
+422
+00:02:50,154 --> 00:02:50,621
+​​​ ​Just go your own way!!)​ ​​
+
+423
+00:02:50,621 --> 00:02:50,888
+​​​ ​So don't be afraid​ ​​
+
+424
+00:02:50,888 --> 00:02:51,288
+​​​ ​So don't be afraid​ ​​
+
+425
+00:02:51,288 --> 00:02:51,522
+​​​ ​So don't be afraid​ ​​
+
+426
+00:02:51,522 --> 00:02:51,755
+​​​ ​So don't be afraid​ ​​
+
+427
+00:02:51,755 --> 00:02:52,189
+​​​ ​So don't be afraid​ ​​
+
+428
+00:02:52,189 --> 00:02:52,422
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+429
+00:02:52,422 --> 00:02:52,656
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+430
+00:02:52,656 --> 00:02:53,123
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+431
+00:02:53,123 --> 00:02:53,323
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+432
+00:02:53,323 --> 00:02:53,557
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+433
+00:02:53,557 --> 00:02:54,024
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+434
+00:02:54,024 --> 00:02:54,224
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+435
+00:02:54,224 --> 00:02:54,458
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+436
+00:02:54,458 --> 00:02:54,892
+​​​ ​Trust your heart, keep your head in the game​ ​​
+
+437
+00:02:54,892 --> 00:02:55,159
+​​​ ​(Keep up, keep up​ ​​
+
+438
+00:02:55,159 --> 00:02:55,626
+​​​ ​(Keep up, keep up​ ​​
+
+439
+00:02:55,626 --> 00:02:55,859
+​​​ ​(Keep up, keep up​ ​​
+
+440
+00:02:55,859 --> 00:02:56,293
+​​​ ​(Keep up, keep up​ ​​
+
+441
+00:02:56,293 --> 00:02:56,527
+​​​ ​And never be afraid!!)​ ​​
+
+442
+00:02:56,527 --> 00:02:56,727
+​​​ ​And never be afraid!!)​ ​​
+
+443
+00:02:56,727 --> 00:02:56,994
+​​​ ​And never be afraid!!)​ ​​
+
+444
+00:02:56,994 --> 00:02:57,194
+​​​ ​And never be afraid!!)​ ​​
+
+445
+00:02:57,194 --> 00:02:57,427
+​​​ ​And never be afraid!!)​ ​​
+
+446
+00:02:57,427 --> 00:02:57,661
+​​​ ​And never be afraid!!)​ ​​
+
+447
+00:02:57,661 --> 00:02:57,794
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+448
+00:02:57,794 --> 00:02:57,928
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+449
+00:02:57,928 --> 00:02:58,128
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+450
+00:02:58,128 --> 00:02:58,362
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+451
+00:02:58,362 --> 00:02:58,695
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+452
+00:02:58,695 --> 00:02:58,829
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+453
+00:02:58,829 --> 00:02:59,029
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+454
+00:02:59,029 --> 00:02:59,263
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+455
+00:02:59,263 --> 00:02:59,596
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+456
+00:02:59,596 --> 00:02:59,696
+​​​ ​Gotta make it hot like a volcano​ ​​
+
+457
+00:02:59,696 --> 00:02:59,930
+​​​ ​Strike a match and burn it up​ ​​
+
+458
+00:02:59,930 --> 00:03:00,164
+​​​ ​Strike a match and burn it up​ ​​
+
+459
+00:03:00,164 --> 00:03:00,497
+​​​ ​Strike a match and burn it up​ ​​
+
+460
+00:03:00,497 --> 00:03:00,631
+​​​ ​Strike a match and burn it up​ ​​
+
+461
+00:03:00,631 --> 00:03:00,831
+​​​ ​Strike a match and burn it up​ ​​
+
+462
+00:03:00,831 --> 00:03:01,064
+​​​ ​Strike a match and burn it up​ ​​
+
+463
+00:03:01,064 --> 00:03:01,532
+​​​ ​Strike a match and burn it up​ ​​
+
+464
+00:03:01,532 --> 00:03:01,732
+​​​ ​Kick your feet against the table​ ​​
+
+465
+00:03:01,732 --> 00:03:01,999
+​​​ ​Kick your feet against the table​ ​​
+
+466
+00:03:01,999 --> 00:03:02,332
+​​​ ​Kick your feet against the table​ ​​
+
+467
+00:03:02,332 --> 00:03:02,432
+​​​ ​Kick your feet against the table​ ​​
+
+468
+00:03:02,432 --> 00:03:02,666
+​​​ ​Kick your feet against the table​ ​​
+
+469
+00:03:02,666 --> 00:03:02,900
+​​​ ​Kick your feet against the table​ ​​
+
+470
+00:03:02,900 --> 00:03:03,233
+​​​ ​Kick your feet against the table​ ​​
+
+471
+00:03:03,233 --> 00:03:03,367
+​​​ ​Kick your feet against the table​ ​​
+
+472
+00:03:03,367 --> 00:03:03,600
+​​​ ​To the beat of your own drum​ ​​
+
+473
+00:03:03,600 --> 00:03:03,834
+​​​ ​To the beat of your own drum​ ​​
+
+474
+00:03:03,834 --> 00:03:04,168
+​​​ ​To the beat of your own drum​ ​​
+
+475
+00:03:04,168 --> 00:03:04,268
+​​​ ​To the beat of your own drum​ ​​
+
+476
+00:03:04,268 --> 00:03:04,468
+​​​ ​To the beat of your own drum​ ​​
+
+477
+00:03:04,468 --> 00:03:04,735
+​​​ ​To the beat of your own drum​ ​​
+
+478
+00:03:04,735 --> 00:03:05,402
+​​​ ​To the beat of your own drum​ ​​
+
+479
+00:03:05,402 --> 00:03:05,869
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+480
+00:03:05,869 --> 00:03:06,069
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+481
+00:03:06,069 --> 00:03:06,303
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+482
+00:03:06,303 --> 00:03:06,737
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+483
+00:03:06,737 --> 00:03:07,004
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+484
+00:03:07,004 --> 00:03:07,237
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+485
+00:03:07,237 --> 00:03:07,671
+​​​ ​Sparks light the flame, so don't wait​ ​​
+
+486
+00:03:07,671 --> 00:03:07,905
+​​​ ​Start a fire today​ ​​
+
+487
+00:03:07,905 --> 00:03:08,138
+​​​ ​Start a fire today​ ​​
+
+488
+00:03:08,138 --> 00:03:08,605
+​​​ ​Start a fire today​ ​​
+
+489
+00:03:08,605 --> 00:03:08,805
+​​​ ​Start a fire today​ ​​
+
+490
+00:03:08,805 --> 00:03:09,039
+​​​ ​Start a fire today​ ​​
+
+491
+00:03:09,039 --> 00:03:09,506
+​​​ ​Start a fire today​ ​​
+
+492
+00:03:09,506 --> 00:03:09,740
+​​​ ​(Don't stop, don't stop​ ​​
+
+493
+00:03:09,740 --> 00:03:10,174
+​​​ ​(Don't stop, don't stop​ ​​
+
+494
+00:03:10,174 --> 00:03:10,407
+​​​ ​(Don't stop, don't stop​ ​​
+
+495
+00:03:10,407 --> 00:03:10,841
+​​​ ​(Don't stop, don't stop​ ​​
+
+496
+00:03:10,841 --> 00:03:11,074
+​​​ ​Just go your own way!!)​ ​​
+
+497
+00:03:11,074 --> 00:03:11,275
+​​​ ​Just go your own way!!)​ ​​
+
+498
+00:03:11,275 --> 00:03:11,508
+​​​ ​Just go your own way!!)​ ​​
+
+499
+00:03:11,508 --> 00:03:11,975
+​​​ ​Just go your own way!!)​ ​​
+
+500
+00:03:11,975 --> 00:03:12,176
+​​​ ​Just go your own way!!)​ ​​
+
+501
+00:03:12,176 --> 00:03:12,409
+​​​ ​(Ah yeah)​ ​​
+
+502
+00:03:12,409 --> 00:03:12,910
+​​​ ​(Ah yeah)​ ​​
+
+503
+00:03:12,910 --> 00:03:14,711
+​​​ ​Music, Lyrics: KIRA​ ​​
+
+504
+00:03:14,711 --> 00:03:16,547
+​​​ ​Vocals: Takanashi Kiara​ ​​
+
+505
+00:03:16,547 --> 00:03:18,348
+​​​ ​Illustrations: NeonBeat​ ​​
+
+506
+00:03:18,348 --> 00:03:20,184
+​​​ ​MV: riguruma​ ​​
+
+507
+00:03:20,184 --> 00:03:21,985
+​​​ ​Logo: Spiritsnare​ ​​
+
+508
+00:03:23,787 --> 00:03:26,557
+​​​ ​Takanashi Kiara - SPARKS​ ​​
+
