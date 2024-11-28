@@ -1,0 +1,9368 @@
+1
+00:00:02,860 --> 00:00:05,030
+
+mas
+
+2
+00:00:05,030 --> 00:00:05,040
+mas
+ 
+
+3
+00:00:05,040 --> 00:00:07,370
+mas
+tan n
+
+4
+00:00:07,370 --> 00:00:07,380
+tan n
+ 
+
+5
+00:00:07,380 --> 00:00:09,180
+tan n
+
+6
+00:00:09,180 --> 00:00:09,190
+
+ 
+
+7
+00:00:09,190 --> 00:00:10,440
+
+me
+
+8
+00:00:10,440 --> 00:00:10,450
+me
+ 
+
+9
+00:00:10,450 --> 00:00:13,280
+me
+not n
+
+10
+00:00:13,280 --> 00:00:13,290
+not n
+ 
+
+11
+00:00:13,290 --> 00:00:19,500
+not n
+
+12
+00:00:19,500 --> 00:00:19,510
+
+ 
+
+13
+00:00:19,510 --> 00:00:24,400
+
+me
+
+14
+00:00:24,400 --> 00:00:24,410
+
+ 
+
+15
+00:00:24,410 --> 00:00:26,980
+
+me
+
+16
+00:00:26,980 --> 00:00:26,990
+me
+ 
+
+17
+00:00:26,990 --> 00:00:29,830
+me
+not ni
+
+18
+00:00:29,830 --> 00:00:29,840
+
+ 
+
+19
+00:00:29,840 --> 00:00:34,010
+
+
+20
+00:00:34,010 --> 00:00:34,020
+
+ 
+
+21
+00:00:34,020 --> 00:00:36,040
+
+
+22
+00:00:36,040 --> 00:00:36,050
+
+ 
+
+23
+00:00:36,050 --> 00:00:37,350
+
+me
+
+24
+00:00:37,350 --> 00:00:37,360
+me
+ 
+
+25
+00:00:37,360 --> 00:00:56,970
+me
+[music]
+
+26
+00:00:56,970 --> 00:00:56,980
+
+ 
+
+27
+00:00:56,980 --> 00:00:59,010
+
+nn
+
+28
+00:00:59,010 --> 00:00:59,020
+nn
+ 
+
+29
+00:00:59,020 --> 00:01:09,350
+nn
+
+30
+00:01:09,350 --> 00:01:09,360
+
+ 
+
+31
+00:01:09,360 --> 00:01:11,440
+
+me
+
+32
+00:01:11,440 --> 00:01:11,450
+me
+ 
+
+33
+00:01:11,450 --> 00:01:12,710
+me
+tan
+
+34
+00:01:12,710 --> 00:01:12,720
+tan
+ 
+
+35
+00:01:12,720 --> 00:01:15,560
+tan
+nnnn
+
+36
+00:01:15,560 --> 00:01:15,570
+nnnn
+ 
+
+37
+00:01:15,570 --> 00:01:21,000
+nnnn
+
+38
+00:01:21,000 --> 00:01:21,010
+
+ 
+
+39
+00:01:21,010 --> 00:01:25,899
+
+eeeeee
+
+40
+00:01:25,899 --> 00:01:25,909
+
+ 
+
+41
+00:01:25,909 --> 00:01:27,290
+
+me
+
+42
+00:01:27,290 --> 00:01:27,300
+me
+ 
+
+43
+00:01:27,300 --> 00:01:47,100
+me
+[music]
+
+44
+00:01:47,100 --> 00:01:47,110
+
+ 
+
+45
+00:01:47,110 --> 00:01:49,950
+
+n
+
+46
+00:01:49,950 --> 00:01:49,960
+
+ 
+
+47
+00:01:49,960 --> 00:01:54,570
+
+def n
+
+48
+00:01:54,570 --> 00:01:54,580
+
+ 
+
+49
+00:01:54,580 --> 00:01:55,149
+
+there was n
+
+50
+00:01:55,149 --> 00:01:55,159
+there was n
+ 
+
+51
+00:01:55,159 --> 00:01:59,030
+there was n
+
+52
+00:01:59,030 --> 00:01:59,040
+
+ 
+
+53
+00:01:59,040 --> 00:02:03,910
+
+me me
+
+54
+00:02:03,910 --> 00:02:03,920
+
+ 
+
+55
+00:02:03,920 --> 00:02:06,490
+
+
+56
+00:02:06,490 --> 00:02:06,500
+
+ 
+
+57
+00:02:06,500 --> 00:02:10,660
+
+not
+
+58
+00:02:10,660 --> 00:02:10,670
+
+ 
+
+59
+00:02:10,670 --> 00:02:11,690
+
+eeeeee
+
+60
+00:02:11,690 --> 00:02:11,700
+eeeeee
+ 
+
+61
+00:02:11,700 --> 00:02:13,760
+eeeeee
+
+62
+00:02:13,760 --> 00:02:13,770
+
+ 
+
+63
+00:02:13,770 --> 00:02:15,559
+
+n
+
+64
+00:02:15,559 --> 00:02:15,569
+n
+ 
+
+65
+00:02:15,569 --> 00:02:16,870
+n
+me
+
+66
+00:02:16,870 --> 00:02:16,880
+me
+ 
+
+67
+00:02:16,880 --> 00:02:35,500
+me
+[  [Music]
+
+68
+00:02:35,500 --> 00:02:35,510
+
+ 
+
+69
+00:02:35,510 --> 00:02:38,510
+
+Hmm, I don't
+
+70
+00:02:38,510 --> 00:02:38,520
+Hmm, I don't
+ 
+
+71
+00:02:38,520 --> 00:02:39,600
+Hmm, I don't
+
+72
+00:02:39,600 --> 00:02:39,610
+
+ 
+
+73
+00:02:39,610 --> 00:02:47,830
+
+have it,
+
+74
+00:02:47,830 --> 00:02:47,840
+
+ 
+
+75
+00:02:47,840 --> 00:02:49,410
+
+completely
+
+76
+00:02:49,410 --> 00:02:49,420
+completely
+ 
+
+77
+00:02:49,420 --> 00:02:56,950
+completely
+[Music]
+
+78
+00:02:56,950 --> 00:02:56,960
+[Music]
+ 
+
+79
+00:02:56,960 --> 00:02:59,000
+[Music]
+panos 2
+
+80
+00:02:59,000 --> 00:02:59,010
+panos 2
+ 
+
+81
+00:02:59,010 --> 00:03:01,790
+panos 2
+Upper brother,
+
+82
+00:03:01,790 --> 00:03:01,800
+Upper brother,
+ 
+
+83
+00:03:01,800 --> 00:03:05,150
+Upper brother,
+ah 1, cute one-two,
+
+84
+00:03:05,150 --> 00:03:05,160
+ah 1, cute one-two,
+ 
+
+85
+00:03:05,160 --> 00:03:08,800
+ah 1, cute one-two,
+we're done.
+
+86
+00:03:08,800 --> 00:03:08,810
+
+ 
+
+87
+00:03:08,810 --> 00:03:10,530
+
+[Applause]
+
+88
+00:03:10,530 --> 00:03:10,540
+[Applause]
+ 
+
+89
+00:03:10,540 --> 00:03:19,199
+[Applause]
+a  Achonotes is a boon, an idea, and both days are hitting with a loud voice. It's
+
+90
+00:03:19,199 --> 00:03:19,209
+a  Achonotes is a boon, an idea, and both days are hitting with a loud voice. It's
+ 
+
+91
+00:03:19,209 --> 00:03:21,880
+a  Achonotes is a boon, an idea, and both days are hitting with a loud voice. It's
+impossible to lie.
+
+92
+00:03:21,880 --> 00:03:21,890
+impossible to lie.
+ 
+
+93
+00:03:21,890 --> 00:03:27,370
+impossible to lie.
+Hey, hey, it's convenient. 2 This guy's pie is ok ok ok. It's
+
+94
+00:03:27,370 --> 00:03:27,380
+Hey, hey, it's convenient. 2 This guy's pie is ok ok ok. It's
+ 
+
+95
+00:03:27,380 --> 00:03:30,530
+Hey, hey, it's convenient. 2 This guy's pie is ok ok ok. It's
+quiet, so it's quiet. He's so
+
+96
+00:03:30,530 --> 00:03:30,540
+quiet, so it's quiet. He's so
+ 
+
+97
+00:03:30,540 --> 00:03:34,309
+quiet, so it's quiet. He's so
+strong on tour. This guy is so strong.
+
+98
+00:03:34,309 --> 00:03:34,319
+strong on tour. This guy is so strong.
+ 
+
+99
+00:03:34,319 --> 00:03:39,860
+strong on tour. This guy is so strong.
+Well, that's okay, Aan defense 3 a is the day of lunch s spa
+
+100
+00:03:39,860 --> 00:03:39,870
+Well, that's okay, Aan defense 3 a is the day of lunch s spa
+ 
+
+101
+00:03:39,870 --> 00:03:43,459
+Well, that's okay, Aan defense 3 a is the day of lunch s spa
+show is the super show in first place Chocolat Brown Shirley
+
+102
+00:03:43,459 --> 00:03:43,469
+show is the super show in first place Chocolat Brown Shirley
+ 
+
+103
+00:03:43,469 --> 00:03:51,000
+show is the super show in first place Chocolat Brown Shirley
+2 win  Meeta Tanashi Kiara Ehmm Momo Suzune Hey
+
+104
+00:03:51,000 --> 00:03:51,010
+
+ 
+
+105
+00:03:51,010 --> 00:03:57,690
+
+Ehmm Ah Fin come here KSP Looks like I'll be able to eat bedping
+
+106
+00:03:57,690 --> 00:03:57,700
+Ehmm Ah Fin come here KSP Looks like I'll be able to eat bedping
+ 
+
+107
+00:03:57,700 --> 00:04:03,600
+Ehmm Ah Fin come here KSP Looks like I'll be able to eat bedping
+Space My Kitchen Medium Grain Soap Reinforcements Please introduce yourself in English my name
+
+108
+00:04:03,600 --> 00:04:03,610
+Space My Kitchen Medium Grain Soap Reinforcements Please introduce yourself in English my name
+ 
+
+109
+00:04:03,610 --> 00:04:05,710
+Space My Kitchen Medium Grain Soap Reinforcements Please introduce yourself in English my name
+Good
+
+110
+00:04:05,710 --> 00:04:05,720
+Good
+ 
+
+111
+00:04:05,720 --> 00:04:08,980
+Good
+i love you Aar Pebon
+
+112
+00:04:08,980 --> 00:04:08,990
+i love you Aar Pebon
+ 
+
+113
+00:04:08,990 --> 00:04:09,400
+i love you Aar Pebon
+2
+
+114
+00:04:09,400 --> 00:04:09,410
+2
+ 
+
+115
+00:04:09,410 --> 00:04:10,610
+2
+[Music]
+
+116
+00:04:10,610 --> 00:04:10,620
+[Music]
+ 
+
+117
+00:04:10,620 --> 00:04:14,059
+[Music]
+Burned follower coward that's
+
+118
+00:04:14,059 --> 00:04:14,069
+Burned follower coward that's
+ 
+
+119
+00:04:14,069 --> 00:04:17,680
+Burned follower coward that's
+pretty good English and much more phage is now syspuri
+
+120
+00:04:17,680 --> 00:04:17,690
+pretty good English and much more phage is now syspuri
+ 
+
+121
+00:04:17,690 --> 00:04:19,410
+pretty good English and much more phage is now syspuri
+yeah
+
+122
+00:04:19,410 --> 00:04:19,420
+yeah
+ 
+
+123
+00:04:19,420 --> 00:04:21,009
+yeah
+pane yeah
+
+124
+00:04:21,009 --> 00:04:21,019
+pane yeah
+ 
+
+125
+00:04:21,019 --> 00:04:24,279
+pane yeah
+that's um um more
+
+126
+00:04:24,279 --> 00:04:24,289
+that's um um more
+ 
+
+127
+00:04:24,289 --> 00:04:26,879
+that's um um more
+in Japanese
+
+128
+00:04:26,879 --> 00:04:26,889
+in Japanese
+ 
+
+129
+00:04:26,889 --> 00:04:29,930
+in Japanese
+If you introduce the numbers, what will
+
+130
+00:04:29,930 --> 00:04:29,940
+If you introduce the numbers, what will
+ 
+
+131
+00:04:29,940 --> 00:04:36,399
+If you introduce the numbers, what will
+happen in the hood after noon? In English,
+
+132
+00:04:36,399 --> 00:04:36,409
+
+ 
+
+133
+00:04:36,409 --> 00:04:39,939
+
+it is so easy to say in English  My
+
+134
+00:04:39,939 --> 00:04:45,850
+it is so easy to say in English  My
+ 
+
+135
+00:04:45,850 --> 00:04:49,600
+
+ 
+
+136
+00:04:49,600 --> 00:04:49,610
+
+ 
+
+137
+00:04:49,610 --> 00:04:54,380
+
+sister's eyes are all cherry blossoms. Yeah, it's
+
+138
+00:04:54,380 --> 00:04:54,390
+sister's eyes are all cherry blossoms. Yeah, it's
+ 
+
+139
+00:04:54,390 --> 00:04:57,500
+sister's eyes are all cherry blossoms. Yeah, it's
+bombs, isn't it?
+
+140
+00:04:57,500 --> 00:04:57,510
+bombs, isn't it?
+ 
+
+141
+00:04:57,510 --> 00:04:57,900
+bombs, isn't it?
+[Music]
+
+142
+00:04:57,900 --> 00:04:57,910
+[Music]
+ 
+
+143
+00:04:57,910 --> 00:04:59,710
+[Music]
+[Applause]
+
+144
+00:04:59,710 --> 00:04:59,720
+[Applause]
+ 
+
+145
+00:04:59,720 --> 00:05:04,510
+[Applause]
+Wow, before the fire day or relatives caddy spoon 4 po
+
+146
+00:05:04,510 --> 00:05:04,520
+Wow, before the fire day or relatives caddy spoon 4 po
+ 
+
+147
+00:05:04,520 --> 00:05:08,850
+Wow, before the fire day or relatives caddy spoon 4 po
+cheering n web friends
+
+148
+00:05:08,850 --> 00:05:08,860
+cheering n web friends
+ 
+
+149
+00:05:08,860 --> 00:05:13,770
+cheering n web friends
+rats blue horse racing book incursor nah line arrival
+
+150
+00:05:13,770 --> 00:05:13,780
+rats blue horse racing book incursor nah line arrival
+ 
+
+151
+00:05:13,780 --> 00:05:17,040
+rats blue horse racing book incursor nah line arrival
+Benioff is incapable of thinking what happens is amazing
+
+152
+00:05:17,040 --> 00:05:17,050
+Benioff is incapable of thinking what happens is amazing
+ 
+
+153
+00:05:17,050 --> 00:05:22,050
+Benioff is incapable of thinking what happens is amazing
+a I can't see food hey be careful ex kaoru kissing scene
+
+154
+00:05:22,050 --> 00:05:22,060
+a I can't see food hey be careful ex kaoru kissing scene
+ 
+
+155
+00:05:22,060 --> 00:05:25,920
+a I can't see food hey be careful ex kaoru kissing scene
+First trial turn at the same time  It was at the beginning of the sleep operation, right?
+
+156
+00:05:25,920 --> 00:05:25,930
+First trial turn at the same time  It was at the beginning of the sleep operation, right?
+ 
+
+157
+00:05:25,930 --> 00:05:28,839
+First trial turn at the same time  It was at the beginning of the sleep operation, right?
+First of all, the motor
+
+158
+00:05:28,839 --> 00:05:28,849
+First of all, the motor
+ 
+
+159
+00:05:28,849 --> 00:05:35,320
+First of all, the motor
+photo. I loved Nee-chan. ran. The panda club cabin party. The wave
+
+160
+00:05:35,320 --> 00:05:35,330
+photo. I loved Nee-chan. ran. The panda club cabin party. The wave
+ 
+
+161
+00:05:35,330 --> 00:05:43,689
+photo. I loved Nee-chan. ran. The panda club cabin party. The wave
+winter color kith as singer.
+
+162
+00:05:43,689 --> 00:05:44,619
+winter color kith as singer.
+ 
+
+163
+00:05:44,619 --> 00:05:48,860
+
+ 
+
+164
+00:05:48,860 --> 00:05:48,870
+
+ 
+
+165
+00:05:48,870 --> 00:05:54,620
+
+Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh, Aine Water Background  It was an
+
+166
+00:05:54,620 --> 00:05:58,250
+Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh, Aine Water Background  It was an
+ 
+
+167
+00:05:58,250 --> 00:05:58,710
+
+ 
+
+168
+00:05:58,710 --> 00:06:00,080
+
+ 
+
+169
+00:06:00,080 --> 00:06:04,580
+
+ 
+
+170
+00:06:04,580 --> 00:06:04,590
+
+ 
+
+171
+00:06:04,590 --> 00:06:09,080
+
+incredible miracle. Miracles, sounds, and miracles came in. That's
+
+172
+00:06:09,080 --> 00:06:09,090
+incredible miracle. Miracles, sounds, and miracles came in. That's
+ 
+
+173
+00:06:09,090 --> 00:06:12,890
+incredible miracle. Miracles, sounds, and miracles came in. That's
+why the floating iron without clothes was connected.
+
+174
+00:06:12,890 --> 00:06:12,900
+why the floating iron without clothes was connected.
+ 
+
+175
+00:06:12,900 --> 00:06:20,070
+why the floating iron without clothes was connected.
+Yeah, I got this. I really chose it. It's so hot. I'm an amateur. My
+
+176
+00:06:20,070 --> 00:06:20,080
+Yeah, I got this. I really chose it. It's so hot. I'm an amateur. My
+ 
+
+177
+00:06:20,080 --> 00:06:25,980
+Yeah, I got this. I really chose it. It's so hot. I'm an amateur. My
+brother is a regular at Champon. I've always wanted to collaborate with Nene someday. Well, one
+
+178
+00:06:25,980 --> 00:06:25,990
+brother is a regular at Champon. I've always wanted to collaborate with Nene someday. Well, one
+ 
+
+179
+00:06:25,990 --> 00:06:27,710
+brother is a regular at Champon. I've always wanted to collaborate with Nene someday. Well, one
+
+180
+00:06:27,710 --> 00:06:27,720
+
+ 
+
+181
+00:06:27,720 --> 00:06:35,000
+
+day or so later, well, this is perfect, Kia.  I thought it would be an opportunity for that, so this time,
+
+182
+00:06:35,000 --> 00:06:35,010
+day or so later, well, this is perfect, Kia.  I thought it would be an opportunity for that, so this time,
+ 
+
+183
+00:06:35,010 --> 00:06:35,510
+day or so later, well, this is perfect, Kia.  I thought it would be an opportunity for that, so this time,
+
+184
+00:06:35,510 --> 00:06:35,520
+
+ 
+
+185
+00:06:35,520 --> 00:06:39,470
+
+ofuku lab chira e Zaku hands are also good round trip Abbasia Nu, I do
+
+186
+00:06:39,470 --> 00:06:39,480
+ofuku lab chira e Zaku hands are also good round trip Abbasia Nu, I do
+ 
+
+187
+00:06:39,480 --> 00:06:47,580
+ofuku lab chira e Zaku hands are also good round trip Abbasia Nu, I do
+n't have a fetish so Teacher Doi will be sitting next to me.
+
+188
+00:06:47,580 --> 00:06:47,590
+
+ 
+
+189
+00:06:47,590 --> 00:06:48,710
+
+refer
+
+190
+00:06:48,710 --> 00:06:48,720
+refer
+ 
+
+191
+00:06:48,720 --> 00:06:52,410
+refer
+Uya obijime naa
+
+192
+00:06:52,410 --> 00:06:52,420
+Uya obijime naa
+ 
+
+193
+00:06:52,420 --> 00:06:59,670
+Uya obijime naa
+No, it's late Labo. It's our first collaboration and we're making a piece of sushi. The administration is leaving and the child is in a minute. Come on, Senpai-
+
+194
+00:06:59,670 --> 00:06:59,680
+No, it's late Labo. It's our first collaboration and we're making a piece of sushi. The administration is leaving and the child is in a minute. Come on, Senpai-
+ 
+
+195
+00:06:59,680 --> 00:07:04,980
+No, it's late Labo. It's our first collaboration and we're making a piece of sushi. The administration is leaving and the child is in a minute. Come on, Senpai-
+en. AK 5's clothes were worn twice during the middle of the day. I
+
+196
+00:07:04,980 --> 00:07:04,990
+en. AK 5's clothes were worn twice during the middle of the day. I
+ 
+
+197
+00:07:04,990 --> 00:07:12,400
+en. AK 5's clothes were worn twice during the middle of the day. I
+did this with my seniors as well, but this is also my first off-duty time.  Ha ha ha ha ha ha ha ha ha ha ha ha ha it's
+
+198
+00:07:12,400 --> 00:07:12,410
+did this with my seniors as well, but this is also my first off-duty time.  Ha ha ha ha ha ha ha ha ha ha ha ha ha it's
+ 
+
+199
+00:07:12,410 --> 00:07:14,650
+did this with my seniors as well, but this is also my first off-duty time.  Ha ha ha ha ha ha ha ha ha ha ha ha ha it's
+not great
+
+200
+00:07:14,650 --> 00:07:14,660
+not great
+ 
+
+201
+00:07:14,660 --> 00:07:18,730
+not great
+tomorrow Ams Ag Bruner Club Sports Sister
+
+202
+00:07:18,730 --> 00:07:18,740
+tomorrow Ams Ag Bruner Club Sports Sister
+ 
+
+203
+00:07:18,740 --> 00:07:24,220
+tomorrow Ams Ag Bruner Club Sports Sister
+Pure will make a comeback Doki I'll do it Pottery remittance line generation no moss
+
+204
+00:07:24,220 --> 00:07:24,230
+Pure will make a comeback Doki I'll do it Pottery remittance line generation no moss
+ 
+
+205
+00:07:24,230 --> 00:07:24,790
+Pure will make a comeback Doki I'll do it Pottery remittance line generation no moss
+is away
+
+206
+00:07:24,790 --> 00:07:24,800
+is away
+ 
+
+207
+00:07:24,800 --> 00:07:25,640
+is away
+
+208
+00:07:25,640 --> 00:07:25,650
+
+ 
+
+209
+00:07:25,650 --> 00:07:31,700
+
+Ah, debuting with a voice app, face surfing, root mansa party shadow to guess, you
+
+210
+00:07:31,700 --> 00:07:31,710
+Ah, debuting with a voice app, face surfing, root mansa party shadow to guess, you
+ 
+
+211
+00:07:31,710 --> 00:07:33,499
+Ah, debuting with a voice app, face surfing, root mansa party shadow to guess, you
+'re used to it, right?
+
+212
+00:07:33,499 --> 00:07:33,509
+'re used to it, right?
+ 
+
+213
+00:07:33,509 --> 00:07:35,640
+'re used to it, right?
+Also, it's a sidewalk Kifa party a
+
+214
+00:07:35,640 --> 00:07:35,650
+Also, it's a sidewalk Kifa party a
+ 
+
+215
+00:07:35,650 --> 00:07:38,070
+Also, it's a sidewalk Kifa party a
+[music]
+
+216
+00:07:38,070 --> 00:07:38,080
+[music]
+ 
+
+217
+00:07:38,080 --> 00:07:43,439
+[music]
+A, so you don't have to feel very connected to it, and it's always late, so your subordinates are
+
+218
+00:07:43,439 --> 00:07:43,449
+A, so you don't have to feel very connected to it, and it's always late, so your subordinates are
+ 
+
+219
+00:07:43,449 --> 00:07:45,850
+A, so you don't have to feel very connected to it, and it's always late, so your subordinates are
+vibe-way
+
+220
+00:07:45,850 --> 00:07:45,860
+vibe-way
+ 
+
+221
+00:07:45,860 --> 00:07:49,149
+vibe-way
+yeah.  Yeah yeah my papa dad dad daddy dad
+
+222
+00:07:49,149 --> 00:07:49,159
+yeah.  Yeah yeah my papa dad dad daddy dad
+ 
+
+223
+00:07:49,159 --> 00:07:57,850
+yeah.  Yeah yeah my papa dad dad daddy dad
+in Shaku Seed Pay S ah ah ah child's daddy sister is true
+
+224
+00:07:57,850 --> 00:07:57,860
+in Shaku Seed Pay S ah ah ah child's daddy sister is true
+ 
+
+225
+00:07:57,860 --> 00:07:59,270
+in Shaku Seed Pay S ah ah ah child's daddy sister is true
+[Music]  I've
+
+226
+00:07:59,270 --> 00:07:59,280
+[Music]  I've
+ 
+
+227
+00:07:59,280 --> 00:08:06,860
+[Music]  I've
+always been watching Nee-chan's broadcasts when I'm not on the receiving end of my dad. I'm dead.
+
+228
+00:08:06,860 --> 00:08:06,870
+always been watching Nee-chan's broadcasts when I'm not on the receiving end of my dad. I'm dead.
+ 
+
+229
+00:08:06,870 --> 00:08:09,980
+always been watching Nee-chan's broadcasts when I'm not on the receiving end of my dad. I'm dead.
+Niisosu OS is hairy, senior sushi. Yes, it
+
+230
+00:08:09,980 --> 00:08:09,990
+Niisosu OS is hairy, senior sushi. Yes, it
+ 
+
+231
+00:08:09,990 --> 00:08:16,340
+Niisosu OS is hairy, senior sushi. Yes, it
+'s cool. Oison. Dyed net 4 s rs. I'm starting to abolish dick and 8.  I
+
+232
+00:08:16,340 --> 00:08:16,350
+'s cool. Oison. Dyed net 4 s rs. I'm starting to abolish dick and 8.  I
+ 
+
+233
+00:08:16,350 --> 00:08:18,670
+'s cool. Oison. Dyed net 4 s rs. I'm starting to abolish dick and 8.  I
+saw it a minute ago, but I
+
+234
+00:08:18,670 --> 00:08:18,680
+saw it a minute ago, but I
+ 
+
+235
+00:08:18,680 --> 00:08:23,230
+saw it a minute ago, but I
+have a present for you. What's going on?
+
+236
+00:08:23,230 --> 00:08:23,240
+
+ 
+
+237
+00:08:23,240 --> 00:08:27,820
+
+Ah, Nene-chan,
+
+238
+00:08:27,820 --> 00:08:27,830
+Ah, Nene-chan,
+ 
+
+239
+00:08:27,830 --> 00:08:34,209
+Ah, Nene-chan,
+Mike. Oh, I'm so scared
+
+240
+00:08:34,209 --> 00:08:34,219
+
+ 
+
+241
+00:08:34,219 --> 00:08:39,309
+
+.  I shook it and my dad made it for me. If I ask for it, I'll make
+
+242
+00:08:39,309 --> 00:08:39,319
+.  I shook it and my dad made it for me. If I ask for it, I'll make
+ 
+
+243
+00:08:39,319 --> 00:08:44,530
+.  I shook it and my dad made it for me. If I ask for it, I'll make
+it. Now then, today I wrote it myself, imitating Nee-chan's microphone. Let me
+
+244
+00:08:44,530 --> 00:08:44,540
+it. Now then, today I wrote it myself, imitating Nee-chan's microphone. Let me
+ 
+
+245
+00:08:44,540 --> 00:08:48,840
+it. Now then, today I wrote it myself, imitating Nee-chan's microphone. Let me
+retire or die. By Lord, but
+
+246
+00:08:48,840 --> 00:08:48,850
+retire or die. By Lord, but
+ 
+
+247
+00:08:48,850 --> 00:08:52,920
+retire or die. By Lord, but
+ah, my dad sleeps with the microphone. Franz 4-air batting
+
+248
+00:08:52,920 --> 00:08:52,930
+ah, my dad sleeps with the microphone. Franz 4-air batting
+ 
+
+249
+00:08:52,930 --> 00:08:56,759
+ah, my dad sleeps with the microphone. Franz 4-air batting
+method. It's the same for me.  Oops Hodoyan Generation Actually, Papagaan, he
+
+250
+00:08:56,759 --> 00:08:56,769
+method. It's the same for me.  Oops Hodoyan Generation Actually, Papagaan, he
+ 
+
+251
+00:08:56,769 --> 00:09:01,139
+method. It's the same for me.  Oops Hodoyan Generation Actually, Papagaan, he
+made all the microphones for that Holon Edo. He's so
+
+252
+00:09:01,139 --> 00:09:01,149
+made all the microphones for that Holon Edo. He's so
+ 
+
+253
+00:09:01,149 --> 00:09:04,170
+made all the microphones for that Holon Edo. He's so
+kind and amazing. It's
+
+254
+00:09:04,170 --> 00:09:04,180
+kind and amazing. It's
+ 
+
+255
+00:09:04,180 --> 00:09:08,610
+kind and amazing. It's
+amazing. I'm sure he's waiting and making adjustments. Mae with spread and two and
+
+256
+00:09:08,610 --> 00:09:08,620
+amazing. I'm sure he's waiting and making adjustments. Mae with spread and two and
+ 
+
+257
+00:09:08,620 --> 00:09:08,830
+amazing. I'm sure he's waiting and making adjustments. Mae with spread and two and
+two  It's a
+
+258
+00:09:08,830 --> 00:09:08,840
+two  It's a
+ 
+
+259
+00:09:08,840 --> 00:09:12,190
+two  It's a
+good game to use two of them.The
+
+260
+00:09:12,190 --> 00:09:12,200
+good game to use two of them.The
+ 
+
+261
+00:09:12,200 --> 00:09:18,880
+good game to use two of them.The
+same section is an Iai punter. Soi 4S. Immigrants are already well-known. I'm a
+
+262
+00:09:18,880 --> 00:09:18,890
+same section is an Iai punter. Soi 4S. Immigrants are already well-known. I'm a
+ 
+
+263
+00:09:18,890 --> 00:09:23,860
+same section is an Iai punter. Soi 4S. Immigrants are already well-known. I'm a
+big fan of Banko-san and I really like Naru-chan's microphone and
+
+264
+00:09:23,860 --> 00:09:23,870
+big fan of Banko-san and I really like Naru-chan's microphone and
+ 
+
+265
+00:09:23,870 --> 00:09:27,290
+big fan of Banko-san and I really like Naru-chan's microphone and
+keyboard.  I'm so happy,
+
+266
+00:09:27,290 --> 00:09:27,300
+keyboard.  I'm so happy,
+ 
+
+267
+00:09:27,300 --> 00:09:32,300
+keyboard.  I'm so happy,
+even though I worked hard, it's almost time to go home today. I can't say enough about my solo performance. Hey,
+
+268
+00:09:32,300 --> 00:09:32,310
+even though I worked hard, it's almost time to go home today. I can't say enough about my solo performance. Hey,
+ 
+
+269
+00:09:32,310 --> 00:09:38,160
+even though I worked hard, it's almost time to go home today. I can't say enough about my solo performance. Hey,
+
+270
+00:09:38,160 --> 00:09:38,170
+
+ 
+
+271
+00:09:38,170 --> 00:09:39,700
+
+now we're
+
+272
+00:09:39,700 --> 00:09:39,710
+now we're
+ 
+
+273
+00:09:39,710 --> 00:09:42,820
+now we're
+even more connected. Wow, Ambition Live  It's
+
+274
+00:09:42,820 --> 00:09:42,830
+even more connected. Wow, Ambition Live  It's
+ 
+
+275
+00:09:42,830 --> 00:09:49,210
+even more connected. Wow, Ambition Live  It's
+not bad and it's heavy Aaaa spacey empty space Swing face turn I'm singing my first song I
+
+276
+00:09:49,210 --> 00:09:49,220
+not bad and it's heavy Aaaa spacey empty space Swing face turn I'm singing my first song I
+ 
+
+277
+00:09:49,220 --> 00:09:51,750
+not bad and it's heavy Aaaa spacey empty space Swing face turn I'm singing my first song I
+got an hour
+
+278
+00:09:51,750 --> 00:09:51,760
+got an hour
+ 
+
+279
+00:09:51,760 --> 00:09:57,840
+got an hour
+se resemom f woof woof wan wan wan one screen thing and app
+
+280
+00:09:57,840 --> 00:09:57,850
+se resemom f woof woof wan wan wan one screen thing and app
+ 
+
+281
+00:09:57,850 --> 00:09:58,890
+se resemom f woof woof wan wan wan one screen thing and app
+Screen Zao
+
+282
+00:09:58,890 --> 00:09:58,900
+Screen Zao
+ 
+
+283
+00:09:58,900 --> 00:10:06,920
+Screen Zao
+Bacon puce Tosu will be delivered on 3 screens today Very confusing roller
+
+284
+00:10:06,920 --> 00:10:06,930
+
+ 
+
+285
+00:10:06,930 --> 00:10:08,510
+
+4 f is  -chan
+
+286
+00:10:08,510 --> 00:10:08,520
+4 f is  -chan
+ 
+
+287
+00:10:08,520 --> 00:10:12,150
+4 f is  -chan
+
+288
+00:10:12,150 --> 00:10:12,160
+
+ 
+
+289
+00:10:12,160 --> 00:10:14,410
+
+Ido Ido dog in a small pot who was in the good part
+
+290
+00:10:14,410 --> 00:10:14,420
+Ido Ido dog in a small pot who was in the good part
+ 
+
+291
+00:10:14,420 --> 00:10:16,519
+Ido Ido dog in a small pot who was in the good part
+This crepe is a
+
+292
+00:10:16,519 --> 00:10:16,529
+This crepe is a
+ 
+
+293
+00:10:16,529 --> 00:10:19,510
+This crepe is a
+phoenix hair look
+
+294
+00:10:19,510 --> 00:10:19,520
+phoenix hair look
+ 
+
+295
+00:10:19,520 --> 00:10:20,620
+phoenix hair look
+ana
+
+296
+00:10:20,620 --> 00:10:20,630
+ana
+ 
+
+297
+00:10:20,630 --> 00:10:22,519
+ana
+[Music]
+
+298
+00:10:22,519 --> 00:10:22,529
+[Music]
+ 
+
+299
+00:10:22,529 --> 00:10:30,460
+[Music]
+Yeah
+
+300
+00:10:30,460 --> 00:10:30,470
+
+ 
+
+301
+00:10:30,470 --> 00:10:32,950
+
+[Music]  When I
+
+302
+00:10:32,950 --> 00:10:36,630
+[Music]  When I
+ 
+
+303
+00:10:36,630 --> 00:10:36,640
+
+ 
+
+304
+00:10:36,640 --> 00:10:41,950
+
+see Ryoko Izawa, I always watch Heart Clock Rocky, and
+
+305
+00:10:41,950 --> 00:10:41,960
+
+ 
+
+306
+00:10:41,960 --> 00:10:47,310
+
+my feelings are like marshmallows. Izumo
+
+307
+00:10:47,310 --> 00:10:47,320
+my feelings are like marshmallows. Izumo
+ 
+
+308
+00:10:47,320 --> 00:10:50,780
+my feelings are like marshmallows. Izumo
+Ship 1bar. Is it okay for your ruling party to disappear?
+
+309
+00:10:50,780 --> 00:10:50,790
+Ship 1bar. Is it okay for your ruling party to disappear?
+ 
+
+310
+00:10:50,790 --> 00:10:52,580
+Ship 1bar. Is it okay for your ruling party to disappear?
+When will I start making reservations?
+
+311
+00:10:52,580 --> 00:10:53,440
+When will I start making reservations?
+ 
+
+312
+00:10:53,440 --> 00:10:53,450
+
+ 
+
+313
+00:10:53,450 --> 00:10:56,620
+
+There's no cheese car,
+
+314
+00:10:56,620 --> 00:10:56,630
+There's no cheese car,
+ 
+
+315
+00:10:56,630 --> 00:10:58,809
+There's no cheese car,
+right? It's like I'm in a dream.
+
+316
+00:10:58,809 --> 00:10:58,819
+right? It's like I'm in a dream.
+ 
+
+317
+00:10:58,819 --> 00:11:00,110
+right? It's like I'm in a dream.
+You are  If it flows,
+
+318
+00:11:00,110 --> 00:11:00,120
+You are  If it flows,
+ 
+
+319
+00:11:00,120 --> 00:11:02,430
+You are  If it flows,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+320
+00:11:02,430 --> 00:11:02,440
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ 
+
+321
+00:11:02,440 --> 00:11:05,210
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+gg me nare nuna ni
+
+322
+00:11:05,210 --> 00:11:05,220
+gg me nare nuna ni
+ 
+
+323
+00:11:05,220 --> 00:11:08,639
+gg me nare nuna ni
+
+324
+00:11:08,639 --> 00:11:08,649
+
+ 
+
+325
+00:11:08,649 --> 00:11:09,420
+
+sa
+
+326
+00:11:09,420 --> 00:11:09,430
+sa
+ 
+
+327
+00:11:09,430 --> 00:11:12,079
+sa
+please, if there are two of you
+
+328
+00:11:12,079 --> 00:11:12,089
+please, if there are two of you
+ 
+
+329
+00:11:12,089 --> 00:11:15,460
+please, if there are two of you
+n daimaa
+
+330
+00:11:15,460 --> 00:11:15,470
+n daimaa
+ 
+
+331
+00:11:15,470 --> 00:11:17,110
+n daimaa
+Inu rain
+
+332
+00:11:17,110 --> 00:11:17,120
+Inu rain
+ 
+
+333
+00:11:17,120 --> 00:11:18,620
+Inu rain
+ok ii
+
+334
+00:11:18,620 --> 00:11:18,630
+ok ii
+ 
+
+335
+00:11:18,630 --> 00:11:19,759
+ok ii
+aname
+
+336
+00:11:19,759 --> 00:11:19,769
+aname
+ 
+
+337
+00:11:19,769 --> 00:11:23,440
+aname
+inraku sa sa dai day
+
+338
+00:11:23,440 --> 00:11:23,450
+inraku sa sa dai day
+ 
+
+339
+00:11:23,450 --> 00:11:26,770
+inraku sa sa dai day
+Cars, my dad,
+
+340
+00:11:26,770 --> 00:11:26,780
+Cars, my dad,
+ 
+
+341
+00:11:26,780 --> 00:11:28,800
+Cars, my dad,
+
+342
+00:11:28,800 --> 00:11:28,810
+
+ 
+
+343
+00:11:28,810 --> 00:11:29,820
+
+
+344
+00:11:29,820 --> 00:11:29,830
+
+ 
+
+345
+00:11:29,830 --> 00:11:31,540
+
+[Music]
+
+346
+00:11:31,540 --> 00:11:31,550
+[Music]
+ 
+
+347
+00:11:31,550 --> 00:11:33,840
+[Music]
+Nada
+
+348
+00:11:33,840 --> 00:11:33,850
+Nada
+ 
+
+349
+00:11:33,850 --> 00:11:37,860
+Nada
+re Babataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa so today, I'm going to
+
+350
+00:11:37,860 --> 00:11:37,870
+re Babataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa so today, I'm going to
+ 
+
+351
+00:11:37,870 --> 00:11:42,960
+re Babataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa so today, I'm going to
+add another month to my behavior Today I'm
+
+352
+00:11:42,960 --> 00:11:42,970
+add another month to my behavior Today I'm
+ 
+
+353
+00:11:42,970 --> 00:11:46,259
+add another month to my behavior Today I'm
+wearing dark clothes with a humble smile
+
+354
+00:11:46,259 --> 00:11:46,269
+wearing dark clothes with a humble smile
+ 
+
+355
+00:11:46,269 --> 00:11:48,050
+wearing dark clothes with a humble smile
+Abba c 1 e
+
+356
+00:11:48,050 --> 00:11:48,060
+Abba c 1 e
+ 
+
+357
+00:11:48,060 --> 00:11:55,120
+Abba c 1 e
+eyes 3 c Tame Lord  Miromagic Iimachi closes his eyes,
+
+358
+00:11:55,120 --> 00:11:57,910
+eyes 3 c Tame Lord  Miromagic Iimachi closes his eyes,
+ 
+
+359
+00:11:57,910 --> 00:11:57,920
+
+ 
+
+360
+00:11:57,920 --> 00:12:02,750
+
+Tadashi, I'm on my way. Q: I'm fine with medals.
+
+361
+00:12:02,750 --> 00:12:02,760
+
+ 
+
+362
+00:12:02,760 --> 00:12:04,400
+
+Ni:
+
+363
+00:12:04,400 --> 00:12:04,410
+Ni:
+ 
+
+364
+00:12:04,410 --> 00:12:06,500
+Ni:
+I'm fine with leaving the club.
+
+365
+00:12:06,500 --> 00:12:06,510
+I'm fine with leaving the club.
+ 
+
+366
+00:12:06,510 --> 00:12:10,600
+I'm fine with leaving the club.
+eonon: I'm
+
+367
+00:12:10,600 --> 00:12:10,610
+
+ 
+
+368
+00:12:10,610 --> 00:12:14,170
+
+still running, and I'll see what happens next.
+
+369
+00:12:14,170 --> 00:12:14,180
+still running, and I'll see what happens next.
+ 
+
+370
+00:12:14,180 --> 00:12:16,480
+still running, and I'll see what happens next.
+Girly: I'm
+
+371
+00:12:16,480 --> 00:12:16,490
+Girly: I'm
+ 
+
+372
+00:12:16,490 --> 00:12:18,990
+Girly: I'm
+sad.
+
+373
+00:12:18,990 --> 00:12:19,000
+sad.
+ 
+
+374
+00:12:19,000 --> 00:12:20,489
+sad.
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+375
+00:12:20,489 --> 00:12:22,540
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ 
+
+376
+00:12:22,540 --> 00:12:24,100
+
+ 
+
+377
+00:12:24,100 --> 00:12:27,660
+
+ 
+
+378
+00:12:27,660 --> 00:12:30,730
+
+ 
+
+379
+00:12:30,730 --> 00:12:33,180
+
+ 
+
+380
+00:12:33,180 --> 00:12:33,190
+
+ 
+
+381
+00:12:33,190 --> 00:12:37,340
+
+[music]
+
+382
+00:12:37,340 --> 00:12:37,350
+
+ 
+
+383
+00:12:37,350 --> 00:12:38,430
+
+Lever
+
+384
+00:12:38,430 --> 00:12:38,440
+Lever
+ 
+
+385
+00:12:38,440 --> 00:12:42,370
+Lever
+[laughing]
+
+386
+00:12:42,370 --> 00:12:42,380
+
+ 
+
+387
+00:12:42,380 --> 00:12:43,730
+
+
+388
+00:12:43,730 --> 00:12:43,740
+
+ 
+
+389
+00:12:43,740 --> 00:12:44,440
+
+
+390
+00:12:44,440 --> 00:12:44,450
+
+ 
+
+391
+00:12:44,450 --> 00:12:59,490
+
+[applause] I
+
+392
+00:12:59,490 --> 00:13:01,129
+[applause] I
+ 
+
+393
+00:13:01,129 --> 00:13:02,440
+
+ 
+
+394
+00:13:02,440 --> 00:13:05,090
+
+ 
+
+395
+00:13:05,090 --> 00:13:05,100
+
+ 
+
+396
+00:13:05,100 --> 00:13:07,759
+
+can get it out to nature.  It's
+
+397
+00:13:07,759 --> 00:13:13,460
+can get it out to nature.  It's
+ 
+
+398
+00:13:13,460 --> 00:13:13,470
+
+ 
+
+399
+00:13:13,470 --> 00:13:18,840
+
+such an odd
+
+400
+00:13:18,840 --> 00:13:18,850
+
+ 
+
+401
+00:13:18,850 --> 00:13:20,930
+
+hair and makeup that goes up,
+
+402
+00:13:20,930 --> 00:13:20,940
+hair and makeup that goes up,
+ 
+
+403
+00:13:20,940 --> 00:13:31,510
+hair and makeup that goes up,
+but it's the most difficult, but at the point of thinking only easy with the story cut or concentric
+
+404
+00:13:31,510 --> 00:13:31,520
+
+ 
+
+405
+00:13:31,520 --> 00:13:35,230
+
+
+406
+00:13:35,230 --> 00:13:35,240
+
+ 
+
+407
+00:13:35,240 --> 00:13:36,260
+
+
+408
+00:13:36,260 --> 00:13:39,759
+
+ 
+
+409
+00:13:39,759 --> 00:13:44,790
+
+ 
+
+410
+00:13:44,790 --> 00:13:44,800
+
+ 
+
+411
+00:13:44,800 --> 00:13:46,420
+
+
+412
+00:13:46,420 --> 00:13:46,430
+
+ 
+
+413
+00:13:46,430 --> 00:13:52,790
+
+Well, if you talk about the index and talk about it, that oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, Ah, oh, oh, oh, oh, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ahhhhhhhhhhhh  That's
+
+414
+00:13:52,790 --> 00:13:55,920
+Well, if you talk about the index and talk about it, that oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, Ah, oh, oh, oh, oh, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ahhhhhhhhhhhh  That's
+ 
+
+415
+00:13:55,920 --> 00:13:55,930
+
+ 
+
+416
+00:13:55,930 --> 00:13:58,410
+
+
+417
+00:13:58,410 --> 00:14:00,780
+
+ 
+
+418
+00:14:00,780 --> 00:14:02,100
+
+ 
+
+419
+00:14:02,100 --> 00:14:03,430
+
+ 
+
+420
+00:14:03,430 --> 00:14:06,730
+
+ 
+
+421
+00:14:06,730 --> 00:14:06,740
+
+ 
+
+422
+00:14:06,740 --> 00:14:09,050
+
+
+423
+00:14:09,050 --> 00:14:09,060
+
+ 
+
+424
+00:14:09,060 --> 00:14:20,680
+
+
+425
+00:14:20,680 --> 00:14:20,690
+
+ 
+
+426
+00:14:20,690 --> 00:14:21,879
+
+
+427
+00:14:21,879 --> 00:14:30,759
+
+ 
+
+428
+00:14:30,759 --> 00:14:30,769
+
+ 
+
+429
+00:14:30,769 --> 00:14:34,269
+
+right,
+
+430
+00:14:34,269 --> 00:14:34,279
+right,
+ 
+
+431
+00:14:34,279 --> 00:14:42,480
+right,
+between 4 and 4 light cars, 4 cars, Yo Nee-chan, who likes the most at low temperatures, a fave camper
+
+432
+00:14:42,480 --> 00:14:42,490
+between 4 and 4 light cars, 4 cars, Yo Nee-chan, who likes the most at low temperatures, a fave camper
+ 
+
+433
+00:14:42,490 --> 00:14:46,199
+between 4 and 4 light cars, 4 cars, Yo Nee-chan, who likes the most at low temperatures, a fave camper
+Hey, one shot oo That's right.  A
+
+434
+00:14:46,199 --> 00:14:46,209
+Hey, one shot oo That's right.  A
+ 
+
+435
+00:14:46,209 --> 00:14:49,280
+Hey, one shot oo That's right.  A
+hole in the morning Sonia Summer a
+
+436
+00:14:49,280 --> 00:14:49,290
+hole in the morning Sonia Summer a
+ 
+
+437
+00:14:49,290 --> 00:14:52,620
+hole in the morning Sonia Summer a
+I'm Mugi-chan I can't get addicted to it
+
+438
+00:14:52,620 --> 00:14:52,630
+I'm Mugi-chan I can't get addicted to it
+ 
+
+439
+00:14:52,630 --> 00:15:01,440
+I'm Mugi-chan I can't get addicted to it
+No uk Yay ah something scene Yusyoshi's tongue clacking is nostalgic in English Star of the actual star machine
+
+440
+00:15:01,440 --> 00:15:01,450
+No uk Yay ah something scene Yusyoshi's tongue clacking is nostalgic in English Star of the actual star machine
+ 
+
+441
+00:15:01,450 --> 00:15:04,780
+No uk Yay ah something scene Yusyoshi's tongue clacking is nostalgic in English Star of the actual star machine
+So yeah yeah
+
+442
+00:15:04,780 --> 00:15:04,790
+
+ 
+
+443
+00:15:04,790 --> 00:15:06,950
+
+yeah K-ON Most Valuable Easter
+
+444
+00:15:06,950 --> 00:15:06,960
+yeah K-ON Most Valuable Easter
+ 
+
+445
+00:15:06,960 --> 00:15:14,450
+yeah K-ON Most Valuable Easter
+None of the countries a I'm taking notes right now.  In fact, running chance Apik is a hobby and I
+
+446
+00:15:14,450 --> 00:15:14,460
+None of the countries a I'm taking notes right now.  In fact, running chance Apik is a hobby and I
+ 
+
+447
+00:15:14,460 --> 00:15:20,850
+None of the countries a I'm taking notes right now.  In fact, running chance Apik is a hobby and I
+write lyrics. Naka is member Gunchop as Naka I really want to learn English. It's so
+
+448
+00:15:20,850 --> 00:15:20,860
+write lyrics. Naka is member Gunchop as Naka I really want to learn English. It's so
+ 
+
+449
+00:15:20,860 --> 00:15:24,090
+write lyrics. Naka is member Gunchop as Naka I really want to learn English. It's so
+carefree. It's amazing. It's amazing.  It's a
+
+450
+00:15:24,090 --> 00:15:24,100
+carefree. It's amazing. It's amazing.  It's a
+ 
+
+451
+00:15:24,100 --> 00:15:28,020
+carefree. It's amazing. It's amazing.  It's a
+great nostalgic detector,
+
+452
+00:15:28,020 --> 00:15:28,030
+great nostalgic detector,
+ 
+
+453
+00:15:28,030 --> 00:15:31,480
+great nostalgic detector,
+ah stage, yeah, I want to make
+
+454
+00:15:31,480 --> 00:15:31,490
+ah stage, yeah, I want to make
+ 
+
+455
+00:15:31,490 --> 00:15:36,310
+ah stage, yeah, I want to make
+10,000 yen in excuses for the town pot flutes, and there's English
+
+456
+00:15:36,310 --> 00:15:36,320
+10,000 yen in excuses for the town pot flutes, and there's English
+ 
+
+457
+00:15:36,320 --> 00:15:38,250
+10,000 yen in excuses for the town pot flutes, and there's English
+pisco club Kei
+
+458
+00:15:38,250 --> 00:15:38,260
+pisco club Kei
+ 
+
+459
+00:15:38,260 --> 00:15:40,840
+pisco club Kei
+[music]
+
+460
+00:15:40,840 --> 00:15:40,850
+[music]
+ 
+
+461
+00:15:40,850 --> 00:15:45,750
+[music]
+Oh no, the claws, if you don't say that, the expenditure p. I see, let's go, I can't afford it.  I was
+
+462
+00:15:45,750 --> 00:15:45,760
+Oh no, the claws, if you don't say that, the expenditure p. I see, let's go, I can't afford it.  I was
+ 
+
+463
+00:15:45,760 --> 00:15:49,830
+Oh no, the claws, if you don't say that, the expenditure p. I see, let's go, I can't afford it.  I was
+surprised when my sister told me this a little while ago.
+
+464
+00:15:49,830 --> 00:15:49,840
+surprised when my sister told me this a little while ago.
+ 
+
+465
+00:15:49,840 --> 00:15:50,600
+surprised when my sister told me this a little while ago.
+Dad,
+
+466
+00:15:50,600 --> 00:15:50,610
+Dad,
+ 
+
+467
+00:15:50,610 --> 00:15:54,290
+Dad,
+Sender, Suarez team's white bike equipped with a motorcycle. Wow, my
+
+468
+00:15:54,290 --> 00:15:54,300
+Sender, Suarez team's white bike equipped with a motorcycle. Wow, my
+ 
+
+469
+00:15:54,300 --> 00:15:56,820
+Sender, Suarez team's white bike equipped with a motorcycle. Wow, my
+family's bis fluorescent lights
+
+470
+00:15:56,820 --> 00:15:56,830
+family's bis fluorescent lights
+ 
+
+471
+00:15:56,830 --> 00:16:01,660
+family's bis fluorescent lights
+JC.  Kawaiton Stars egg series is so cute yeah
+
+472
+00:16:01,660 --> 00:16:01,670
+JC.  Kawaiton Stars egg series is so cute yeah
+ 
+
+473
+00:16:01,670 --> 00:16:02,600
+JC.  Kawaiton Stars egg series is so cute yeah
+hahaha
+
+474
+00:16:02,600 --> 00:16:02,610
+hahaha
+ 
+
+475
+00:16:02,610 --> 00:16:06,630
+hahaha
+Suga 22-chan is a grandmother guide Nee-chan An
+
+476
+00:16:06,630 --> 00:16:06,640
+Suga 22-chan is a grandmother guide Nee-chan An
+ 
+
+477
+00:16:06,640 --> 00:16:10,770
+Suga 22-chan is a grandmother guide Nee-chan An
+intelligent seed Dene-chan Iaea
+
+478
+00:16:10,770 --> 00:16:10,780
+intelligent seed Dene-chan Iaea
+ 
+
+479
+00:16:10,780 --> 00:16:12,260
+intelligent seed Dene-chan Iaea
+Environment
+
+480
+00:16:12,260 --> 00:16:12,270
+Environment
+ 
+
+481
+00:16:12,270 --> 00:16:15,830
+Environment
+a I'm going to go to the next song in 4 Paper-chan,
+
+482
+00:16:15,830 --> 00:16:15,840
+a I'm going to go to the next song in 4 Paper-chan,
+ 
+
+483
+00:16:15,840 --> 00:16:20,070
+a I'm going to go to the next song in 4 Paper-chan,
+right? A
+
+484
+00:16:20,070 --> 00:16:20,080
+right? A
+ 
+
+485
+00:16:20,080 --> 00:16:23,400
+right? A
+Huge, wait a minute.  I haven't done it, it's been released, it's
+
+486
+00:16:23,400 --> 00:16:23,410
+Huge, wait a minute.  I haven't done it, it's been released, it's
+ 
+
+487
+00:16:23,410 --> 00:16:27,290
+Huge, wait a minute.  I haven't done it, it's been released, it's
+just a meeting, etc.
+
+488
+00:16:27,290 --> 00:16:27,300
+just a meeting, etc.
+ 
+
+489
+00:16:27,300 --> 00:16:31,939
+just a meeting, etc.
+Is Tigger Spain 9 pin
+
+490
+00:16:31,939 --> 00:16:31,949
+
+ 
+
+491
+00:16:31,949 --> 00:16:34,410
+
+andel Zuai pick
+
+492
+00:16:34,410 --> 00:16:34,420
+andel Zuai pick
+ 
+
+493
+00:16:34,420 --> 00:16:41,939
+andel Zuai pick
+Home Tamura Immediately cheap wage area devoo fasting 4 end Character case worker
+
+494
+00:16:41,939 --> 00:16:41,949
+Home Tamura Immediately cheap wage area devoo fasting 4 end Character case worker
+ 
+
+495
+00:16:41,949 --> 00:16:46,249
+Home Tamura Immediately cheap wage area devoo fasting 4 end Character case worker
+Well, the song that we played today, the
+
+496
+00:16:46,249 --> 00:16:46,259
+Well, the song that we played today, the
+ 
+
+497
+00:16:46,259 --> 00:16:51,229
+Well, the song that we played today, the
+song that one of us has definitely sung at that karaoke.Oh yeah, that's
+
+498
+00:16:51,229 --> 00:16:51,239
+song that one of us has definitely sung at that karaoke.Oh yeah, that's
+ 
+
+499
+00:16:51,239 --> 00:16:53,650
+song that one of us has definitely sung at that karaoke.Oh yeah, that's
+right, this one.Ah, there
+
+500
+00:16:53,650 --> 00:16:53,660
+right, this one.Ah, there
+ 
+
+501
+00:16:53,660 --> 00:16:55,910
+right, this one.Ah, there
+
+502
+00:16:55,910 --> 00:16:55,920
+
+ 
+
+503
+00:16:55,920 --> 00:16:59,990
+
+was someone who had 10,000 from carson.Pen
+
+504
+00:16:59,990 --> 00:17:00,000
+was someone who had 10,000 from carson.Pen
+ 
+
+505
+00:17:00,000 --> 00:17:01,750
+was someone who had 10,000 from carson.Pen
+,
+
+506
+00:17:01,750 --> 00:17:01,760
+,
+ 
+
+507
+00:17:01,760 --> 00:17:04,150
+,
+n ame
+
+508
+00:17:04,150 --> 00:17:04,160
+n ame
+ 
+
+509
+00:17:04,160 --> 00:17:06,850
+n ame
+annual, space, air,
+
+510
+00:17:06,850 --> 00:17:06,860
+annual, space, air,
+ 
+
+511
+00:17:06,860 --> 00:17:10,140
+annual, space, air,
+in Japanese.  ya beer what is this tsurunzuropro
+
+512
+00:17:10,140 --> 00:17:10,150
+in Japanese.  ya beer what is this tsurunzuropro
+ 
+
+513
+00:17:10,150 --> 00:17:13,059
+in Japanese.  ya beer what is this tsurunzuropro
+sacher
+
+514
+00:17:13,059 --> 00:17:13,069
+sacher
+ 
+
+515
+00:17:13,069 --> 00:17:15,910
+sacher
+Japanese not Japanese but
+
+516
+00:17:15,910 --> 00:17:15,920
+Japanese not Japanese but
+ 
+
+517
+00:17:15,920 --> 00:17:17,400
+Japanese not Japanese but
+goodface
+
+518
+00:17:17,400 --> 00:17:17,410
+goodface
+ 
+
+519
+00:17:17,410 --> 00:17:19,490
+goodface
+natoayahi
+
+520
+00:17:19,490 --> 00:17:19,500
+natoayahi
+ 
+
+521
+00:17:19,500 --> 00:17:22,699
+natoayahi
+keyboard ward I'm gonna do this
+
+522
+00:17:22,699 --> 00:17:22,709
+keyboard ward I'm gonna do this
+ 
+
+523
+00:17:22,709 --> 00:17:27,890
+keyboard ward I'm gonna do this
+Hey by Chattaeeee to the dealer j Wingway
+
+524
+00:17:27,890 --> 00:17:27,900
+Hey by Chattaeeee to the dealer j Wingway
+ 
+
+525
+00:17:27,900 --> 00:17:32,960
+Hey by Chattaeeee to the dealer j Wingway
+Take it and play the song kihahaha
+
+526
+00:17:32,960 --> 00:17:32,970
+Take it and play the song kihahaha
+ 
+
+527
+00:17:32,970 --> 00:17:35,860
+Take it and play the song kihahaha
+It's cold.
+
+528
+00:17:35,860 --> 00:17:35,870
+It's cold.
+ 
+
+529
+00:17:35,870 --> 00:17:39,380
+It's cold.
+[Music] Habata said, ``I
+
+530
+00:17:39,380 --> 00:17:39,390
+[Music] Habata said, ``I
+ 
+
+531
+00:17:39,390 --> 00:17:42,580
+[Music] Habata said, ``I
+don't want to
+
+532
+00:17:42,580 --> 00:17:42,590
+don't want to
+ 
+
+533
+00:17:42,590 --> 00:17:45,779
+don't want to
+go back.''
+
+534
+00:17:45,779 --> 00:17:45,789
+go back.''
+ 
+
+535
+00:17:45,789 --> 00:17:49,039
+go back.''
+Aim for a turn, ah
+
+536
+00:17:49,039 --> 00:17:49,049
+
+ 
+
+537
+00:17:49,049 --> 00:17:53,580
+
+v avaya na sonar ah
+
+538
+00:17:53,580 --> 00:17:53,590
+v avaya na sonar ah
+ 
+
+539
+00:17:53,590 --> 00:18:04,810
+v avaya na sonar ah
+[Music] I'm
+
+540
+00:18:04,810 --> 00:18:04,820
+[Music] I'm
+ 
+
+541
+00:18:04,820 --> 00:18:11,139
+[Music] I'm
+learning how to look forward to it, but now I'm starting to grasp the difference.
+
+542
+00:18:11,139 --> 00:18:11,149
+learning how to look forward to it, but now I'm starting to grasp the difference.
+ 
+
+543
+00:18:11,149 --> 00:18:16,700
+learning how to look forward to it, but now I'm starting to grasp the difference.
+It's your time.  My feelings are now expressed in words. It's the
+
+544
+00:18:16,700 --> 00:18:16,710
+It's your time.  My feelings are now expressed in words. It's the
+ 
+
+545
+00:18:16,710 --> 00:18:20,470
+It's your time.  My feelings are now expressed in words. It's the
+road to take.
+
+546
+00:18:20,470 --> 00:18:20,480
+
+ 
+
+547
+00:18:20,480 --> 00:18:23,210
+
+From my dreams,
+
+548
+00:18:23,210 --> 00:18:23,220
+From my dreams,
+ 
+
+549
+00:18:23,220 --> 00:18:30,080
+From my dreams,
+this hero's
+
+550
+00:18:30,080 --> 00:18:30,090
+
+ 
+
+551
+00:18:30,090 --> 00:18:33,090
+
+breadth is teta.
+
+552
+00:18:33,090 --> 00:18:33,100
+breadth is teta.
+ 
+
+553
+00:18:33,100 --> 00:18:35,020
+breadth is teta.
+Hey, I need to go back.
+
+554
+00:18:35,020 --> 00:18:35,030
+Hey, I need to go back.
+ 
+
+555
+00:18:35,030 --> 00:18:36,250
+Hey, I need to go back.
+Eran,
+
+556
+00:18:36,250 --> 00:18:36,260
+Eran,
+ 
+
+557
+00:18:36,260 --> 00:18:39,400
+Eran,
+meza-shita,
+
+558
+00:18:39,400 --> 00:18:39,410
+
+ 
+
+559
+00:18:39,410 --> 00:18:41,340
+
+white, white.  I feel like I'm going to
+
+560
+00:18:41,340 --> 00:18:41,350
+white, white.  I feel like I'm going to
+ 
+
+561
+00:18:41,350 --> 00:18:45,710
+white, white.  I feel like I'm going to
+run out of 36
+
+562
+00:18:45,710 --> 00:18:45,720
+
+ 
+
+563
+00:18:45,720 --> 00:18:47,840
+
+mizca Ruu
+
+564
+00:18:47,840 --> 00:18:47,850
+mizca Ruu
+ 
+
+565
+00:18:47,850 --> 00:18:48,930
+mizca Ruu
+car
+
+566
+00:18:48,930 --> 00:18:48,940
+car
+ 
+
+567
+00:18:48,940 --> 00:18:52,980
+car
+sold out The
+
+568
+00:18:52,980 --> 00:18:52,990
+
+ 
+
+569
+00:18:52,990 --> 00:18:54,010
+
+empty
+
+570
+00:18:54,010 --> 00:18:54,020
+empty
+ 
+
+571
+00:18:54,020 --> 00:18:57,120
+empty
+sky by rie
+
+572
+00:18:57,120 --> 00:18:57,130
+sky by rie
+ 
+
+573
+00:18:57,130 --> 00:19:00,340
+sky by rie
+That kidnapped
+
+574
+00:19:00,340 --> 00:19:00,350
+That kidnapped
+ 
+
+575
+00:19:00,350 --> 00:19:07,930
+That kidnapped
+sky Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa time to sell the car that kidnapped me It's a
+
+576
+00:19:07,930 --> 00:19:07,940
+
+ 
+
+577
+00:19:07,940 --> 00:19:09,450
+
+
+578
+00:19:09,450 --> 00:19:09,460
+
+ 
+
+579
+00:19:09,460 --> 00:19:12,779
+
+deserted place with the sound like
+
+580
+00:19:12,779 --> 00:19:12,789
+deserted place with the sound like
+ 
+
+581
+00:19:12,789 --> 00:19:16,300
+deserted place with the sound like
+Miyagi where the window is broken Kago is step
+
+582
+00:19:16,300 --> 00:19:16,310
+Miyagi where the window is broken Kago is step
+ 
+
+583
+00:19:16,310 --> 00:19:23,240
+Miyagi where the window is broken Kago is step
+twitching It's already thunder to look back
+
+584
+00:19:23,240 --> 00:19:23,250
+twitching It's already thunder to look back
+ 
+
+585
+00:19:23,250 --> 00:19:25,350
+twitching It's already thunder to look back
+What should I write?
+
+586
+00:19:25,350 --> 00:19:25,360
+What should I write?
+ 
+
+587
+00:19:25,360 --> 00:19:30,650
+What should I write?
+Ah, put it on and move again.
+
+588
+00:19:30,650 --> 00:19:30,660
+
+ 
+
+589
+00:19:30,660 --> 00:19:33,260
+
+[Laughs] It's a
+
+590
+00:19:33,260 --> 00:19:33,270
+[Laughs] It's a
+ 
+
+591
+00:19:33,270 --> 00:19:36,410
+[Laughs] It's a
+piece of a car. Do
+
+592
+00:19:36,410 --> 00:19:39,400
+piece of a car. Do
+ 
+
+593
+00:19:39,400 --> 00:19:39,410
+
+ 
+
+594
+00:19:39,410 --> 00:19:42,610
+
+n't invite me. It's
+
+595
+00:19:42,610 --> 00:19:42,620
+n't invite me. It's
+ 
+
+596
+00:19:42,620 --> 00:19:44,899
+n't invite me. It's
+cute.
+
+597
+00:19:44,899 --> 00:19:44,909
+cute.
+ 
+
+598
+00:19:44,909 --> 00:19:47,500
+cute.
+Even if it's a sub-index
+
+599
+00:19:47,500 --> 00:19:47,510
+Even if it's a sub-index
+ 
+
+600
+00:19:47,510 --> 00:19:48,890
+Even if it's a sub-index
+petal.
+
+601
+00:19:48,890 --> 00:19:48,900
+petal.
+ 
+
+602
+00:19:48,900 --> 00:19:52,040
+petal.
+You want to grasp your under Sora Sora
+
+603
+00:19:52,040 --> 00:19:55,350
+You want to grasp your under Sora Sora
+ 
+
+604
+00:19:55,350 --> 00:19:55,360
+
+ 
+
+605
+00:19:55,360 --> 00:20:01,930
+
+Sora
+
+606
+00:20:01,930 --> 00:20:01,940
+
+ 
+
+607
+00:20:01,940 --> 00:20:04,370
+
+Chung Woo Dee
+
+608
+00:20:04,370 --> 00:20:04,380
+Chung Woo Dee
+ 
+
+609
+00:20:04,380 --> 00:20:06,190
+Chung Woo Dee
+Ni
+
+610
+00:20:06,190 --> 00:20:06,200
+Ni
+ 
+
+611
+00:20:06,200 --> 00:20:11,430
+Ni
+None, you'll
+
+612
+00:20:11,430 --> 00:20:11,440
+
+ 
+
+613
+00:20:11,440 --> 00:20:17,750
+
+say you're stupid,
+
+614
+00:20:17,750 --> 00:20:17,760
+say you're stupid,
+ 
+
+615
+00:20:17,760 --> 00:20:21,020
+say you're stupid,
+but it's anger
+
+616
+00:20:21,020 --> 00:20:21,030
+but it's anger
+ 
+
+617
+00:20:21,030 --> 00:20:25,789
+but it's anger
+Ni is good good
+
+618
+00:20:25,789 --> 00:20:28,360
+
+ 
+
+619
+00:20:28,360 --> 00:20:30,140
+
+ 
+
+620
+00:20:30,140 --> 00:20:30,150
+
+ 
+
+621
+00:20:30,150 --> 00:20:31,570
+
+
+622
+00:20:31,570 --> 00:20:33,090
+
+ 
+
+623
+00:20:33,090 --> 00:20:33,100
+
+ 
+
+624
+00:20:33,100 --> 00:20:34,690
+
+good good good good return.
+
+625
+00:20:34,690 --> 00:20:39,280
+good good good good return.
+ 
+
+626
+00:20:39,280 --> 00:20:41,360
+
+ 
+
+627
+00:20:41,360 --> 00:20:44,310
+
+ 
+
+628
+00:20:44,310 --> 00:20:49,670
+
+ 
+
+629
+00:20:49,670 --> 00:20:52,320
+
+ 
+
+630
+00:20:52,320 --> 00:20:52,330
+
+ 
+
+631
+00:20:52,330 --> 00:20:55,610
+
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+632
+00:20:55,610 --> 00:20:59,470
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ 
+
+633
+00:20:59,470 --> 00:20:59,480
+
+ 
+
+634
+00:20:59,480 --> 00:21:02,660
+
+[music]
+
+635
+00:21:02,660 --> 00:21:02,670
+[music]
+ 
+
+636
+00:21:02,670 --> 00:21:04,850
+[music]
+[applause]
+
+637
+00:21:04,850 --> 00:21:04,860
+[applause]
+ 
+
+638
+00:21:04,860 --> 00:21:06,910
+[applause]
+[music]
+
+639
+00:21:06,910 --> 00:21:06,920
+[music]
+ 
+
+640
+00:21:06,920 --> 00:21:09,300
+[music]
+[applause]
+
+641
+00:21:09,300 --> 00:21:09,310
+[applause]
+ 
+
+642
+00:21:09,310 --> 00:21:11,750
+[applause]
+[music]
+
+643
+00:21:11,750 --> 00:21:11,760
+[music]
+ 
+
+644
+00:21:11,760 --> 00:21:14,120
+[music]
+ere
+
+645
+00:21:14,120 --> 00:21:14,130
+
+ 
+
+646
+00:21:14,130 --> 00:21:33,070
+
+oh oh haa everyone was the best in the world darter ah noon ares oa pou dou
+
+647
+00:21:33,070 --> 00:21:33,080
+
+ 
+
+648
+00:21:33,080 --> 00:21:37,099
+
+dou
+
+649
+00:21:37,099 --> 00:21:37,109
+
+ 
+
+650
+00:21:37,109 --> 00:21:41,570
+
+trenders arm 4 ne 安
+
+651
+00:21:41,570 --> 00:21:41,580
+trenders arm 4 ne 安
+ 
+
+652
+00:21:41,580 --> 00:21:43,930
+trenders arm 4 ne 安
+[music]
+
+653
+00:21:43,930 --> 00:21:43,940
+[music]
+ 
+
+654
+00:21:43,940 --> 00:21:49,919
+[music]
+the dirty topix 100 part 2 pesh peep happy gas connection
+
+655
+00:21:49,919 --> 00:21:49,929
+the dirty topix 100 part 2 pesh peep happy gas connection
+ 
+
+656
+00:21:49,929 --> 00:21:54,700
+the dirty topix 100 part 2 pesh peep happy gas connection
+Today I'm doing it more professionally than usual
+
+657
+00:21:54,700 --> 00:21:57,990
+Today I'm doing it more professionally than usual
+ 
+
+658
+00:21:57,990 --> 00:21:58,000
+
+ 
+
+659
+00:21:58,000 --> 00:22:00,890
+
+Thank you daddy for telling me that Nice Lure
+
+660
+00:22:00,890 --> 00:22:00,900
+Thank you daddy for telling me that Nice Lure
+ 
+
+661
+00:22:00,900 --> 00:22:03,980
+Thank you daddy for telling me that Nice Lure
+Wearable Page
+
+662
+00:22:03,980 --> 00:22:03,990
+Wearable Page
+ 
+
+663
+00:22:03,990 --> 00:22:09,710
+Wearable Page
+Wow, Aropecha Afina isn't it lol Shiner You've never sung it in the reception area or in the hallway when it's in stock.
+
+664
+00:22:09,710 --> 00:22:10,700
+Wow, Aropecha Afina isn't it lol Shiner You've never sung it in the reception area or in the hallway when it's in stock.
+ 
+
+665
+00:22:10,700 --> 00:22:10,710
+
+ 
+
+666
+00:22:10,710 --> 00:22:14,750
+
+Hey, I wonder if it happened once, right? You don't remember your forehead or thighs?
+
+667
+00:22:14,750 --> 00:22:17,060
+Hey, I wonder if it happened once, right? You don't remember your forehead or thighs?
+ 
+
+668
+00:22:17,060 --> 00:22:17,070
+
+ 
+
+669
+00:22:17,070 --> 00:22:23,090
+
+Well, wah, I don't remember. I really like my mother and brother, but I really like Nana-chan's songs. I
+
+670
+00:22:23,090 --> 00:22:23,100
+Well, wah, I don't remember. I really like my mother and brother, but I really like Nana-chan's songs. I
+ 
+
+671
+00:22:23,100 --> 00:22:26,330
+Well, wah, I don't remember. I really like my mother and brother, but I really like Nana-chan's songs. I
+think the chair is also a character + the burner. Yeah,
+
+672
+00:22:26,330 --> 00:22:26,340
+think the chair is also a character + the burner. Yeah,
+ 
+
+673
+00:22:26,340 --> 00:22:32,210
+think the chair is also a character + the burner. Yeah,
+yeah.  Yeah yeah ng Moon Nene Chance Swimming is from Japan etc. I
+
+674
+00:22:32,210 --> 00:22:32,220
+yeah.  Yeah yeah ng Moon Nene Chance Swimming is from Japan etc. I
+ 
+
+675
+00:22:32,220 --> 00:22:36,470
+yeah.  Yeah yeah ng Moon Nene Chance Swimming is from Japan etc. I
+think it's the number of swimsuits they do every week during the week of the earning club.I
+
+676
+00:22:36,470 --> 00:22:36,480
+think it's the number of swimsuits they do every week during the week of the earning club.I
+ 
+
+677
+00:22:36,480 --> 00:22:37,080
+think it's the number of swimsuits they do every week during the week of the earning club.I
+
+678
+00:22:37,080 --> 00:22:37,090
+
+ 
+
+679
+00:22:37,090 --> 00:22:40,860
+
+think it's Magure Kamo Kimakun.It's so pink that it wo
+
+680
+00:22:40,860 --> 00:22:40,870
+think it's Magure Kamo Kimakun.It's so pink that it wo
+ 
+
+681
+00:22:40,870 --> 00:22:45,870
+think it's Magure Kamo Kimakun.It's so pink that it wo
+n't be able to cover the second floor of the base.If  san or Extend your dreams Justine I
+
+682
+00:22:45,870 --> 00:22:47,529
+n't be able to cover the second floor of the base.If  san or Extend your dreams Justine I
+ 
+
+683
+00:22:47,529 --> 00:22:47,539
+
+ 
+
+684
+00:22:47,539 --> 00:22:50,529
+
+think he's one of the best singers in that hood live.
+
+685
+00:22:50,529 --> 00:22:50,539
+think he's one of the best singers in that hood live.
+ 
+
+686
+00:22:50,539 --> 00:22:53,619
+think he's one of the best singers in that hood live.
+Seriously, it makes me think too much. I wonder
+
+687
+00:22:53,619 --> 00:22:53,629
+Seriously, it makes me think too much. I wonder
+ 
+
+688
+00:22:53,629 --> 00:22:57,950
+Seriously, it makes me think too much. I wonder
+what's going on in Nakakoen. I wonder what kind of
+
+689
+00:22:57,950 --> 00:22:57,960
+what's going on in Nakakoen. I wonder what kind of
+ 
+
+690
+00:22:57,960 --> 00:23:02,570
+what's going on in Nakakoen. I wonder what kind of
+sushi they'll serve even if I only meet Howlite.  Is it blue crispy?
+
+691
+00:23:02,570 --> 00:23:02,580
+sushi they'll serve even if I only meet Howlite.  Is it blue crispy?
+ 
+
+692
+00:23:02,580 --> 00:23:06,289
+sushi they'll serve even if I only meet Howlite.  Is it blue crispy?
+What is it about in love? There are so many different colors.
+
+693
+00:23:06,289 --> 00:23:06,299
+What is it about in love? There are so many different colors.
+ 
+
+694
+00:23:06,299 --> 00:23:09,280
+What is it about in love? There are so many different colors.
+It's orange.
+
+695
+00:23:09,280 --> 00:23:09,290
+
+ 
+
+696
+00:23:09,290 --> 00:23:13,440
+
+4 fashion patterns, 3 pieces,
+
+697
+00:23:13,440 --> 00:23:13,450
+4 fashion patterns, 3 pieces,
+ 
+
+698
+00:23:13,450 --> 00:23:21,220
+4 fashion patterns, 3 pieces,
+resi, and way, without cheering, cheering, cheering, pal, cheering, finding, cheering, and the
+
+699
+00:23:21,220 --> 00:23:21,230
+resi, and way, without cheering, cheering, cheering, pal, cheering, finding, cheering, and the
+ 
+
+700
+00:23:21,230 --> 00:23:23,500
+resi, and way, without cheering, cheering, cheering, pal, cheering, finding, cheering, and the
+leader. Everyone uses the pillars.
+
+701
+00:23:23,500 --> 00:23:23,510
+leader. Everyone uses the pillars.
+ 
+
+702
+00:23:23,510 --> 00:23:28,680
+leader. Everyone uses the pillars.
+Mr. na, someone said something about Bali. My
+
+703
+00:23:28,680 --> 00:23:28,690
+Mr. na, someone said something about Bali. My
+ 
+
+704
+00:23:28,690 --> 00:23:35,220
+Mr. na, someone said something about Bali. My
+sister's name has something in it. It has nothing to do with my life, right? Well then,
+
+705
+00:23:35,220 --> 00:23:35,230
+sister's name has something in it. It has nothing to do with my life, right? Well then,
+ 
+
+706
+00:23:35,230 --> 00:23:35,820
+sister's name has something in it. It has nothing to do with my life, right? Well then,
+
+707
+00:23:35,820 --> 00:23:35,830
+
+ 
+
+708
+00:23:35,830 --> 00:23:38,570
+
+7 citizens pair
+
+709
+00:23:38,570 --> 00:23:38,580
+7 citizens pair
+ 
+
+710
+00:23:38,580 --> 00:23:42,060
+7 citizens pair
+anand Another sumo wrestler's speech
+
+711
+00:23:42,060 --> 00:23:42,070
+anand Another sumo wrestler's speech
+ 
+
+712
+00:23:42,070 --> 00:23:45,900
+anand Another sumo wrestler's speech
+e h free code One company  Hey Ayumu supporters,
+
+713
+00:23:45,900 --> 00:23:45,910
+e h free code One company  Hey Ayumu supporters,
+ 
+
+714
+00:23:45,910 --> 00:23:50,100
+e h free code One company  Hey Ayumu supporters,
+why do we call it orange even though it's the same thing when you rub it together
+
+715
+00:23:50,100 --> 00:23:51,330
+why do we call it orange even though it's the same thing when you rub it together
+ 
+
+716
+00:23:51,330 --> 00:23:51,340
+
+ 
+
+717
+00:23:51,340 --> 00:23:56,070
+
+? Ah yes, it's a color because it's an image. Hey, ah, Kenbuchi looks
+
+718
+00:23:56,070 --> 00:23:56,080
+? Ah yes, it's a color because it's an image. Hey, ah, Kenbuchi looks
+ 
+
+719
+00:23:56,080 --> 00:23:58,770
+? Ah yes, it's a color because it's an image. Hey, ah, Kenbuchi looks
+cute. It's really good, isn't it?
+
+720
+00:23:58,770 --> 00:23:58,780
+cute. It's really good, isn't it?
+ 
+
+721
+00:23:58,780 --> 00:24:02,280
+cute. It's really good, isn't it?
+Well, the seat is delicious, Momone. Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa from the idea of ​​being a
+
+722
+00:24:02,280 --> 00:24:02,290
+Well, the seat is delicious, Momone. Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa from the idea of ​​being a
+ 
+
+723
+00:24:02,290 --> 00:24:07,470
+Well, the seat is delicious, Momone. Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa from the idea of ​​being a
+fruit lover
+
+724
+00:24:07,470 --> 00:24:13,650
+fruit lover
+ 
+
+725
+00:24:13,650 --> 00:24:18,510
+
+ 
+
+726
+00:24:18,510 --> 00:24:18,520
+
+ 
+
+727
+00:24:18,520 --> 00:24:21,390
+
+
+728
+00:24:21,390 --> 00:24:21,400
+
+ 
+
+729
+00:24:21,400 --> 00:24:23,610
+
+Wow, Spey,
+
+730
+00:24:23,610 --> 00:24:23,620
+Wow, Spey,
+ 
+
+731
+00:24:23,620 --> 00:24:25,740
+Wow, Spey,
+Keach is aaaaaaaaaaaaaaa I
+
+732
+00:24:25,740 --> 00:24:27,110
+Keach is aaaaaaaaaaaaaaa I
+ 
+
+733
+00:24:27,110 --> 00:24:27,120
+
+ 
+
+734
+00:24:27,120 --> 00:24:30,430
+
+wonder if I don't want to eat it? What do you mean
+
+735
+00:24:30,430 --> 00:24:31,510
+wonder if I don't want to eat it? What do you mean
+ 
+
+736
+00:24:31,510 --> 00:24:31,520
+
+ 
+
+737
+00:24:31,520 --> 00:24:36,280
+
+? I don't see. r I've never stolen 7 pieces from the 1st edition. It's definitely true.  It
+
+738
+00:24:36,280 --> 00:24:36,290
+? I don't see. r I've never stolen 7 pieces from the 1st edition. It's definitely true.  It
+ 
+
+739
+00:24:36,290 --> 00:24:39,790
+? I don't see. r I've never stolen 7 pieces from the 1st edition. It's definitely true.  It
+must be growing somewhere. To the knitting place,
+
+740
+00:24:39,790 --> 00:24:39,800
+must be growing somewhere. To the knitting place,
+ 
+
+741
+00:24:39,800 --> 00:24:43,000
+must be growing somewhere. To the knitting place,
+Seshina, dinner balance babe, to 4.
+
+742
+00:24:43,000 --> 00:24:43,010
+Seshina, dinner balance babe, to 4.
+ 
+
+743
+00:24:43,010 --> 00:24:45,590
+Seshina, dinner balance babe, to 4.
+I, capripan, I
+
+744
+00:24:45,590 --> 00:24:48,770
+I, capripan, I
+ 
+
+745
+00:24:48,770 --> 00:24:48,780
+
+ 
+
+746
+00:24:48,780 --> 00:24:54,830
+
+wonder if listening tube Kiichiko is rare in Japan. I don't think it will fly to you, Ume Beats company vivi Tsu Abe Earthchanger
+
+747
+00:24:54,830 --> 00:24:54,840
+wonder if listening tube Kiichiko is rare in Japan. I don't think it will fly to you, Ume Beats company vivi Tsu Abe Earthchanger
+ 
+
+748
+00:24:54,840 --> 00:25:01,130
+wonder if listening tube Kiichiko is rare in Japan. I don't think it will fly to you, Ume Beats company vivi Tsu Abe Earthchanger
+Hmmm.  Wow, I haven't seen many planters in town who hit Amina Ha, but I went to a
+
+749
+00:25:01,130 --> 00:25:01,140
+Hmmm.  Wow, I haven't seen many planters in town who hit Amina Ha, but I went to a
+ 
+
+750
+00:25:01,140 --> 00:25:03,890
+Hmmm.  Wow, I haven't seen many planters in town who hit Amina Ha, but I went to a
+dance the other day,
+
+751
+00:25:03,890 --> 00:25:03,900
+dance the other day,
+ 
+
+752
+00:25:03,900 --> 00:25:07,190
+dance the other day,
+and when I ordered pancakes, I was able to hear the Japanese raspberry in my voice. Hmm.  The
+
+753
+00:25:07,190 --> 00:25:07,200
+and when I ordered pancakes, I was able to hear the Japanese raspberry in my voice. Hmm.  The
+ 
+
+754
+00:25:07,200 --> 00:25:09,220
+and when I ordered pancakes, I was able to hear the Japanese raspberry in my voice. Hmm.  The
+
+755
+00:25:09,220 --> 00:25:09,230
+
+ 
+
+756
+00:25:09,230 --> 00:25:14,260
+
+picture is from Jojo Boots, which is a shop full of raspberries.I'm
+
+757
+00:25:14,260 --> 00:25:14,270
+picture is from Jojo Boots, which is a shop full of raspberries.I'm
+ 
+
+758
+00:25:14,270 --> 00:25:16,100
+picture is from Jojo Boots, which is a shop full of raspberries.I'm
+
+759
+00:25:16,100 --> 00:25:16,110
+
+ 
+
+760
+00:25:16,110 --> 00:25:21,890
+
+carrying all the fighting games that make money, and that little guy is playing too big.It
+
+761
+00:25:21,890 --> 00:25:21,900
+carrying all the fighting games that make money, and that little guy is playing too big.It
+ 
+
+762
+00:25:21,900 --> 00:25:22,400
+carrying all the fighting games that make money, and that little guy is playing too big.It
+
+763
+00:25:22,400 --> 00:25:22,410
+
+ 
+
+764
+00:25:22,410 --> 00:25:27,590
+
+'s also a raspberry.Chat.That's right.It's a different name.It's
+
+765
+00:25:27,590 --> 00:25:27,600
+'s also a raspberry.Chat.That's right.It's a different name.It's
+ 
+
+766
+00:25:27,600 --> 00:25:31,999
+'s also a raspberry.Chat.That's right.It's a different name.It's
+correct.It's also wrong.
+
+767
+00:25:31,999 --> 00:25:32,009
+
+ 
+
+768
+00:25:32,009 --> 00:25:38,100
+
+rastar japanese name for as perry ski area 5 aa
+
+769
+00:25:38,100 --> 00:25:38,110
+rastar japanese name for as perry ski area 5 aa
+ 
+
+770
+00:25:38,110 --> 00:25:42,269
+rastar japanese name for as perry ski area 5 aa
+t you see not japanese sa nazube  I'm going to
+
+771
+00:25:42,269 --> 00:25:42,279
+t you see not japanese sa nazube  I'm going to
+ 
+
+772
+00:25:42,279 --> 00:25:45,119
+t you see not japanese sa nazube  I'm going to
+grow up, I'm going to die, I'm going to fix it in 4.
+
+773
+00:25:45,119 --> 00:25:45,129
+grow up, I'm going to die, I'm going to fix it in 4.
+ 
+
+774
+00:25:45,129 --> 00:25:50,169
+grow up, I'm going to die, I'm going to fix it in 4.
+I can't understand Keech even in c Jan catcher 4. I
+
+775
+00:25:50,169 --> 00:25:50,179
+I can't understand Keech even in c Jan catcher 4. I
+ 
+
+776
+00:25:50,179 --> 00:25:53,420
+I can't understand Keech even in c Jan catcher 4. I
+can understand Yonago if it's straight.
+
+777
+00:25:53,420 --> 00:25:53,430
+can understand Yonago if it's straight.
+ 
+
+778
+00:25:53,430 --> 00:25:55,650
+can understand Yonago if it's straight.
+After all, Nurchan is good. It
+
+779
+00:25:55,650 --> 00:25:55,660
+After all, Nurchan is good. It
+ 
+
+780
+00:25:55,660 --> 00:25:58,870
+After all, Nurchan is good. It
+heals people who came from English point.  I'm sitting in the mother's seat.I'm
+
+781
+00:25:58,870 --> 00:25:58,880
+heals people who came from English point.  I'm sitting in the mother's seat.I'm
+ 
+
+782
+00:25:58,880 --> 00:26:04,360
+heals people who came from English point.  I'm sitting in the mother's seat.I'm
+grateful to Nana-chan for Arthur's eyes.I wear something that feels like a marling spin.Ah
+
+783
+00:26:04,360 --> 00:26:04,370
+grateful to Nana-chan for Arthur's eyes.I wear something that feels like a marling spin.Ah
+ 
+
+784
+00:26:04,370 --> 00:26:05,660
+grateful to Nana-chan for Arthur's eyes.I wear something that feels like a marling spin.Ah
+,
+
+785
+00:26:05,660 --> 00:26:05,670
+,
+ 
+
+786
+00:26:05,670 --> 00:26:10,070
+,
+ok.Well, for now, I went to the song that goes with that feeling.
+
+787
+00:26:10,070 --> 00:26:10,080
+ok.Well, for now, I went to the song that goes with that feeling.
+ 
+
+788
+00:26:10,080 --> 00:26:13,960
+ok.Well, for now, I went to the song that goes with that feeling.
+Rose swing without sound Sam's 6 or pick burn ok The
+
+789
+00:26:13,960 --> 00:26:13,970
+Rose swing without sound Sam's 6 or pick burn ok The
+ 
+
+790
+00:26:13,970 --> 00:26:17,260
+Rose swing without sound Sam's 6 or pick burn ok The
+next song is Tenshu's normal The
+
+791
+00:26:17,260 --> 00:26:17,270
+next song is Tenshu's normal The
+ 
+
+792
+00:26:17,270 --> 00:26:20,740
+next song is Tenshu's normal The
+up village that fits is a principle I can't eat now I'm going to
+
+793
+00:26:20,740 --> 00:26:20,750
+up village that fits is a principle I can't eat now I'm going to
+ 
+
+794
+00:26:20,750 --> 00:26:25,660
+up village that fits is a principle I can't eat now I'm going to
+float Chili oil on my back swing How about a swing draft I'm crazy Pip s When it's dyed I'll start singing from now on  This
+
+795
+00:26:25,660 --> 00:26:25,670
+float Chili oil on my back swing How about a swing draft I'm crazy Pip s When it's dyed I'll start singing from now on  This
+ 
+
+796
+00:26:25,670 --> 00:26:26,950
+float Chili oil on my back swing How about a swing draft I'm crazy Pip s When it's dyed I'll start singing from now on  This
+song is
+
+797
+00:26:26,950 --> 00:26:26,960
+song is
+ 
+
+798
+00:26:26,960 --> 00:26:33,370
+song is
+often sung at karaoke, but it's great that it was sung by two people.This
+
+799
+00:26:33,370 --> 00:26:33,380
+often sung at karaoke, but it's great that it was sung by two people.This
+ 
+
+800
+00:26:33,380 --> 00:26:37,710
+often sung at karaoke, but it's great that it was sung by two people.This
+person must be wearing pants.
+
+801
+00:26:37,710 --> 00:26:39,490
+person must be wearing pants.
+ 
+
+802
+00:26:39,490 --> 00:26:39,500
+
+ 
+
+803
+00:26:39,500 --> 00:26:42,130
+
+ui is return
+
+804
+00:26:42,130 --> 00:26:42,140
+ui is return
+ 
+
+805
+00:26:42,140 --> 00:26:43,420
+ui is return
+management
+
+806
+00:26:43,420 --> 00:26:43,430
+management
+ 
+
+807
+00:26:43,430 --> 00:26:46,130
+management
+Well then the next song is couple
+
+808
+00:26:46,130 --> 00:26:46,140
+Well then the next song is couple
+ 
+
+809
+00:26:46,140 --> 00:26:49,139
+Well then the next song is couple
+yeah
+
+810
+00:26:49,139 --> 00:26:49,149
+
+ 
+
+811
+00:26:49,149 --> 00:26:51,180
+
+yeah yeah I'm
+
+812
+00:26:51,180 --> 00:26:51,190
+yeah yeah I'm
+ 
+
+813
+00:26:51,190 --> 00:26:54,450
+yeah yeah I'm
+going yeah
+
+814
+00:26:54,450 --> 00:26:54,460
+
+ 
+
+815
+00:26:54,460 --> 00:26:57,440
+
+[Music]
+
+816
+00:26:57,440 --> 00:26:57,450
+[Music]
+ 
+
+817
+00:26:57,450 --> 00:26:59,700
+[Music]
+Palloway reflective wear
+
+818
+00:26:59,700 --> 00:26:59,710
+Palloway reflective wear
+ 
+
+819
+00:26:59,710 --> 00:27:02,480
+Palloway reflective wear
+kn-chan s something ah
+
+820
+00:27:02,480 --> 00:27:02,490
+kn-chan s something ah
+ 
+
+821
+00:27:02,490 --> 00:27:06,620
+kn-chan s something ah
+[Music]
+
+822
+00:27:06,620 --> 00:27:06,630
+
+ 
+
+823
+00:27:06,630 --> 00:27:09,970
+
+re too
+
+824
+00:27:09,970 --> 00:27:09,980
+
+ 
+
+825
+00:27:09,980 --> 00:27:11,570
+
+goo
+
+826
+00:27:11,570 --> 00:27:11,580
+goo
+ 
+
+827
+00:27:11,580 --> 00:27:15,320
+goo
+wh
+
+828
+00:27:15,320 --> 00:27:15,330
+
+ 
+
+829
+00:27:15,330 --> 00:27:21,450
+
+[Music] It's a
+
+830
+00:27:21,450 --> 00:27:21,460
+
+ 
+
+831
+00:27:21,460 --> 00:27:23,740
+
+hot pot that will make the
+
+832
+00:27:23,740 --> 00:27:23,750
+hot pot that will make the
+ 
+
+833
+00:27:23,750 --> 00:27:25,500
+hot pot that will make the
+world no
+
+834
+00:27:25,500 --> 00:27:25,510
+world no
+ 
+
+835
+00:27:25,510 --> 00:27:27,810
+world no
+ana  You
+
+836
+00:27:27,810 --> 00:27:27,820
+ana  You
+ 
+
+837
+00:27:27,820 --> 00:27:34,070
+ana  You
+sneeze, you're the memory of the nation, and
+
+838
+00:27:34,070 --> 00:27:36,580
+sneeze, you're the memory of the nation, and
+ 
+
+839
+00:27:36,580 --> 00:27:36,590
+
+ 
+
+840
+00:27:36,590 --> 00:27:41,120
+
+thanks to you, Volt, you've got tetra eyes, and you're the
+
+841
+00:27:41,120 --> 00:27:41,130
+
+ 
+
+842
+00:27:41,130 --> 00:27:47,110
+
+mother of all the shameful things. Lick the bill, it's good, it's
+
+843
+00:27:47,110 --> 00:27:49,250
+mother of all the shameful things. Lick the bill, it's good, it's
+ 
+
+844
+00:27:49,250 --> 00:27:49,260
+
+ 
+
+845
+00:27:49,260 --> 00:27:51,049
+
+good, it's a
+
+846
+00:27:51,049 --> 00:27:51,059
+good, it's a
+ 
+
+847
+00:27:51,059 --> 00:27:53,330
+good, it's a
+light waterfall.
+
+848
+00:27:53,330 --> 00:27:53,340
+light waterfall.
+ 
+
+849
+00:27:53,340 --> 00:27:55,260
+light waterfall.
+ni
+
+850
+00:27:55,260 --> 00:27:55,270
+ni
+ 
+
+851
+00:27:55,270 --> 00:27:57,970
+ni
+[Music]
+
+852
+00:27:57,970 --> 00:27:57,980
+[Music]
+ 
+
+853
+00:27:57,980 --> 00:28:00,190
+[Music]
+anohana
+
+854
+00:28:00,190 --> 00:28:00,200
+anohana
+ 
+
+855
+00:28:00,200 --> 00:28:01,789
+anohana
+cani
+
+856
+00:28:01,789 --> 00:28:01,799
+cani
+ 
+
+857
+00:28:01,799 --> 00:28:04,419
+cani
+me A
+
+858
+00:28:04,419 --> 00:28:04,429
+me A
+ 
+
+859
+00:28:04,429 --> 00:28:07,880
+me A
+good painting of a beautiful woman
+
+860
+00:28:07,880 --> 00:28:07,890
+good painting of a beautiful woman
+ 
+
+861
+00:28:07,890 --> 00:28:11,490
+good painting of a beautiful woman
+[Music] It's a
+
+862
+00:28:11,490 --> 00:28:11,500
+[Music] It's a
+ 
+
+863
+00:28:11,500 --> 00:28:15,080
+[Music] It's a
+color pattern
+
+864
+00:28:15,080 --> 00:28:15,090
+
+ 
+
+865
+00:28:15,090 --> 00:28:19,490
+
+I don't want to paint it
+
+866
+00:28:19,490 --> 00:28:19,500
+I don't want to paint it
+ 
+
+867
+00:28:19,500 --> 00:28:35,120
+I don't want to paint it
+[Music]
+
+868
+00:28:35,120 --> 00:28:35,130
+[Music]
+ 
+
+869
+00:28:35,130 --> 00:28:36,159
+[Music]
+The text is so fat Well, it's so fat
+
+870
+00:28:36,159 --> 00:28:37,610
+The text is so fat Well, it's so fat
+ 
+
+871
+00:28:37,610 --> 00:28:41,360
+
+ 
+
+872
+00:28:41,360 --> 00:28:41,370
+
+ 
+
+873
+00:28:41,370 --> 00:28:42,810
+
+I guess it's a
+
+874
+00:28:42,810 --> 00:28:42,820
+I guess it's a
+ 
+
+875
+00:28:42,820 --> 00:28:44,440
+I guess it's a
+rabbit What's a good
+
+876
+00:28:44,440 --> 00:28:46,499
+rabbit What's a good
+ 
+
+877
+00:28:46,499 --> 00:28:46,509
+
+ 
+
+878
+00:28:46,509 --> 00:28:54,570
+
+guy?  I wonder if it's the club.
+
+879
+00:28:54,570 --> 00:28:54,580
+
+ 
+
+880
+00:28:54,580 --> 00:28:58,590
+
+Makinamanpachieei. I
+
+881
+00:28:58,590 --> 00:29:04,009
+Makinamanpachieei. I
+ 
+
+882
+00:29:04,009 --> 00:29:04,019
+
+ 
+
+883
+00:29:04,019 --> 00:29:08,230
+
+want to go. I want to go. I want to go.
+
+884
+00:29:08,230 --> 00:29:08,240
+want to go. I want to go. I want to go.
+ 
+
+885
+00:29:08,240 --> 00:29:10,510
+want to go. I want to go. I want to go.
+[Music] The
+
+886
+00:29:10,510 --> 00:29:10,520
+[Music] The
+ 
+
+887
+00:29:10,520 --> 00:29:14,600
+[Music] The
+guidance of the constellations is 0
+
+888
+00:29:14,600 --> 00:29:14,610
+
+ 
+
+889
+00:29:14,610 --> 00:29:17,470
+
+ni
+
+890
+00:29:17,470 --> 00:29:17,480
+
+ 
+
+891
+00:29:17,480 --> 00:29:24,790
+
+distance.
+
+892
+00:29:24,790 --> 00:29:24,800
+
+ 
+
+893
+00:29:24,800 --> 00:29:29,299
+
+[Music]
+
+894
+00:29:29,299 --> 00:29:29,309
+[Music]
+ 
+
+895
+00:29:29,309 --> 00:29:31,030
+[Music]
+me
+
+896
+00:29:31,030 --> 00:29:31,040
+me
+ 
+
+897
+00:29:31,040 --> 00:29:38,550
+me
+dea
+
+898
+00:29:38,550 --> 00:29:38,560
+
+ 
+
+899
+00:29:38,560 --> 00:29:42,380
+
+[Music]
+
+900
+00:29:42,380 --> 00:29:42,390
+[Music]
+ 
+
+901
+00:29:42,390 --> 00:29:44,040
+[Music]
+Ahhhhh
+
+902
+00:29:44,040 --> 00:29:44,050
+Ahhhhh
+ 
+
+903
+00:29:44,050 --> 00:29:53,560
+Ahhhhh
+[Music]
+
+904
+00:29:53,560 --> 00:29:53,570
+[Music]
+ 
+
+905
+00:29:53,570 --> 00:29:55,260
+[Music]
+hani
+
+906
+00:29:55,260 --> 00:29:55,270
+hani
+ 
+
+907
+00:29:55,270 --> 00:30:08,530
+hani
+[Music] I want
+
+908
+00:30:08,530 --> 00:30:08,540
+[Music] I want
+ 
+
+909
+00:30:08,540 --> 00:30:16,120
+[Music] I want
+to see Iki's unstoppable care, I'm afraid,
+
+910
+00:30:16,120 --> 00:30:16,130
+
+ 
+
+911
+00:30:16,130 --> 00:30:21,700
+
+my life is now less than 0, I
+
+912
+00:30:21,700 --> 00:30:21,710
+
+ 
+
+913
+00:30:21,710 --> 00:30:25,450
+
+wandered to the end and sank into your shape Good,
+
+914
+00:30:25,450 --> 00:30:27,110
+wandered to the end and sank into your shape Good,
+ 
+
+915
+00:30:27,110 --> 00:30:27,120
+
+ 
+
+916
+00:30:27,120 --> 00:30:28,649
+
+good
+
+917
+00:30:28,649 --> 00:30:28,659
+good
+ 
+
+918
+00:30:28,659 --> 00:30:31,000
+good
+This season's rice terrace store  I
+
+919
+00:30:31,000 --> 00:30:31,010
+This season's rice terrace store  I
+ 
+
+920
+00:30:31,010 --> 00:30:33,340
+This season's rice terrace store  I
+was born
+
+921
+00:30:33,340 --> 00:30:33,350
+was born
+ 
+
+922
+00:30:33,350 --> 00:30:36,840
+was born
+in the middle of the day and don't sleep 22
+
+923
+00:30:36,840 --> 00:30:36,850
+in the middle of the day and don't sleep 22
+ 
+
+924
+00:30:36,850 --> 00:30:38,220
+in the middle of the day and don't sleep 22
+It's good, it's good, the
+
+925
+00:30:38,220 --> 00:30:38,230
+It's good, it's good, the
+ 
+
+926
+00:30:38,230 --> 00:30:41,980
+It's good, it's good, the
+dog wants to warp the equipment Give example
+
+927
+00:30:41,980 --> 00:30:41,990
+dog wants to warp the equipment Give example
+ 
+
+928
+00:30:41,990 --> 00:30:51,800
+dog wants to warp the equipment Give example
+[Music]
+
+929
+00:30:51,800 --> 00:30:51,810
+
+ 
+
+930
+00:30:51,810 --> 00:30:53,110
+
+From the side
+
+931
+00:30:53,110 --> 00:30:53,120
+From the side
+ 
+
+932
+00:30:53,120 --> 00:30:56,240
+From the side
+ani Saya kimi ni
+
+933
+00:30:56,240 --> 00:30:56,250
+ani Saya kimi ni
+ 
+
+934
+00:30:56,250 --> 00:30:59,130
+ani Saya kimi ni
+[Music]
+
+935
+00:30:59,130 --> 00:30:59,140
+[Music]
+ 
+
+936
+00:30:59,140 --> 00:31:04,800
+[Music]
+Guidance dai
+
+937
+00:31:04,800 --> 00:31:04,810
+
+ 
+
+938
+00:31:04,810 --> 00:31:07,940
+
+If you want to go up to the station, you can go in.
+
+939
+00:31:07,940 --> 00:31:07,950
+If you want to go up to the station, you can go in.
+ 
+
+940
+00:31:07,950 --> 00:31:09,380
+If you want to go up to the station, you can go in.
+ani
+
+941
+00:31:09,380 --> 00:31:09,390
+ani
+ 
+
+942
+00:31:09,390 --> 00:31:11,600
+ani
+[Music]
+
+943
+00:31:11,600 --> 00:31:11,610
+[Music]
+ 
+
+944
+00:31:11,610 --> 00:31:13,970
+[Music]
+Shop in the cold
+
+945
+00:31:13,970 --> 00:31:13,980
+Shop in the cold
+ 
+
+946
+00:31:13,980 --> 00:31:15,610
+Shop in the cold
+Until hell
+
+947
+00:31:15,610 --> 00:31:15,620
+Until hell
+ 
+
+948
+00:31:15,620 --> 00:31:24,420
+Until hell
+I'm 0 n ame
+
+949
+00:31:24,420 --> 00:31:24,430
+
+ 
+
+950
+00:31:24,430 --> 00:31:41,140
+
+[Music]
+
+951
+00:31:41,140 --> 00:31:41,150
+
+ 
+
+952
+00:31:41,150 --> 00:31:46,190
+
+[Music]
+
+953
+00:31:46,190 --> 00:31:46,200
+
+ 
+
+954
+00:31:46,200 --> 00:31:49,140
+
+me
+
+955
+00:31:49,140 --> 00:31:49,150
+
+ 
+
+956
+00:31:49,150 --> 00:31:51,470
+
+[Music] Meiji
+
+957
+00:31:51,470 --> 00:31:55,790
+[Music] Meiji
+ 
+
+958
+00:31:55,790 --> 00:31:55,800
+
+ 
+
+959
+00:31:55,800 --> 00:32:02,310
+
+Nechaina-chan and Ame-chan come to see Meiji Nechaina-chan and Ame-chan  Oh yeah
+
+960
+00:32:02,310 --> 00:32:02,320
+
+ 
+
+961
+00:32:02,320 --> 00:32:04,100
+
+[Music]
+
+962
+00:32:04,100 --> 00:32:04,110
+[Music]
+ 
+
+963
+00:32:04,110 --> 00:32:05,500
+[Music]
+yeah
+
+964
+00:32:05,500 --> 00:32:05,510
+yeah
+ 
+
+965
+00:32:05,510 --> 00:32:10,360
+yeah
+Well, what's the matter with the waterway? It's fair to say that the dam cap is 1 ae
+
+966
+00:32:10,360 --> 00:32:10,370
+Well, what's the matter with the waterway? It's fair to say that the dam cap is 1 ae
+ 
+
+967
+00:32:10,370 --> 00:32:17,410
+Well, what's the matter with the waterway? It's fair to say that the dam cap is 1 ae
+Today, hey, my niece, I'm always talking about this in the episode "To Annihilation."  It's
+
+968
+00:32:17,410 --> 00:32:17,420
+Today, hey, my niece, I'm always talking about this in the episode "To Annihilation."  It's
+ 
+
+969
+00:32:17,420 --> 00:32:24,830
+Today, hey, my niece, I'm always talking about this in the episode "To Annihilation."  It's
+been said that I have a granny group connection, but this is a reference to a previous collaboration.I
+
+970
+00:32:24,830 --> 00:32:27,330
+been said that I have a granny group connection, but this is a reference to a previous collaboration.I
+ 
+
+971
+00:32:27,330 --> 00:32:27,340
+
+ 
+
+972
+00:32:27,340 --> 00:32:32,610
+
+mean I'm edgy and stupid, but
+
+973
+00:32:32,610 --> 00:32:32,620
+mean I'm edgy and stupid, but
+ 
+
+974
+00:32:32,620 --> 00:32:33,740
+mean I'm edgy and stupid, but
+
+975
+00:32:33,740 --> 00:32:33,750
+
+ 
+
+976
+00:32:33,750 --> 00:32:36,019
+
+that's the picture I was always called.
+
+977
+00:32:36,019 --> 00:32:36,029
+that's the picture I was always called.
+ 
+
+978
+00:32:36,029 --> 00:32:41,440
+that's the picture I was always called.
+Today's top is a light top lychee, which means I
+
+979
+00:32:41,440 --> 00:32:41,450
+Today's top is a light top lychee, which means I
+ 
+
+980
+00:32:41,450 --> 00:32:44,280
+Today's top is a light top lychee, which means I
+'m in the bar aquarium today, and I'm like, "
+
+981
+00:32:44,280 --> 00:32:45,710
+'m in the bar aquarium today, and I'm like, "
+ 
+
+982
+00:32:45,710 --> 00:32:45,720
+
+ 
+
+983
+00:32:45,720 --> 00:32:50,250
+
+This is it. That's that hood. That's the ridge of en.
+
+984
+00:32:50,250 --> 00:32:50,260
+
+ 
+
+985
+00:32:50,260 --> 00:32:53,520
+
+1 Navi Happy Chap 1 day."
+
+986
+00:32:53,520 --> 00:32:53,530
+1 Navi Happy Chap 1 day."
+ 
+
+987
+00:32:53,530 --> 00:32:57,330
+1 Navi Happy Chap 1 day."
+Otoran Nene-chan is also Bat
+
+988
+00:32:57,330 --> 00:32:57,340
+Otoran Nene-chan is also Bat
+ 
+
+989
+00:32:57,340 --> 00:33:02,250
+Otoran Nene-chan is also Bat
+Chan Island I think Nene-chan Okappi is neat and clean
+
+990
+00:33:02,250 --> 00:33:02,260
+Chan Island I think Nene-chan Okappi is neat and clean
+ 
+
+991
+00:33:02,260 --> 00:33:05,789
+Chan Island I think Nene-chan Okappi is neat and clean
+ip Hey hey Elephant Road of War Hey
+
+992
+00:33:05,789 --> 00:33:05,799
+ip Hey hey Elephant Road of War Hey
+ 
+
+993
+00:33:05,799 --> 00:33:07,049
+ip Hey hey Elephant Road of War Hey
+
+994
+00:33:07,049 --> 00:33:07,059
+
+ 
+
+995
+00:33:07,059 --> 00:33:10,870
+
+Jesus is the one s Oriyasu Ene-chan's
+
+996
+00:33:10,870 --> 00:33:10,880
+Jesus is the one s Oriyasu Ene-chan's
+ 
+
+997
+00:33:10,880 --> 00:33:14,860
+Jesus is the one s Oriyasu Ene-chan's
+Yeah fans, what do you think about Nee-chan?  Are you in formal wear? Huh? It's a
+
+998
+00:33:14,860 --> 00:33:14,870
+Yeah fans, what do you think about Nee-chan?  Are you in formal wear? Huh? It's a
+ 
+
+999
+00:33:14,870 --> 00:33:16,659
+Yeah fans, what do you think about Nee-chan?  Are you in formal wear? Huh? It's a
+
+1000
+00:33:16,659 --> 00:33:16,669
+
+ 
+
+1001
+00:33:16,669 --> 00:33:19,270
+
+meat position. Let's
+
+1002
+00:33:19,270 --> 00:33:19,280
+meat position. Let's
+ 
+
+1003
+00:33:19,280 --> 00:33:22,270
+meat position. Let's
+export it. 12th Ward, Rinji 4 minutes.
+
+1004
+00:33:22,270 --> 00:33:22,280
+export it. 12th Ward, Rinji 4 minutes.
+ 
+
+1005
+00:33:22,280 --> 00:33:23,410
+export it. 12th Ward, Rinji 4 minutes.
+
+1006
+00:33:23,410 --> 00:33:23,420
+
+ 
+
+1007
+00:33:23,420 --> 00:33:25,950
+
+Yuna Pesciari Seesaw. Ah,
+
+1008
+00:33:25,950 --> 00:33:25,960
+Yuna Pesciari Seesaw. Ah,
+ 
+
+1009
+00:33:25,960 --> 00:33:27,010
+Yuna Pesciari Seesaw. Ah,
+yes.
+
+1010
+00:33:27,010 --> 00:33:27,020
+yes.
+ 
+
+1011
+00:33:27,020 --> 00:33:32,020
+yes.
+Worm. I'm tied up again.
+
+1012
+00:33:32,020 --> 00:33:32,030
+Worm. I'm tied up again.
+ 
+
+1013
+00:33:32,030 --> 00:33:36,490
+Worm. I'm tied up again.
+Thinking it's neat and clean, Ibuya Bar Pure
+
+1014
+00:33:36,490 --> 00:33:36,500
+Thinking it's neat and clean, Ibuya Bar Pure
+ 
+
+1015
+00:33:36,500 --> 00:33:40,840
+Thinking it's neat and clean, Ibuya Bar Pure
+Nya Bork Cleaning is hilarious Asian chair
+
+1016
+00:33:40,840 --> 00:33:42,920
+Nya Bork Cleaning is hilarious Asian chair
+ 
+
+1017
+00:33:42,920 --> 00:33:42,930
+
+ 
+
+1018
+00:33:42,930 --> 00:33:44,690
+
+
+1019
+00:33:44,690 --> 00:33:44,700
+
+ 
+
+1020
+00:33:44,700 --> 00:33:48,409
+
+ahhh old man Pompeii Predicting Spanish cat Tsukiko President
+
+1021
+00:33:48,409 --> 00:33:48,419
+ahhh old man Pompeii Predicting Spanish cat Tsukiko President
+ 
+
+1022
+00:33:48,419 --> 00:33:54,380
+ahhh old man Pompeii Predicting Spanish cat Tsukiko President
+by Byrne current CEO Sorane person is being called a bit I see.  It's true, I'm a changer who
+
+1023
+00:33:54,380 --> 00:33:54,390
+by Byrne current CEO Sorane person is being called a bit I see.  It's true, I'm a changer who
+ 
+
+1024
+00:33:54,390 --> 00:33:57,149
+by Byrne current CEO Sorane person is being called a bit I see.  It's true, I'm a changer who
+calls me the store manager, and the
+
+1025
+00:33:57,149 --> 00:33:57,159
+calls me the store manager, and the
+ 
+
+1026
+00:33:57,159 --> 00:34:00,950
+calls me the store manager, and the
+train batter, Charhata, the president.I think the
+
+1027
+00:34:00,950 --> 00:34:00,960
+train batter, Charhata, the president.I think the
+ 
+
+1028
+00:34:00,960 --> 00:34:04,940
+train batter, Charhata, the president.I think the
+sound has gotten better, even when I go there.Somehow,
+
+1029
+00:34:04,940 --> 00:34:04,950
+sound has gotten better, even when I go there.Somehow,
+ 
+
+1030
+00:34:04,950 --> 00:34:10,639
+sound has gotten better, even when I go there.Somehow,
+I'm the same as all the presidents, but that eye.  open to type fp
+
+1031
+00:34:10,639 --> 00:34:10,649
+I'm the same as all the presidents, but that eye.  open to type fp
+ 
+
+1032
+00:34:10,649 --> 00:34:12,200
+I'm the same as all the presidents, but that eye.  open to type fp
+franchise ah,
+
+1033
+00:34:12,200 --> 00:34:12,210
+franchise ah,
+ 
+
+1034
+00:34:12,210 --> 00:34:17,089
+franchise ah,
+book 4 times that type fp that Chiara Fried Phoenix Addon
+
+1035
+00:34:17,089 --> 00:34:17,099
+book 4 times that type fp that Chiara Fried Phoenix Addon
+ 
+
+1036
+00:34:17,099 --> 00:34:20,940
+book 4 times that type fp that Chiara Fried Phoenix Addon
+Train 1 is being used for the time being in order to spread it all over the world
+
+1037
+00:34:20,940 --> 00:34:20,950
+Train 1 is being used for the time being in order to spread it all over the world
+ 
+
+1038
+00:34:20,950 --> 00:34:24,149
+Train 1 is being used for the time being in order to spread it all over the world
+But for now Jonouchi is the president I wonder if
+
+1039
+00:34:24,149 --> 00:34:24,159
+But for now Jonouchi is the president I wonder if
+ 
+
+1040
+00:34:24,159 --> 00:34:28,740
+But for now Jonouchi is the president I wonder if
+that will become Nena eventually  I have to go higher.Hyons are
+
+1041
+00:34:28,740 --> 00:34:28,750
+that will become Nena eventually  I have to go higher.Hyons are
+ 
+
+1042
+00:34:28,750 --> 00:34:30,760
+that will become Nena eventually  I have to go higher.Hyons are
+flying around
+
+1043
+00:34:30,760 --> 00:34:30,770
+flying around
+ 
+
+1044
+00:34:30,770 --> 00:34:36,250
+flying around
+Ebado by Kyane Chowder Garden is for defense s by Yunaka Engine 2 President That English  You can
+
+1045
+00:34:36,250 --> 00:34:36,260
+Ebado by Kyane Chowder Garden is for defense s by Yunaka Engine 2 President That English  You can
+ 
+
+1046
+00:34:36,260 --> 00:34:41,889
+Ebado by Kyane Chowder Garden is for defense s by Yunaka Engine 2 President That English  You can
+tell people in your area why you became the president in Japanese, and I'm in two government offices, so
+
+1047
+00:34:41,889 --> 00:34:41,899
+tell people in your area why you became the president in Japanese, and I'm in two government offices, so
+ 
+
+1048
+00:34:41,899 --> 00:34:47,110
+tell people in your area why you became the president in Japanese, and I'm in two government offices, so
+uhm, Nenepro is that idol production's web president and
+
+1049
+00:34:47,110 --> 00:34:47,120
+uhm, Nenepro is that idol production's web president and
+ 
+
+1050
+00:34:47,120 --> 00:34:48,649
+uhm, Nenepro is that idol production's web president and
+member of the
+
+1051
+00:34:48,649 --> 00:34:48,659
+member of the
+ 
+
+1052
+00:34:48,659 --> 00:34:55,730
+member of the
+Ako Neeneepi board, Nene-chan 9  ade love hnc
+
+1053
+00:34:55,730 --> 00:34:55,740
+Ako Neeneepi board, Nene-chan 9  ade love hnc
+ 
+
+1054
+00:34:55,740 --> 00:35:00,380
+Ako Neeneepi board, Nene-chan 9  ade love hnc
+co-op hey pro ac recognize the state etc. source of Perth c
+
+1055
+00:35:00,380 --> 00:35:00,390
+co-op hey pro ac recognize the state etc. source of Perth c
+ 
+
+1056
+00:35:00,390 --> 00:35:06,610
+co-op hey pro ac recognize the state etc. source of Perth c
+4 a eh, what's the matter?
+
+1057
+00:35:06,610 --> 00:35:06,620
+4 a eh, what's the matter?
+ 
+
+1058
+00:35:06,620 --> 00:35:12,920
+4 a eh, what's the matter?
+Let's connect Well, it's today, but even if you say no, it's now connected
+
+1059
+00:35:12,920 --> 00:35:12,930
+Let's connect Well, it's today, but even if you say no, it's now connected
+ 
+
+1060
+00:35:12,930 --> 00:35:16,280
+Let's connect Well, it's today, but even if you say no, it's now connected
+Singing bug moving bone eating
+
+1061
+00:35:16,280 --> 00:35:16,290
+Singing bug moving bone eating
+ 
+
+1062
+00:35:16,290 --> 00:35:18,990
+Singing bug moving bone eating
+Nexon garden You
+
+1063
+00:35:18,990 --> 00:35:19,000
+Nexon garden You
+ 
+
+1064
+00:35:19,000 --> 00:35:22,130
+Nexon garden You
+can feel sleepy and feel free The
+
+1065
+00:35:22,130 --> 00:35:22,140
+can feel sleepy and feel free The
+ 
+
+1066
+00:35:22,140 --> 00:35:24,690
+can feel sleepy and feel free The
+next big guy
+
+1067
+00:35:24,690 --> 00:35:24,700
+next big guy
+ 
+
+1068
+00:35:24,700 --> 00:35:28,610
+next big guy
+Ayu exo Fan Fans
+
+1069
+00:35:28,610 --> 00:35:28,620
+Ayu exo Fan Fans
+ 
+
+1070
+00:35:28,620 --> 00:35:33,590
+Ayu exo Fan Fans
+Nexon s Ah movie I read this movie in a book  I saw it,
+
+1071
+00:35:33,590 --> 00:35:33,600
+Nexon s Ah movie I read this movie in a book  I saw it,
+ 
+
+1072
+00:35:33,600 --> 00:35:37,310
+Nexon s Ah movie I read this movie in a book  I saw it,
+right? That's right. Can I go to the movie theater alone? Ah, I'm half-
+
+1073
+00:35:37,310 --> 00:35:37,320
+right? That's right. Can I go to the movie theater alone? Ah, I'm half-
+ 
+
+1074
+00:35:37,320 --> 00:35:39,410
+right? That's right. Can I go to the movie theater alone? Ah, I'm half-
+Japanese.
+
+1075
+00:35:39,410 --> 00:35:39,420
+Japanese.
+ 
+
+1076
+00:35:39,420 --> 00:35:40,770
+Japanese.
+
+1077
+00:35:40,770 --> 00:35:43,770
+
+ 
+
+1078
+00:35:43,770 --> 00:35:43,780
+
+ 
+
+1079
+00:35:43,780 --> 00:35:50,430
+
+Movie End I'm sorry for the woman Bills, but the Jet Fallen line is
+
+1080
+00:35:50,430 --> 00:35:50,440
+Movie End I'm sorry for the woman Bills, but the Jet Fallen line is
+ 
+
+1081
+00:35:50,440 --> 00:35:58,200
+Movie End I'm sorry for the woman Bills, but the Jet Fallen line is
+coming without a note from the team Service Chart fireworks Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+
+1082
+00:35:58,200 --> 00:36:01,120
+
+ 
+
+1083
+00:36:01,120 --> 00:36:07,380
+
+ 
+
+1084
+00:36:07,380 --> 00:36:08,539
+
+ 
+
+1085
+00:36:08,539 --> 00:36:09,760
+
+ 
+
+1086
+00:36:09,760 --> 00:36:12,059
+
+ 
+
+1087
+00:36:12,059 --> 00:36:15,270
+
+ 
+
+1088
+00:36:15,270 --> 00:36:15,280
+
+ 
+
+1089
+00:36:15,280 --> 00:36:18,300
+
+-san is secure
+
+1090
+00:36:18,300 --> 00:36:18,310
+-san is secure
+ 
+
+1091
+00:36:18,310 --> 00:36:24,180
+-san is secure
+Savings Stylish Fireworks Fireworks Sister Collection ss Salty Oeah
+
+1092
+00:36:24,180 --> 00:36:24,190
+Savings Stylish Fireworks Fireworks Sister Collection ss Salty Oeah
+ 
+
+1093
+00:36:24,190 --> 00:36:28,700
+Savings Stylish Fireworks Fireworks Sister Collection ss Salty Oeah
+Ahhh, I just cut my nails
+
+1094
+00:36:28,700 --> 00:36:28,710
+Ahhh, I just cut my nails
+ 
+
+1095
+00:36:28,710 --> 00:36:31,640
+Ahhh, I just cut my nails
+Please listen to the fireworks display
+
+1096
+00:36:31,640 --> 00:36:31,650
+Please listen to the fireworks display
+ 
+
+1097
+00:36:31,650 --> 00:36:39,440
+Please listen to the fireworks display
+[Music]  I
+
+1098
+00:36:39,440 --> 00:36:43,240
+
+ 
+
+1099
+00:36:43,240 --> 00:36:43,250
+
+ 
+
+1100
+00:36:43,250 --> 00:36:46,380
+
+still remember the tears that I pasted on my face.
+
+1101
+00:36:46,380 --> 00:36:46,390
+still remember the tears that I pasted on my face.
+ 
+
+1102
+00:36:46,390 --> 00:36:48,819
+still remember the tears that I pasted on my face.
+[Music] The
+
+1103
+00:36:48,819 --> 00:36:48,829
+[Music] The
+ 
+
+1104
+00:36:48,829 --> 00:36:53,200
+[Music] The
+words I carved on top of
+
+1105
+00:36:53,200 --> 00:36:53,210
+words I carved on top of
+ 
+
+1106
+00:36:53,210 --> 00:36:55,710
+words I carved on top of
+your castle
+
+1107
+00:36:55,710 --> 00:36:58,210
+your castle
+ 
+
+1108
+00:36:58,210 --> 00:36:58,220
+
+ 
+
+1109
+00:36:58,220 --> 00:37:00,090
+
+are 6 types. I'm
+
+1110
+00:37:00,090 --> 00:37:00,100
+are 6 types. I'm
+ 
+
+1111
+00:37:00,100 --> 00:37:01,660
+are 6 types. I'm
+crying. My
+
+1112
+00:37:01,660 --> 00:37:01,670
+crying. My
+ 
+
+1113
+00:37:01,670 --> 00:37:04,750
+crying. My
+feet are also road yogis.
+
+1114
+00:37:04,750 --> 00:37:05,900
+feet are also road yogis.
+ 
+
+1115
+00:37:05,900 --> 00:37:05,910
+
+ 
+
+1116
+00:37:05,910 --> 00:37:08,790
+
+[Music] There
+
+1117
+00:37:08,790 --> 00:37:08,800
+[Music] There
+ 
+
+1118
+00:37:08,800 --> 00:37:09,809
+[Music] There
+
+1119
+00:37:09,809 --> 00:37:11,690
+
+ 
+
+1120
+00:37:11,690 --> 00:37:14,210
+
+ 
+
+1121
+00:37:14,210 --> 00:37:14,220
+
+ 
+
+1122
+00:37:14,220 --> 00:37:16,090
+
+'s no ni d. Only the sunset is guts.
+
+1123
+00:37:16,090 --> 00:37:16,100
+'s no ni d. Only the sunset is guts.
+ 
+
+1124
+00:37:16,100 --> 00:37:18,220
+'s no ni d. Only the sunset is guts.
+[Music]  ] It's
+
+1125
+00:37:18,220 --> 00:37:18,230
+[Music]  ] It's
+ 
+
+1126
+00:37:18,230 --> 00:37:19,470
+[Music]  ] It's
+bad, but I
+
+1127
+00:37:19,470 --> 00:37:19,480
+bad, but I
+ 
+
+1128
+00:37:19,480 --> 00:37:23,310
+bad, but I
+saw the actual fireworks. I'm
+
+1129
+00:37:23,310 --> 00:37:24,510
+saw the actual fireworks. I'm
+ 
+
+1130
+00:37:24,510 --> 00:37:24,520
+
+ 
+
+1131
+00:37:24,520 --> 00:37:26,020
+
+
+1132
+00:37:26,020 --> 00:37:26,030
+
+ 
+
+1133
+00:37:26,030 --> 00:37:28,839
+
+
+1134
+00:37:28,839 --> 00:37:28,849
+
+ 
+
+1135
+00:37:28,849 --> 00:37:31,340
+
+sure it hasn't
+
+1136
+00:37:31,340 --> 00:37:31,350
+sure it hasn't
+ 
+
+1137
+00:37:31,350 --> 00:37:35,740
+sure it hasn't
+happened yet. Goo rar. This night we
+
+1138
+00:37:35,740 --> 00:37:35,750
+happened yet. Goo rar. This night we
+ 
+
+1139
+00:37:35,750 --> 00:37:36,980
+happened yet. Goo rar. This night we
+held hands. There were feet.
+
+1140
+00:37:36,980 --> 00:37:36,990
+held hands. There were feet.
+ 
+
+1141
+00:37:36,990 --> 00:37:44,470
+held hands. There were feet.
+[Music]
+
+1142
+00:37:44,470 --> 00:37:44,480
+[Music]
+ 
+
+1143
+00:37:44,480 --> 00:37:47,940
+[Music]
+me
+
+1144
+00:37:47,940 --> 00:37:47,950
+
+ 
+
+1145
+00:37:47,950 --> 00:37:53,350
+
+When it comes to seeing a child fireworks garbage, the village
+
+1146
+00:37:53,350 --> 00:37:53,360
+When it comes to seeing a child fireworks garbage, the village
+ 
+
+1147
+00:37:53,360 --> 00:37:56,160
+When it comes to seeing a child fireworks garbage, the village
+rain becomes big and the house is formed, but the
+
+1148
+00:37:56,160 --> 00:37:56,170
+rain becomes big and the house is formed, but the
+ 
+
+1149
+00:37:56,170 --> 00:37:58,550
+rain becomes big and the house is formed, but the
+stock price is a
+
+1150
+00:37:58,550 --> 00:37:58,560
+stock price is a
+ 
+
+1151
+00:37:58,560 --> 00:38:06,670
+stock price is a
+wave that repeats the pleasure of being hurt.
+
+1152
+00:38:06,670 --> 00:38:06,680
+wave that repeats the pleasure of being hurt.
+ 
+
+1153
+00:38:06,680 --> 00:38:07,670
+wave that repeats the pleasure of being hurt.
+
+1154
+00:38:07,670 --> 00:38:10,040
+
+ 
+
+1155
+00:38:10,040 --> 00:38:10,050
+
+ 
+
+1156
+00:38:10,050 --> 00:38:11,710
+
+
+1157
+00:38:11,710 --> 00:38:11,720
+
+ 
+
+1158
+00:38:11,720 --> 00:38:14,920
+
+Choose between the waves
+
+1159
+00:38:14,920 --> 00:38:14,930
+Choose between the waves
+ 
+
+1160
+00:38:14,930 --> 00:38:19,500
+Choose between the waves
+and say yes
+
+1161
+00:38:19,500 --> 00:38:19,510
+and say yes
+ 
+
+1162
+00:38:19,510 --> 00:38:20,250
+and say yes
+ana
+
+1163
+00:38:20,250 --> 00:38:20,260
+ana
+ 
+
+1164
+00:38:20,260 --> 00:38:25,480
+ana
+[Music]
+
+1165
+00:38:25,480 --> 00:38:25,490
+
+ 
+
+1166
+00:38:25,490 --> 00:38:28,990
+
+Like my car
+
+1167
+00:38:28,990 --> 00:38:29,000
+Like my car
+ 
+
+1168
+00:38:29,000 --> 00:38:32,450
+Like my car
+[Music]
+
+1169
+00:38:32,450 --> 00:38:32,460
+
+ 
+
+1170
+00:38:32,460 --> 00:38:34,880
+
+Sweet colors
+
+1171
+00:38:34,880 --> 00:38:34,890
+Sweet colors
+ 
+
+1172
+00:38:34,890 --> 00:38:36,320
+Sweet colors
+[Music]
+
+1173
+00:38:36,320 --> 00:38:36,330
+[Music]
+ 
+
+1174
+00:38:36,330 --> 00:38:37,850
+[Music]
+ID is a pot bag
+
+1175
+00:38:37,850 --> 00:38:37,860
+ID is a pot bag
+ 
+
+1176
+00:38:37,860 --> 00:38:39,739
+ID is a pot bag
+[Music]
+
+1177
+00:38:39,739 --> 00:38:39,749
+[Music]
+ 
+
+1178
+00:38:39,749 --> 00:38:43,339
+[Music]
+soni
+
+1179
+00:38:43,339 --> 00:38:43,349
+
+ 
+
+1180
+00:38:43,349 --> 00:38:45,790
+
+ana It's
+
+1181
+00:38:45,790 --> 00:38:45,800
+ana It's
+ 
+
+1182
+00:38:45,800 --> 00:38:49,210
+ana It's
+like that,
+
+1183
+00:38:49,210 --> 00:38:49,220
+
+ 
+
+1184
+00:38:49,220 --> 00:38:52,090
+
+suddenly it's like that  The
+
+1185
+00:38:52,090 --> 00:38:52,100
+suddenly it's like that  The
+ 
+
+1186
+00:38:52,100 --> 00:38:54,150
+suddenly it's like that  The
+store
+
+1187
+00:38:54,150 --> 00:38:57,250
+store
+ 
+
+1188
+00:38:57,250 --> 00:38:57,260
+
+ 
+
+1189
+00:38:57,260 --> 00:38:58,570
+
+is a lot of fireworks.
+
+1190
+00:38:58,570 --> 00:38:58,580
+is a lot of fireworks.
+ 
+
+1191
+00:38:58,580 --> 00:38:59,960
+is a lot of fireworks.
+
+1192
+00:38:59,960 --> 00:38:59,970
+
+ 
+
+1193
+00:38:59,970 --> 00:39:03,590
+
+
+1194
+00:39:03,590 --> 00:39:03,600
+
+ 
+
+1195
+00:39:03,600 --> 00:39:04,780
+
+
+1196
+00:39:04,780 --> 00:39:04,790
+
+ 
+
+1197
+00:39:04,790 --> 00:39:07,240
+
+
+1198
+00:39:07,240 --> 00:39:09,520
+
+ 
+
+1199
+00:39:09,520 --> 00:39:12,220
+
+ 
+
+1200
+00:39:12,220 --> 00:39:14,190
+
+ 
+
+1201
+00:39:14,190 --> 00:39:16,500
+
+ 
+
+1202
+00:39:16,500 --> 00:39:16,510
+
+ 
+
+1203
+00:39:16,510 --> 00:39:18,310
+
+
+1204
+00:39:18,310 --> 00:39:18,320
+
+ 
+
+1205
+00:39:18,320 --> 00:39:20,760
+
+
+1206
+00:39:20,760 --> 00:39:24,380
+
+ 
+
+1207
+00:39:24,380 --> 00:39:27,600
+
+ 
+
+1208
+00:39:27,600 --> 00:39:27,610
+
+ 
+
+1209
+00:39:27,610 --> 00:39:33,850
+
+I remember
+
+1210
+00:39:33,850 --> 00:39:33,860
+I remember
+ 
+
+1211
+00:39:33,860 --> 00:39:36,020
+I remember
+[Music]
+
+1212
+00:39:36,020 --> 00:39:36,030
+[Music]
+ 
+
+1213
+00:39:36,030 --> 00:39:40,680
+[Music]
+The words carved on top of it The
+
+1214
+00:39:40,680 --> 00:39:40,690
+The words carved on top of it The
+ 
+
+1215
+00:39:40,690 --> 00:39:45,740
+The words carved on top of it The
+image of your child I
+
+1216
+00:39:45,740 --> 00:39:45,750
+
+ 
+
+1217
+00:39:45,750 --> 00:39:47,180
+
+was a batter and I was
+
+1218
+00:39:47,180 --> 00:39:47,190
+was a batter and I was
+ 
+
+1219
+00:39:47,190 --> 00:39:48,829
+was a batter and I was
+
+1220
+00:39:48,829 --> 00:39:48,839
+
+ 
+
+1221
+00:39:48,839 --> 00:39:51,280
+
+watching San Viva
+
+1222
+00:39:51,280 --> 00:39:51,290
+watching San Viva
+ 
+
+1223
+00:39:51,290 --> 00:39:52,510
+watching San Viva
+Yamada
+
+1224
+00:39:52,510 --> 00:39:52,520
+Yamada
+ 
+
+1225
+00:39:52,520 --> 00:39:56,339
+Yamada
+[Music]
+
+1226
+00:39:56,339 --> 00:39:56,349
+
+ 
+
+1227
+00:39:56,349 --> 00:39:58,860
+
+Bar around the time of Gainers  I've been
+
+1228
+00:39:58,860 --> 00:39:58,870
+Bar around the time of Gainers  I've been
+ 
+
+1229
+00:39:58,870 --> 00:40:02,970
+Bar around the time of Gainers  I've been
+picking it since this night. There
+
+1230
+00:40:02,970 --> 00:40:02,980
+picking it since this night. There
+ 
+
+1231
+00:40:02,980 --> 00:40:04,910
+picking it since this night. There
+was telepathy.
+
+1232
+00:40:04,910 --> 00:40:04,920
+was telepathy.
+ 
+
+1233
+00:40:04,920 --> 00:40:07,650
+was telepathy.
+
+1234
+00:40:07,650 --> 00:40:10,710
+
+ 
+
+1235
+00:40:10,710 --> 00:40:10,720
+
+ 
+
+1236
+00:40:10,720 --> 00:40:12,630
+
+
+1237
+00:40:12,630 --> 00:40:13,840
+
+ 
+
+1238
+00:40:13,840 --> 00:40:16,420
+
+ 
+
+1239
+00:40:16,420 --> 00:40:18,160
+
+ 
+
+1240
+00:40:18,160 --> 00:40:18,170
+
+ 
+
+1241
+00:40:18,170 --> 00:40:23,720
+
+
+1242
+00:40:23,720 --> 00:40:26,430
+
+ 
+
+1243
+00:40:26,430 --> 00:40:27,630
+
+ 
+
+1244
+00:40:27,630 --> 00:40:27,640
+
+ 
+
+1245
+00:40:27,640 --> 00:40:32,660
+
+
+1246
+00:40:32,660 --> 00:40:33,870
+
+ 
+
+1247
+00:40:33,870 --> 00:40:33,880
+
+ 
+
+1248
+00:40:33,880 --> 00:40:35,320
+
+
+1249
+00:40:35,320 --> 00:40:35,330
+
+ 
+
+1250
+00:40:35,330 --> 00:40:36,400
+
+
+1251
+00:40:36,400 --> 00:40:39,780
+
+ 
+
+1252
+00:40:39,780 --> 00:40:39,790
+
+ 
+
+1253
+00:40:39,790 --> 00:40:44,790
+
+
+1254
+00:40:44,790 --> 00:40:44,800
+
+ 
+
+1255
+00:40:44,800 --> 00:40:46,400
+
+ni
+
+1256
+00:40:46,400 --> 00:40:46,410
+ni
+ 
+
+1257
+00:40:46,410 --> 00:40:52,680
+ni
+location money technique upload excel apex until a little bit from the sound wiper
+
+1258
+00:40:52,680 --> 00:40:52,690
+location money technique upload excel apex until a little bit from the sound wiper
+ 
+
+1259
+00:40:52,690 --> 00:40:54,750
+location money technique upload excel apex until a little bit from the sound wiper
+I'm an employee then bobbin the
+
+1260
+00:40:54,750 --> 00:40:54,760
+I'm an employee then bobbin the
+ 
+
+1261
+00:40:54,760 --> 00:40:58,500
+I'm an employee then bobbin the
+result is the same show fate
+
+1262
+00:40:58,500 --> 00:40:58,510
+result is the same show fate
+ 
+
+1263
+00:40:58,510 --> 00:41:00,800
+result is the same show fate
+uh hey how
+
+1264
+00:41:00,800 --> 00:41:00,810
+uh hey how
+ 
+
+1265
+00:41:00,810 --> 00:41:02,150
+uh hey how
+[music]
+
+1266
+00:41:02,150 --> 00:41:02,160
+[music]
+ 
+
+1267
+00:41:02,160 --> 00:41:07,160
+[music]
+apeku seei
+
+1268
+00:41:07,160 --> 00:41:07,170
+
+ 
+
+1269
+00:41:07,170 --> 00:41:11,960
+
+Ah, Hanyu's sound woes are distributed only by Legian, who inherited the medical uniform. Ah,
+
+1270
+00:41:11,960 --> 00:41:11,970
+Ah, Hanyu's sound woes are distributed only by Legian, who inherited the medical uniform. Ah,
+ 
+
+1271
+00:41:11,970 --> 00:41:16,609
+Ah, Hanyu's sound woes are distributed only by Legian, who inherited the medical uniform. Ah,
+if there was still time left at the end, maybe we could sing it one more time, but I wonder if there's
+
+1272
+00:41:16,609 --> 00:41:16,619
+if there was still time left at the end, maybe we could sing it one more time, but I wonder if there's
+ 
+
+1273
+00:41:16,619 --> 00:41:21,120
+if there was still time left at the end, maybe we could sing it one more time, but I wonder if there's
+enough left. Should we just start the excitement from the island?
+
+1274
+00:41:21,120 --> 00:41:25,710
+enough left. Should we just start the excitement from the island?
+ 
+
+1275
+00:41:25,710 --> 00:41:25,720
+
+ 
+
+1276
+00:41:25,720 --> 00:41:30,040
+
+It was a rice field that didn't happen
+
+1277
+00:41:30,040 --> 00:41:30,050
+It was a rice field that didn't happen
+ 
+
+1278
+00:41:30,050 --> 00:41:30,500
+It was a rice field that didn't happen
+[applause]
+
+1279
+00:41:30,500 --> 00:41:30,510
+[applause]
+ 
+
+1280
+00:41:30,510 --> 00:41:36,400
+[applause]
+[music]
+
+1281
+00:41:36,400 --> 00:41:36,410
+[music]
+ 
+
+1282
+00:41:36,410 --> 00:41:40,030
+[music]
+world as a stnd as an
+
+1283
+00:41:40,030 --> 00:41:40,040
+world as a stnd as an
+ 
+
+1284
+00:41:40,040 --> 00:41:50,960
+world as a stnd as an
+boo boo sr well in for a
+
+1285
+00:41:50,960 --> 00:41:50,970
+boo boo sr well in for a
+ 
+
+1286
+00:41:50,970 --> 00:41:54,230
+boo boo sr well in for a
+I go back and forth to other worlds, and it's like I
+
+1287
+00:41:54,230 --> 00:41:54,240
+I go back and forth to other worlds, and it's like I
+ 
+
+1288
+00:41:54,240 --> 00:41:57,090
+I go back and forth to other worlds, and it's like I
+'m watching the wind, but
+
+1289
+00:41:57,090 --> 00:41:57,100
+'m watching the wind, but
+ 
+
+1290
+00:41:57,100 --> 00:42:00,300
+'m watching the wind, but
+every time I come back to life, I'm mixed with another world.Now,
+
+1291
+00:42:00,300 --> 00:42:00,310
+every time I come back to life, I'm mixed with another world.Now,
+ 
+
+1292
+00:42:00,310 --> 00:42:06,570
+every time I come back to life, I'm mixed with another world.Now,
+perhaps due to my influence, Ne-chan is somehow erased, and once she enters the Kasodai isomer, it's because
+
+1293
+00:42:06,570 --> 00:42:06,580
+perhaps due to my influence, Ne-chan is somehow erased, and once she enters the Kasodai isomer, it's because
+ 
+
+1294
+00:42:06,580 --> 00:42:10,279
+perhaps due to my influence, Ne-chan is somehow erased, and once she enters the Kasodai isomer, it's because
+of the power of sweets.  Everyone, it's a bit of a ceiling.
+
+1295
+00:42:10,279 --> 00:42:10,289
+of the power of sweets.  Everyone, it's a bit of a ceiling.
+ 
+
+1296
+00:42:10,289 --> 00:42:16,699
+of the power of sweets.  Everyone, it's a bit of a ceiling.
+oo I'm going to go to the sky, I'm going to go to the middle of the day, and I'm going to live in the middle of the day, and I'm
+
+1297
+00:42:16,699 --> 00:42:16,709
+oo I'm going to go to the sky, I'm going to go to the middle of the day, and I'm going to live in the middle of the day, and I'm
+ 
+
+1298
+00:42:16,709 --> 00:42:19,370
+oo I'm going to go to the sky, I'm going to go to the middle of the day, and I'm going to live in the middle of the day, and I'm
+going to have a good time with that com.
+
+1299
+00:42:19,370 --> 00:42:19,380
+going to have a good time with that com.
+ 
+
+1300
+00:42:19,380 --> 00:42:23,530
+going to have a good time with that com.
+And Ame-chan's older sister is also good at traveling. Oh
+
+1301
+00:42:23,530 --> 00:42:23,540
+And Ame-chan's older sister is also good at traveling. Oh
+ 
+
+1302
+00:42:23,540 --> 00:42:26,460
+And Ame-chan's older sister is also good at traveling. Oh
+yeah, she
+
+1303
+00:42:26,460 --> 00:42:26,470
+yeah, she
+ 
+
+1304
+00:42:26,470 --> 00:42:29,599
+yeah, she
+might have gone to Ame-chan's place right now.
+
+1305
+00:42:29,599 --> 00:42:29,609
+might have gone to Ame-chan's place right now.
+ 
+
+1306
+00:42:29,609 --> 00:42:32,800
+might have gone to Ame-chan's place right now.
+Now, she's making her debut as a bag. It's
+
+1307
+00:42:32,800 --> 00:42:32,810
+Now, she's making her debut as a bag. It's
+ 
+
+1308
+00:42:32,810 --> 00:42:38,770
+Now, she's making her debut as a bag. It's
+okay that she wasn't there. It's cool, French media. Yuko says, "I'm new to buying things."
+
+1309
+00:42:38,770 --> 00:42:38,780
+okay that she wasn't there. It's cool, French media. Yuko says, "I'm new to buying things."
+ 
+
+1310
+00:42:38,780 --> 00:42:40,930
+okay that she wasn't there. It's cool, French media. Yuko says, "I'm new to buying things."
+Once you get the skill, it's
+
+1311
+00:42:40,930 --> 00:42:40,940
+Once you get the skill, it's
+ 
+
+1312
+00:42:40,940 --> 00:42:42,609
+Once you get the skill, it's
+so colorful. It's so cute.
+
+1313
+00:42:42,609 --> 00:42:42,619
+so colorful. It's so cute.
+ 
+
+1314
+00:42:42,619 --> 00:42:47,920
+so colorful. It's so cute.
+Oniba says, "Okay, so Oyatsu Swing Neku-san. Let's start the next song.
+
+1315
+00:42:47,920 --> 00:42:47,930
+Oniba says, "Okay, so Oyatsu Swing Neku-san. Let's start the next song.
+ 
+
+1316
+00:42:47,930 --> 00:42:49,870
+Oniba says, "Okay, so Oyatsu Swing Neku-san. Let's start the next song.
+Neku-san.
+
+1317
+00:42:49,870 --> 00:42:49,880
+Neku-san.
+ 
+
+1318
+00:42:49,880 --> 00:42:56,810
+Neku-san.
+Sherry from Sanpei Fue. It's a really lively song."
+
+1319
+00:42:56,810 --> 00:42:56,820
+
+ 
+
+1320
+00:42:56,820 --> 00:42:58,430
+
+Yes, I want
+
+1321
+00:42:58,430 --> 00:42:58,440
+Yes, I want
+ 
+
+1322
+00:42:58,440 --> 00:43:00,700
+Yes, I want
+it. I'm looking forward to it. I want to do nothing. Eighth.
+
+1323
+00:43:00,700 --> 00:43:03,370
+it. I'm looking forward to it. I want to do nothing. Eighth.
+ 
+
+1324
+00:43:03,370 --> 00:43:03,380
+
+ 
+
+1325
+00:43:03,380 --> 00:43:04,810
+
+
+1326
+00:43:04,810 --> 00:43:04,820
+
+ 
+
+1327
+00:43:04,820 --> 00:43:09,840
+
+Ah, I'll set up a type division. Ah, it's a little tight. I can't fit
+
+1328
+00:43:09,840 --> 00:43:09,850
+Ah, I'll set up a type division. Ah, it's a little tight. I can't fit
+ 
+
+1329
+00:43:09,850 --> 00:43:15,700
+Ah, I'll set up a type division. Ah, it's a little tight. I can't fit
+in. Ah, let's go. Ah, I guess it
+
+1330
+00:43:15,700 --> 00:43:15,710
+
+ 
+
+1331
+00:43:15,710 --> 00:43:17,799
+
+should be fair.
+
+1332
+00:43:17,799 --> 00:43:17,809
+should be fair.
+ 
+
+1333
+00:43:17,809 --> 00:43:19,880
+should be fair.
+I read
+
+1334
+00:43:19,880 --> 00:43:19,890
+I read
+ 
+
+1335
+00:43:19,890 --> 00:43:24,890
+I read
+they are Barking Negotiation Pirates.  Let's divide the parts between the two of us.
+
+1336
+00:43:24,890 --> 00:43:26,150
+they are Barking Negotiation Pirates.  Let's divide the parts between the two of us.
+ 
+
+1337
+00:43:26,150 --> 00:43:26,160
+
+ 
+
+1338
+00:43:26,160 --> 00:43:30,020
+
+Hmm, it's hard to stop singing alone, so let's have a song.
+
+1339
+00:43:30,020 --> 00:43:35,240
+Hmm, it's hard to stop singing alone, so let's have a song.
+ 
+
+1340
+00:43:35,240 --> 00:43:35,250
+
+ 
+
+1341
+00:43:35,250 --> 00:43:41,670
+
+
+1342
+00:43:41,670 --> 00:43:41,680
+
+ 
+
+1343
+00:43:41,680 --> 00:43:47,830
+
+Then it's a day for the two of us. [Music] Now, aname, I'm a
+
+1344
+00:43:47,830 --> 00:43:47,840
+Then it's a day for the two of us. [Music] Now, aname, I'm a
+ 
+
+1345
+00:43:47,840 --> 00:43:51,410
+Then it's a day for the two of us. [Music] Now, aname, I'm a
+grateful pirate.
+
+1346
+00:43:51,410 --> 00:43:51,420
+grateful pirate.
+ 
+
+1347
+00:43:51,420 --> 00:44:03,150
+grateful pirate.
+[Music]
+
+1348
+00:44:03,150 --> 00:44:03,160
+[Music]
+ 
+
+1349
+00:44:03,160 --> 00:44:04,900
+[Music]
+me
+
+1350
+00:44:04,900 --> 00:44:04,910
+me
+ 
+
+1351
+00:44:04,910 --> 00:44:11,790
+me
+From the eight major release days, the
+
+1352
+00:44:11,790 --> 00:44:11,800
+
+ 
+
+1353
+00:44:11,800 --> 00:44:15,450
+
+hair Tamurapan around
+
+1354
+00:44:15,450 --> 00:44:15,460
+hair Tamurapan around
+ 
+
+1355
+00:44:15,460 --> 00:44:16,460
+hair Tamurapan around
+Nami
+
+1356
+00:44:16,460 --> 00:44:16,470
+Nami
+ 
+
+1357
+00:44:16,470 --> 00:44:21,100
+Nami
+Nami
+
+1358
+00:44:21,100 --> 00:44:21,110
+
+ 
+
+1359
+00:44:21,110 --> 00:44:25,620
+
+is+Rasin Villa Villa Ah, Ah Ah, Ah, Ah, a
+
+1360
+00:44:25,620 --> 00:44:25,630
+is+Rasin Villa Villa Ah, Ah Ah, Ah, Ah, a
+ 
+
+1361
+00:44:25,630 --> 00:44:32,260
+is+Rasin Villa Villa Ah, Ah Ah, Ah, Ah, a
+mountain ostring
+
+1362
+00:44:32,260 --> 00:44:37,109
+
+ 
+
+1363
+00:44:37,109 --> 00:44:37,119
+
+ 
+
+1364
+00:44:37,119 --> 00:44:39,000
+
+
+1365
+00:44:39,000 --> 00:44:39,010
+
+ 
+
+1366
+00:44:39,010 --> 00:44:42,680
+
+Raise it and steal
+
+1367
+00:44:42,680 --> 00:44:43,740
+Raise it and steal
+ 
+
+1368
+00:44:43,740 --> 00:44:43,750
+
+ 
+
+1369
+00:44:43,750 --> 00:44:44,829
+
+
+1370
+00:44:44,829 --> 00:44:44,839
+
+ 
+
+1371
+00:44:44,839 --> 00:44:50,820
+
+the echo Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+1372
+00:44:50,820 --> 00:44:50,830
+the echo Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ 
+
+1373
+00:44:50,830 --> 00:44:55,370
+the echo Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+should be be exposed to the Mamiya Mamiya will be exposed to me?”
+
+1374
+00:44:55,370 --> 00:44:55,380
+should be be exposed to the Mamiya Mamiya will be exposed to me?”
+ 
+
+1375
+00:44:55,380 --> 00:44:58,100
+should be be exposed to the Mamiya Mamiya will be exposed to me?”
+
+1376
+00:44:58,100 --> 00:44:58,110
+
+ 
+
+1377
+00:44:58,110 --> 00:45:00,039
+
+
+1378
+00:45:00,039 --> 00:45:03,190
+
+ 
+
+1379
+00:45:03,190 --> 00:45:03,200
+
+ 
+
+1380
+00:45:03,200 --> 00:45:05,800
+
+
+1381
+00:45:05,800 --> 00:45:05,810
+
+ 
+
+1382
+00:45:05,810 --> 00:45:08,810
+
+[Music]
+
+1383
+00:45:08,810 --> 00:45:08,820
+[Music]
+ 
+
+1384
+00:45:08,820 --> 00:45:11,579
+[Music]
+RAR
+
+1385
+00:45:11,579 --> 00:45:11,589
+RAR
+ 
+
+1386
+00:45:11,589 --> 00:45:13,430
+RAR
+Sappa Up
+
+1387
+00:45:13,430 --> 00:45:13,440
+Sappa Up
+ 
+
+1388
+00:45:13,440 --> 00:45:16,240
+Sappa Up
+Good Good Good Good Good Good Good Good Good Good Good Ah Ah, I
+
+1389
+00:45:16,240 --> 00:45:22,380
+Good Good Good Good Good Good Good Good Good Good Good Ah Ah, I
+ 
+
+1390
+00:45:22,380 --> 00:45:22,390
+
+ 
+
+1391
+00:45:22,390 --> 00:45:23,640
+
+
+1392
+00:45:23,640 --> 00:45:23,650
+
+ 
+
+1393
+00:45:23,650 --> 00:45:27,330
+
+bought a Dase NI web weakness,
+
+1394
+00:45:27,330 --> 00:45:27,340
+bought a Dase NI web weakness,
+ 
+
+1395
+00:45:27,340 --> 00:45:30,260
+bought a Dase NI web weakness,
+oh, oh
+
+1396
+00:45:30,260 --> 00:45:30,270
+oh, oh
+ 
+
+1397
+00:45:30,270 --> 00:45:33,620
+oh, oh
+day 1 day 1 em's
+
+1398
+00:45:33,620 --> 00:45:33,630
+day 1 day 1 em's
+ 
+
+1399
+00:45:33,630 --> 00:45:35,300
+day 1 day 1 em's
+lever
+
+1400
+00:45:35,300 --> 00:45:35,310
+lever
+ 
+
+1401
+00:45:35,310 --> 00:45:36,140
+lever
+T love me
+
+1402
+00:45:36,140 --> 00:45:36,150
+T love me
+ 
+
+1403
+00:45:36,150 --> 00:45:39,040
+T love me
+
+1404
+00:45:39,040 --> 00:45:41,120
+
+ 
+
+1405
+00:45:41,120 --> 00:45:45,000
+
+ 
+
+1406
+00:45:45,000 --> 00:45:48,460
+
+ 
+
+1407
+00:45:48,460 --> 00:45:48,470
+
+ 
+
+1408
+00:45:48,470 --> 00:45:51,390
+
+
+1409
+00:45:51,390 --> 00:45:51,400
+
+ 
+
+1410
+00:45:51,400 --> 00:45:55,750
+
+That's Percy now, who are
+
+1411
+00:45:55,750 --> 00:45:55,760
+That's Percy now, who are
+ 
+
+1412
+00:45:55,760 --> 00:46:02,870
+That's Percy now, who are
+you guys? Doi Tsuke-sensei is coming na
+
+1413
+00:46:02,870 --> 00:46:02,880
+you guys? Doi Tsuke-sensei is coming na
+ 
+
+1414
+00:46:02,880 --> 00:46:09,009
+you guys? Doi Tsuke-sensei is coming na
+and the chintz Ichikera stage is so kind
+
+1415
+00:46:09,009 --> 00:46:09,019
+
+ 
+
+1416
+00:46:09,019 --> 00:46:10,830
+
+Hey, the festival is nice
+
+1417
+00:46:10,830 --> 00:46:10,840
+Hey, the festival is nice
+ 
+
+1418
+00:46:10,840 --> 00:46:12,500
+Hey, the festival is nice
+[Music]
+
+1419
+00:46:12,500 --> 00:46:12,510
+[Music]
+ 
+
+1420
+00:46:12,510 --> 00:46:14,040
+[Music]
+tanase
+
+1421
+00:46:14,040 --> 00:46:14,050
+tanase
+ 
+
+1422
+00:46:14,050 --> 00:46:17,009
+tanase
+ran
+
+1423
+00:46:17,009 --> 00:46:17,019
+
+ 
+
+1424
+00:46:17,019 --> 00:46:19,990
+
+Oh ha
+
+1425
+00:46:19,990 --> 00:46:20,000
+
+ 
+
+1426
+00:46:20,000 --> 00:46:21,080
+
+car
+
+1427
+00:46:21,080 --> 00:46:21,090
+car
+ 
+
+1428
+00:46:21,090 --> 00:46:25,830
+car
+Hmm Mir mother is the same
+
+1429
+00:46:25,830 --> 00:46:25,840
+
+ 
+
+1430
+00:46:25,840 --> 00:46:33,770
+
+[Music]
+
+1431
+00:46:33,770 --> 00:46:33,780
+[Music]
+ 
+
+1432
+00:46:33,780 --> 00:46:37,730
+[Music]
+ana I'm
+
+1433
+00:46:37,730 --> 00:46:37,740
+
+ 
+
+1434
+00:46:37,740 --> 00:46:39,510
+
+talking about it Yeah yeah yeah
+
+1435
+00:46:39,510 --> 00:46:42,990
+talking about it Yeah yeah yeah
+ 
+
+1436
+00:46:42,990 --> 00:46:43,000
+
+ 
+
+1437
+00:46:43,000 --> 00:46:46,000
+
+[Music]
+
+1438
+00:46:46,000 --> 00:46:46,010
+[Music]
+ 
+
+1439
+00:46:46,010 --> 00:46:48,800
+[Music]
+ber
+
+1440
+00:46:48,800 --> 00:46:48,810
+ber
+ 
+
+1441
+00:46:48,810 --> 00:46:51,460
+ber
+amaran
+
+1442
+00:46:51,460 --> 00:46:51,470
+amaran
+ 
+
+1443
+00:46:51,470 --> 00:46:56,450
+amaran
+[Music] I
+
+1444
+00:46:56,450 --> 00:46:56,460
+[Music] I
+ 
+
+1445
+00:46:56,460 --> 00:47:00,100
+[Music] I
+can get used to it
+
+1446
+00:47:00,100 --> 00:47:00,110
+
+ 
+
+1447
+00:47:00,110 --> 00:47:06,350
+
+[Music]
+
+1448
+00:47:06,350 --> 00:47:06,360
+[Music]
+ 
+
+1449
+00:47:06,360 --> 00:47:08,529
+[Music]
+none
+
+1450
+00:47:08,529 --> 00:47:08,539
+none
+ 
+
+1451
+00:47:08,539 --> 00:47:09,450
+none
+me
+
+1452
+00:47:09,450 --> 00:47:09,460
+me
+ 
+
+1453
+00:47:09,460 --> 00:47:16,260
+me
+Aaaaaaa
+
+1454
+00:47:16,260 --> 00:47:16,270
+
+ 
+
+1455
+00:47:16,270 --> 00:47:17,870
+
+w No way
+
+1456
+00:47:17,870 --> 00:47:17,880
+w No way
+ 
+
+1457
+00:47:17,880 --> 00:47:28,059
+w No way
+[Music] I
+
+1458
+00:47:28,059 --> 00:47:28,069
+
+ 
+
+1459
+00:47:28,069 --> 00:47:30,610
+
+remember raising a child like that.  No.
+
+1460
+00:47:30,610 --> 00:47:30,620
+remember raising a child like that.  No.
+ 
+
+1461
+00:47:30,620 --> 00:47:32,049
+remember raising a child like that.  No.
+[Music]
+
+1462
+00:47:32,049 --> 00:47:32,059
+[Music]
+ 
+
+1463
+00:47:32,059 --> 00:47:38,410
+[Music]
+If you finish your work first and do your best, you can watch Higashi Nijo walk for a total of 7 minutes. Let's
+
+1464
+00:47:38,410 --> 00:47:42,380
+If you finish your work first and do your best, you can watch Higashi Nijo walk for a total of 7 minutes. Let's
+ 
+
+1465
+00:47:42,380 --> 00:47:42,390
+
+ 
+
+1466
+00:47:42,390 --> 00:47:45,550
+
+
+1467
+00:47:45,550 --> 00:47:45,560
+
+ 
+
+1468
+00:47:45,560 --> 00:47:48,690
+
+go on Yumiya's boat. Ana, I won't open the channel.
+
+1469
+00:47:48,690 --> 00:47:48,700
+go on Yumiya's boat. Ana, I won't open the channel.
+ 
+
+1470
+00:47:48,700 --> 00:47:55,310
+go on Yumiya's boat. Ana, I won't open the channel.
+
+1471
+00:47:55,310 --> 00:47:55,320
+
+ 
+
+1472
+00:47:55,320 --> 00:48:01,100
+
+Raise the doe and do not change Satsushu Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+1473
+00:48:01,100 --> 00:48:04,510
+Raise the doe and do not change Satsushu Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+ 
+
+1474
+00:48:04,510 --> 00:48:07,190
+
+ 
+
+1475
+00:48:07,190 --> 00:48:13,200
+
+ 
+
+1476
+00:48:13,200 --> 00:48:16,280
+
+ 
+
+1477
+00:48:16,280 --> 00:48:18,260
+
+ 
+
+1478
+00:48:18,260 --> 00:48:18,270
+
+ 
+
+1479
+00:48:18,270 --> 00:48:21,160
+
+
+1480
+00:48:21,160 --> 00:48:26,990
+
+ 
+
+1481
+00:48:26,990 --> 00:48:29,810
+
+ 
+
+1482
+00:48:29,810 --> 00:48:29,820
+
+ 
+
+1483
+00:48:29,820 --> 00:48:36,390
+
+[Music]
+
+1484
+00:48:36,390 --> 00:48:36,400
+
+ 
+
+1485
+00:48:36,400 --> 00:48:43,570
+
+I didn't know what color my shorts were on. What did I say when I returned home?  I do
+
+1486
+00:48:43,570 --> 00:48:43,580
+I didn't know what color my shorts were on. What did I say when I returned home?  I do
+ 
+
+1487
+00:48:43,580 --> 00:48:50,020
+I didn't know what color my shorts were on. What did I say when I returned home?  I do
+n't hate unyanada, so if you answer it, it's easy to get 100. lol Just kidding,
+
+1488
+00:48:50,020 --> 00:48:50,030
+n't hate unyanada, so if you answer it, it's easy to get 100. lol Just kidding,
+ 
+
+1489
+00:48:50,030 --> 00:48:56,350
+n't hate unyanada, so if you answer it, it's easy to get 100. lol Just kidding,
+which group is easy for seniors to do, which branch is it?
+
+1490
+00:48:56,350 --> 00:48:56,360
+which group is easy for seniors to do, which branch is it?
+ 
+
+1491
+00:48:56,360 --> 00:48:59,330
+which group is easy for seniors to do, which branch is it?
+
+1492
+00:48:59,330 --> 00:48:59,340
+
+ 
+
+1493
+00:48:59,340 --> 00:49:05,040
+
+Completed dividing
+
+1494
+00:49:05,040 --> 00:49:05,050
+Completed dividing
+ 
+
+1495
+00:49:05,050 --> 00:49:14,160
+Completed dividing
+well ran uscpa passant queen
+
+1496
+00:49:14,160 --> 00:49:14,170
+well ran uscpa passant queen
+ 
+
+1497
+00:49:14,170 --> 00:49:20,160
+well ran uscpa passant queen
+hey b 2 s tune 4 t far forty faust uc that me
+
+1498
+00:49:20,160 --> 00:49:20,170
+hey b 2 s tune 4 t far forty faust uc that me
+ 
+
+1499
+00:49:20,170 --> 00:49:23,460
+hey b 2 s tune 4 t far forty faust uc that me
+two tournament and
+
+1500
+00:49:23,460 --> 00:49:23,470
+two tournament and
+ 
+
+1501
+00:49:23,470 --> 00:49:24,990
+two tournament and
+a  The
+
+1502
+00:49:24,990 --> 00:49:25,000
+a  The
+ 
+
+1503
+00:49:25,000 --> 00:49:33,940
+a  The
+secret between 45,000 slots and 5,000 people's brains is amazing. The amazing secret is Zach. It's
+
+1504
+00:49:33,940 --> 00:49:33,950
+
+ 
+
+1505
+00:49:33,950 --> 00:49:39,040
+
+hot and hot, and the old man who looks like that is coming up too much. I'll guess
+
+1506
+00:49:39,040 --> 00:49:39,050
+hot and hot, and the old man who looks like that is coming up too much. I'll guess
+ 
+
+1507
+00:49:39,050 --> 00:49:42,460
+hot and hot, and the old man who looks like that is coming up too much. I'll guess
+the forest right away, but there's only one song left.
+
+1508
+00:49:42,460 --> 00:49:42,470
+the forest right away, but there's only one song left.
+ 
+
+1509
+00:49:42,470 --> 00:49:43,610
+the forest right away, but there's only one song left.
+Ah,
+
+1510
+00:49:43,610 --> 00:49:43,620
+Ah,
+ 
+
+1511
+00:49:43,620 --> 00:49:49,340
+Ah,
+Vision and Phone Song. Another shitty picture.  Wait until it's 100, you're still so naive.
+
+1512
+00:49:49,340 --> 00:49:49,350
+Vision and Phone Song. Another shitty picture.  Wait until it's 100, you're still so naive.
+ 
+
+1513
+00:49:49,350 --> 00:49:53,300
+Vision and Phone Song. Another shitty picture.  Wait until it's 100, you're still so naive.
+Punel-chan wants to re-sing those
+
+1514
+00:49:53,300 --> 00:49:53,310
+Punel-chan wants to re-sing those
+ 
+
+1515
+00:49:53,310 --> 00:49:58,340
+Punel-chan wants to re-sing those
+fireworks. It's okay if you touch them. utau utau good  100% of Cha is other than Pio lineage
+
+1516
+00:49:58,340 --> 00:49:58,350
+fireworks. It's okay if you touch them. utau utau good  100% of Cha is other than Pio lineage
+ 
+
+1517
+00:49:58,350 --> 00:50:03,350
+fireworks. It's okay if you touch them. utau utau good  100% of Cha is other than Pio lineage
+Even if I endured the fireworks to the 6th generation of Free, it's just a cutout or
+
+1518
+00:50:03,350 --> 00:50:03,360
+Even if I endured the fireworks to the 6th generation of Free, it's just a cutout or
+ 
+
+1519
+00:50:03,360 --> 00:50:03,630
+Even if I endured the fireworks to the 6th generation of Free, it's just a cutout or
+something.I
+
+1520
+00:50:03,630 --> 00:50:05,360
+something.I
+ 
+
+1521
+00:50:05,360 --> 00:50:05,370
+
+ 
+
+1522
+00:50:05,370 --> 00:50:10,220
+
+want a proper board as well, Eva-sama.  It's
+
+1523
+00:50:10,220 --> 00:50:12,530
+want a proper board as well, Eva-sama.  It's
+ 
+
+1524
+00:50:12,530 --> 00:50:12,540
+
+ 
+
+1525
+00:50:12,540 --> 00:50:17,620
+
+hard to cut it without my sister, so I'm going to sing it again in time.
+
+1526
+00:50:17,620 --> 00:50:17,630
+hard to cut it without my sister, so I'm going to sing it again in time.
+ 
+
+1527
+00:50:17,630 --> 00:50:18,890
+hard to cut it without my sister, so I'm going to sing it again in time.
+[Music] I
+
+1528
+00:50:18,890 --> 00:50:18,900
+[Music] I
+ 
+
+1529
+00:50:18,900 --> 00:50:23,500
+[Music] I
+have a large game change tape.
+
+1530
+00:50:23,500 --> 00:50:23,510
+
+ 
+
+1531
+00:50:23,510 --> 00:50:25,630
+
+Good, Neji was good.
+
+1532
+00:50:25,630 --> 00:50:25,640
+Good, Neji was good.
+ 
+
+1533
+00:50:25,640 --> 00:50:29,730
+Good, Neji was good.
+There is no bach because the year is the same, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
+1534
+00:50:29,730 --> 00:50:29,740
+There is no bach because the year is the same, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+ 
+
+1535
+00:50:29,740 --> 00:50:30,850
+There is no bach because the year is the same, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+oh, oh, oh oh, is
+
+1536
+00:50:30,850 --> 00:50:30,860
+oh, oh, oh oh, is
+ 
+
+1537
+00:50:30,860 --> 00:50:35,500
+oh, oh, oh oh, is
+not a leader in Yugon's festival.
+
+1538
+00:50:35,500 --> 00:50:35,510
+not a leader in Yugon's festival.
+ 
+
+1539
+00:50:35,510 --> 00:50:36,900
+not a leader in Yugon's festival.
+
+1540
+00:50:36,900 --> 00:50:36,910
+
+ 
+
+1541
+00:50:36,910 --> 00:50:38,460
+
+
+1542
+00:50:38,460 --> 00:50:39,620
+
+ 
+
+1543
+00:50:39,620 --> 00:50:39,630
+
+ 
+
+1544
+00:50:39,630 --> 00:50:55,150
+
+
+1545
+00:50:55,150 --> 00:50:59,930
+
+ 
+
+1546
+00:50:59,930 --> 00:51:02,990
+
+ 
+
+1547
+00:51:02,990 --> 00:51:03,000
+
+ 
+
+1548
+00:51:03,000 --> 00:51:05,499
+
+[Music] These
+
+1549
+00:51:05,499 --> 00:51:07,089
+[Music] These
+ 
+
+1550
+00:51:07,089 --> 00:51:07,099
+
+ 
+
+1551
+00:51:07,099 --> 00:51:09,829
+
+are the words I carved into my heart on the road.
+
+1552
+00:51:09,829 --> 00:51:09,839
+are the words I carved into my heart on the road.
+ 
+
+1553
+00:51:09,839 --> 00:51:12,400
+are the words I carved into my heart on the road.
+You're 4 strokes
+
+1554
+00:51:12,400 --> 00:51:12,410
+You're 4 strokes
+ 
+
+1555
+00:51:12,410 --> 00:51:14,880
+You're 4 strokes
+ahead of me. I want to
+
+1556
+00:51:14,880 --> 00:51:14,890
+ahead of me. I want to
+ 
+
+1557
+00:51:14,890 --> 00:51:16,730
+ahead of me. I want to
+do it. It's a
+
+1558
+00:51:16,730 --> 00:51:16,740
+do it. It's a
+ 
+
+1559
+00:51:16,740 --> 00:51:18,469
+do it. It's a
+wave. It's
+
+1560
+00:51:18,469 --> 00:51:18,479
+wave. It's
+ 
+
+1561
+00:51:18,479 --> 00:51:21,569
+wave. It's
+more meaningful than a footlight.
+
+1562
+00:51:21,569 --> 00:51:21,579
+more meaningful than a footlight.
+ 
+
+1563
+00:51:21,579 --> 00:51:25,410
+more meaningful than a footlight.
+Anyway,
+
+1564
+00:51:25,410 --> 00:51:25,420
+
+ 
+
+1565
+00:51:25,420 --> 00:51:26,410
+
+ni.
+
+1566
+00:51:26,410 --> 00:51:26,420
+ni.
+ 
+
+1567
+00:51:26,420 --> 00:51:32,530
+ni.
+This is the only book I've written.
+
+1568
+00:51:32,530 --> 00:51:32,540
+
+ 
+
+1569
+00:51:32,540 --> 00:51:34,950
+
+[Music]
+
+1570
+00:51:34,950 --> 00:51:34,960
+[Music]
+ 
+
+1571
+00:51:34,960 --> 00:51:36,110
+[Music]
+pad  8
+
+1572
+00:51:36,110 --> 00:51:36,120
+pad  8
+ 
+
+1573
+00:51:36,120 --> 00:51:39,069
+pad  8
+se The fireworks
+
+1574
+00:51:39,069 --> 00:51:39,079
+se The fireworks
+ 
+
+1575
+00:51:39,079 --> 00:51:42,620
+se The fireworks
+were 3 I'm sure they're still flowers
+
+1576
+00:51:42,620 --> 00:51:42,630
+were 3 I'm sure they're still flowers
+ 
+
+1577
+00:51:42,630 --> 00:51:45,460
+were 3 I'm sure they're still flowers
+San
+
+1578
+00:51:45,460 --> 00:51:45,470
+San
+ 
+
+1579
+00:51:45,470 --> 00:51:47,380
+San
+I love my heart
+
+1580
+00:51:47,380 --> 00:51:47,390
+I love my heart
+ 
+
+1581
+00:51:47,390 --> 00:51:51,770
+I love my heart
+This night we connected in Tokaichi I was doing a dozen things
+
+1582
+00:51:51,770 --> 00:51:52,710
+This night we connected in Tokaichi I was doing a dozen things
+ 
+
+1583
+00:51:52,710 --> 00:51:52,720
+
+ 
+
+1584
+00:51:52,720 --> 00:51:54,980
+
+Jattaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+1585
+00:51:54,980 --> 00:51:54,990
+Jattaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ 
+
+1586
+00:51:54,990 --> 00:51:57,819
+Jattaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[Music]
+
+1587
+00:51:57,819 --> 00:51:57,829
+[Music]
+ 
+
+1588
+00:51:57,829 --> 00:51:59,559
+[Music]
+Don't disappear  I wonder
+
+1589
+00:51:59,559 --> 00:52:03,290
+Don't disappear  I wonder
+ 
+
+1590
+00:52:03,290 --> 00:52:03,300
+
+ 
+
+1591
+00:52:03,300 --> 00:52:12,740
+
+if I can watch the fireworks.What can Kao do?
+
+1592
+00:52:12,740 --> 00:52:12,750
+if I can watch the fireworks.What can Kao do?
+ 
+
+1593
+00:52:12,750 --> 00:52:15,180
+if I can watch the fireworks.What can Kao do?
+2 Ah, the
+
+1594
+00:52:15,180 --> 00:52:15,190
+2 Ah, the
+ 
+
+1595
+00:52:15,190 --> 00:52:23,300
+2 Ah, the
+waves repeating the joy of being hurt, and just a little collection of examples.Goo,
+
+1596
+00:52:23,300 --> 00:52:23,310
+waves repeating the joy of being hurt, and just a little collection of examples.Goo,
+ 
+
+1597
+00:52:23,310 --> 00:52:26,420
+waves repeating the joy of being hurt, and just a little collection of examples.Goo,
+
+1598
+00:52:26,420 --> 00:52:26,430
+
+ 
+
+1599
+00:52:26,430 --> 00:52:29,809
+
+you listened to Yodo's words.
+
+1600
+00:52:29,809 --> 00:52:29,819
+you listened to Yodo's words.
+ 
+
+1601
+00:52:29,819 --> 00:52:34,670
+you listened to Yodo's words.
+4 Even if I choose the wave, yes and boom
+
+1602
+00:52:34,670 --> 00:52:34,680
+4 Even if I choose the wave, yes and boom
+ 
+
+1603
+00:52:34,680 --> 00:52:37,339
+4 Even if I choose the wave, yes and boom
+[Music]
+
+1604
+00:52:37,339 --> 00:52:37,349
+[Music]
+ 
+
+1605
+00:52:37,349 --> 00:52:38,910
+[Music]
+That's why it's as good as ca
+
+1606
+00:52:38,910 --> 00:52:38,920
+That's why it's as good as ca
+ 
+
+1607
+00:52:38,920 --> 00:52:42,030
+That's why it's as good as ca
+nao
+
+1608
+00:52:42,030 --> 00:52:45,950
+
+ 
+
+1609
+00:52:45,950 --> 00:52:45,960
+
+ 
+
+1610
+00:52:45,960 --> 00:52:52,950
+
+[Music] My
+
+1611
+00:52:52,950 --> 00:52:52,960
+[Music] My
+ 
+
+1612
+00:52:52,960 --> 00:52:54,870
+[Music] My
+favorite machine is diagonal The
+
+1613
+00:52:54,870 --> 00:52:54,880
+favorite machine is diagonal The
+ 
+
+1614
+00:52:54,880 --> 00:53:02,380
+favorite machine is diagonal The
+economic situation won't stop
+
+1615
+00:53:02,380 --> 00:53:02,390
+economic situation won't stop
+ 
+
+1616
+00:53:02,390 --> 00:53:05,109
+economic situation won't stop
+me I'm reaching out more and more
+
+1617
+00:53:05,109 --> 00:53:05,119
+me I'm reaching out more and more
+ 
+
+1618
+00:53:05,119 --> 00:53:09,570
+me I'm reaching out more and more
+Since it's been warm, the bar has been secretly blue, I've been looking at the rock
+
+1619
+00:53:09,570 --> 00:53:11,190
+Since it's been warm, the bar has been secretly blue, I've been looking at the rock
+ 
+
+1620
+00:53:11,190 --> 00:53:11,200
+
+ 
+
+1621
+00:53:11,200 --> 00:53:13,870
+
+[Music]  ]
+
+1622
+00:53:13,870 --> 00:53:13,880
+[Music]  ]
+ 
+
+1623
+00:53:13,880 --> 00:53:15,290
+[Music]  ]
+Ga navigator
+
+1624
+00:53:15,290 --> 00:53:15,300
+Ga navigator
+ 
+
+1625
+00:53:15,300 --> 00:53:16,470
+Ga navigator
+[Music]
+
+1626
+00:53:16,470 --> 00:53:16,480
+[Music]
+ 
+
+1627
+00:53:16,480 --> 00:53:19,110
+[Music]
+taitai
+
+1628
+00:53:19,110 --> 00:53:19,120
+taitai
+ 
+
+1629
+00:53:19,120 --> 00:53:20,480
+taitai
+niji
+
+1630
+00:53:20,480 --> 00:53:20,490
+niji
+ 
+
+1631
+00:53:20,490 --> 00:53:22,609
+niji
+Yeah yeah yeah
+
+1632
+00:53:22,609 --> 00:53:22,619
+Yeah yeah yeah
+ 
+
+1633
+00:53:22,619 --> 00:53:23,820
+Yeah yeah yeah
+ana
+
+1634
+00:53:23,820 --> 00:53:23,830
+ana
+ 
+
+1635
+00:53:23,830 --> 00:53:26,350
+ana
+Don't give it out ae
+
+1636
+00:53:26,350 --> 00:53:26,360
+Don't give it out ae
+ 
+
+1637
+00:53:26,360 --> 00:53:28,870
+Don't give it out ae
+Just a little white
+
+1638
+00:53:28,870 --> 00:53:28,880
+Just a little white
+ 
+
+1639
+00:53:28,880 --> 00:53:30,830
+Just a little white
+Just a little bit like this
+
+1640
+00:53:30,830 --> 00:53:30,840
+Just a little bit like this
+ 
+
+1641
+00:53:30,840 --> 00:53:33,240
+Just a little bit like this
+nao
+
+1642
+00:53:33,240 --> 00:53:33,250
+nao
+ 
+
+1643
+00:53:33,250 --> 00:53:42,660
+nao
+[Music]
+
+1644
+00:53:42,660 --> 00:53:42,670
+
+ 
+
+1645
+00:53:42,670 --> 00:53:43,610
+
+ni  I'm
+
+1646
+00:53:43,610 --> 00:53:43,620
+ni  I'm
+ 
+
+1647
+00:53:43,620 --> 00:53:52,329
+ni  I'm
+still remembering the beach where you flew.
+
+1648
+00:53:52,329 --> 00:53:52,339
+
+ 
+
+1649
+00:53:52,339 --> 00:53:57,279
+
+The words carved in the
+
+1650
+00:53:57,279 --> 00:53:59,890
+The words carved in the
+ 
+
+1651
+00:53:59,890 --> 00:54:02,340
+
+ 
+
+1652
+00:54:02,340 --> 00:54:04,610
+
+ 
+
+1653
+00:54:04,610 --> 00:54:04,620
+
+ 
+
+1654
+00:54:04,620 --> 00:54:05,809
+
+
+1655
+00:54:05,809 --> 00:54:08,930
+
+ 
+
+1656
+00:54:08,930 --> 00:54:08,940
+
+ 
+
+1657
+00:54:08,940 --> 00:54:10,180
+
+
+1658
+00:54:10,180 --> 00:54:10,190
+
+ 
+
+1659
+00:54:10,190 --> 00:54:13,940
+
+
+1660
+00:54:13,940 --> 00:54:13,950
+
+ 
+
+1661
+00:54:13,950 --> 00:54:15,490
+
+
+1662
+00:54:15,490 --> 00:54:17,660
+
+ 
+
+1663
+00:54:17,660 --> 00:54:19,170
+
+ 
+
+1664
+00:54:19,170 --> 00:54:19,180
+
+ 
+
+1665
+00:54:19,180 --> 00:54:21,200
+
+sand. I was 4 strokes behind you. Daddy got angry and tried again.
+
+1666
+00:54:21,200 --> 00:54:21,210
+sand. I was 4 strokes behind you. Daddy got angry and tried again.
+ 
+
+1667
+00:54:21,210 --> 00:54:23,030
+sand. I was 4 strokes behind you. Daddy got angry and tried again.
+[Music] Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ni  It's
+
+1668
+00:54:23,030 --> 00:54:24,180
+[Music] Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ni  It's
+ 
+
+1669
+00:54:24,180 --> 00:54:24,190
+
+ 
+
+1670
+00:54:24,190 --> 00:54:28,670
+
+
+1671
+00:54:28,670 --> 00:54:30,090
+
+ 
+
+1672
+00:54:30,090 --> 00:54:30,100
+
+ 
+
+1673
+00:54:30,100 --> 00:54:40,320
+
+
+1674
+00:54:40,320 --> 00:54:43,010
+
+ 
+
+1675
+00:54:43,010 --> 00:54:43,960
+
+ 
+
+1676
+00:54:43,960 --> 00:54:43,970
+
+ 
+
+1677
+00:54:43,970 --> 00:54:46,740
+
+
+1678
+00:54:46,740 --> 00:54:46,750
+
+ 
+
+1679
+00:54:46,750 --> 00:54:48,750
+
+
+1680
+00:54:48,750 --> 00:54:51,650
+
+ 
+
+1681
+00:54:51,650 --> 00:54:51,660
+
+ 
+
+1682
+00:54:51,660 --> 00:54:56,720
+
+
+1683
+00:54:56,720 --> 00:54:56,730
+
+ 
+
+1684
+00:54:56,730 --> 00:55:00,229
+
+
+1685
+00:55:00,229 --> 00:55:01,540
+
+ 
+
+1686
+00:55:01,540 --> 00:55:01,550
+
+ 
+
+1687
+00:55:01,550 --> 00:55:04,440
+
+
+1688
+00:55:04,440 --> 00:55:04,450
+
+ 
+
+1689
+00:55:04,450 --> 00:55:13,970
+
+
+1690
+00:55:13,970 --> 00:55:13,980
+
+ 
+
+1691
+00:55:13,980 --> 00:55:19,900
+
+wonderful, but the real feeling has just started with the putter, and everyone is going
+
+1692
+00:55:19,900 --> 00:55:19,910
+wonderful, but the real feeling has just started with the putter, and everyone is going
+ 
+
+1693
+00:55:19,910 --> 00:55:22,900
+wonderful, but the real feeling has just started with the putter, and everyone is going
+to Takayama Saitama. The last one is painting 3 b
+
+1694
+00:55:22,900 --> 00:55:22,910
+to Takayama Saitama. The last one is painting 3 b
+ 
+
+1695
+00:55:22,910 --> 00:55:29,500
+to Takayama Saitama. The last one is painting 3 b
+Army pattern Kaneki and me and Nene-chan's theme song.
+
+1696
+00:55:29,500 --> 00:55:29,510
+Army pattern Kaneki and me and Nene-chan's theme song.
+ 
+
+1697
+00:55:29,510 --> 00:55:31,730
+Army pattern Kaneki and me and Nene-chan's theme song.
+
+1698
+00:55:31,730 --> 00:55:33,880
+
+ 
+
+1699
+00:55:33,880 --> 00:55:33,890
+
+ 
+
+1700
+00:55:33,890 --> 00:55:37,790
+
+Observation. Let's do our best. I've prepared a stylish sensor.  Ah,
+
+1701
+00:55:37,790 --> 00:55:37,800
+Observation. Let's do our best. I've prepared a stylish sensor.  Ah,
+ 
+
+1702
+00:55:37,800 --> 00:55:39,720
+Observation. Let's do our best. I've prepared a stylish sensor.  Ah,
+Betsin,
+
+1703
+00:55:39,720 --> 00:55:39,730
+Betsin,
+ 
+
+1704
+00:55:39,730 --> 00:55:42,960
+Betsin,
+hot money,
+
+1705
+00:55:42,960 --> 00:55:42,970
+
+ 
+
+1706
+00:55:42,970 --> 00:55:46,680
+
+wait a minute, Iko Papan has opened up, but I've come to teach you,
+
+1707
+00:55:46,680 --> 00:55:46,690
+wait a minute, Iko Papan has opened up, but I've come to teach you,
+ 
+
+1708
+00:55:46,690 --> 00:55:51,109
+wait a minute, Iko Papan has opened up, but I've come to teach you,
+there's a Tokyo version of Urine, right now, 10
+
+1709
+00:55:51,109 --> 00:55:51,119
+there's a Tokyo version of Urine, right now, 10
+ 
+
+1710
+00:55:51,119 --> 00:55:52,650
+there's a Tokyo version of Urine, right now, 10
+later,
+
+1711
+00:55:52,650 --> 00:55:52,660
+later,
+ 
+
+1712
+00:55:52,660 --> 00:55:53,960
+later,
+benq, fighter road.
+
+1713
+00:55:53,960 --> 00:55:53,970
+benq, fighter road.
+ 
+
+1714
+00:55:53,970 --> 00:55:56,230
+benq, fighter road.
+Natsume will never forget it
+
+1715
+00:55:56,230 --> 00:55:56,240
+Natsume will never forget it
+ 
+
+1716
+00:55:56,240 --> 00:56:00,829
+Natsume will never forget it
+[Music] I
+
+1717
+00:56:00,829 --> 00:56:00,839
+[Music] I
+ 
+
+1718
+00:56:00,839 --> 00:56:04,759
+[Music] I
+won't forget the promise we made
+
+1719
+00:56:04,759 --> 00:56:04,769
+won't forget the promise we made
+ 
+
+1720
+00:56:04,769 --> 00:56:10,520
+won't forget the promise we made
+Moto G It's amazing that there are no violations in the crowd
+
+1721
+00:56:10,520 --> 00:56:11,180
+Moto G It's amazing that there are no violations in the crowd
+ 
+
+1722
+00:56:11,180 --> 00:56:11,190
+
+ 
+
+1723
+00:56:11,190 --> 00:56:16,260
+
+[Music]
+
+1724
+00:56:16,260 --> 00:56:16,270
+
+ 
+
+1725
+00:56:16,270 --> 00:56:18,370
+
+me
+
+1726
+00:56:18,370 --> 00:56:18,380
+me
+ 
+
+1727
+00:56:18,380 --> 00:56:24,650
+me
+[Music] The
+
+1728
+00:56:24,650 --> 00:56:24,660
+
+ 
+
+1729
+00:56:24,660 --> 00:56:28,579
+
+sloppy inner seat is for the future
+
+1730
+00:56:28,579 --> 00:56:28,589
+sloppy inner seat is for the future
+ 
+
+1731
+00:56:28,589 --> 00:56:33,720
+sloppy inner seat is for the future
+I'll see it again here
+
+1732
+00:56:33,720 --> 00:56:33,730
+I'll see it again here
+ 
+
+1733
+00:56:33,730 --> 00:56:39,540
+I'll see it again here
+Tens of thousands of shadows overflowing with keys, heavy rain,
+
+1734
+00:56:39,540 --> 00:56:39,550
+Tens of thousands of shadows overflowing with keys, heavy rain,
+ 
+
+1735
+00:56:39,550 --> 00:56:45,060
+Tens of thousands of shadows overflowing with keys, heavy rain,
+I'm worried about it again and again. This world is you,
+
+1736
+00:56:45,060 --> 00:56:45,070
+I'm worried about it again and again. This world is you,
+ 
+
+1737
+00:56:45,070 --> 00:56:47,450
+
+Toledo, it's a beautiful
+
+1738
+00:56:47,450 --> 00:56:50,680
+Toledo, it's a beautiful
+ 
+
+1739
+00:56:50,680 --> 00:56:50,690
+
+ 
+
+1740
+00:56:50,690 --> 00:56:52,920
+
+time, it's a good time,
+
+1741
+00:56:52,920 --> 00:56:56,049
+time, it's a good time,
+ 
+
+1742
+00:56:56,049 --> 00:56:57,599
+
+ 
+
+1743
+00:56:57,599 --> 00:56:57,609
+
+ 
+
+1744
+00:56:57,609 --> 00:57:04,390
+
+it's a taste of Enery, Kabana, it's not on the back of that medical horse, and Topia is sitting on it.
+
+1745
+00:57:04,390 --> 00:57:04,400
+it's a taste of Enery, Kabana, it's not on the back of that medical horse, and Topia is sitting on it.
+ 
+
+1746
+00:57:04,400 --> 00:57:06,730
+it's a taste of Enery, Kabana, it's not on the back of that medical horse, and Topia is sitting on it.
+Noaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaha Hasirii The
+
+1747
+00:57:06,730 --> 00:57:08,730
+Noaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaha Hasirii The
+ 
+
+1748
+00:57:08,730 --> 00:57:08,740
+
+ 
+
+1749
+00:57:08,740 --> 00:57:10,890
+
+
+1750
+00:57:10,890 --> 00:57:10,900
+
+ 
+
+1751
+00:57:10,900 --> 00:57:14,819
+
+white one who took a difficult path to draw the rock is there
+
+1752
+00:57:14,819 --> 00:57:14,829
+white one who took a difficult path to draw the rock is there
+ 
+
+1753
+00:57:14,829 --> 00:57:18,089
+white one who took a difficult path to draw the rock is there
+6 e
+
+1754
+00:57:18,089 --> 00:57:18,099
+6 e
+ 
+
+1755
+00:57:18,099 --> 00:57:20,550
+6 e
+InaraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaTOTOTOTOTOTOTOTOTOiTOiTOiTOiTOiTOTO MY
+
+1756
+00:57:20,550 --> 00:57:24,570
+
+ 
+
+1757
+00:57:24,570 --> 00:57:24,580
+
+ 
+
+1758
+00:57:24,580 --> 00:57:27,859
+
+MANAMI
+
+1759
+00:57:27,859 --> 00:57:29,910
+MANAMI
+ 
+
+1760
+00:57:29,910 --> 00:57:29,920
+
+ 
+
+1761
+00:57:29,920 --> 00:57:41,290
+
+
+1762
+00:57:41,290 --> 00:57:51,880
+
+ 
+
+1763
+00:57:51,880 --> 00:57:51,890
+
+ 
+
+1764
+00:57:51,890 --> 00:57:56,210
+
+Nioka is the only one in the world who
+
+1765
+00:57:56,210 --> 00:57:56,220
+Nioka is the only one in the world who
+ 
+
+1766
+00:57:56,220 --> 00:57:59,410
+Nioka is the only one in the world who
+can act bravely.
+
+1767
+00:57:59,410 --> 00:57:59,420
+can act bravely.
+ 
+
+1768
+00:57:59,420 --> 00:58:01,850
+can act bravely.
+[Music] The
+
+1769
+00:58:01,850 --> 00:58:01,860
+[Music] The
+ 
+
+1770
+00:58:01,860 --> 00:58:03,160
+[Music] The
+
+1771
+00:58:03,160 --> 00:58:03,170
+
+ 
+
+1772
+00:58:03,170 --> 00:58:09,730
+
+sadness of the night and the day are all
+
+1773
+00:58:09,730 --> 00:58:09,740
+
+ 
+
+1774
+00:58:09,740 --> 00:58:11,600
+
+ayumu
+
+1775
+00:58:11,600 --> 00:58:11,610
+ayumu
+ 
+
+1776
+00:58:11,610 --> 00:58:12,940
+ayumu
+ni.
+
+1777
+00:58:12,940 --> 00:58:12,950
+ni.
+ 
+
+1778
+00:58:12,950 --> 00:58:13,460
+ni.
+This issue
+
+1779
+00:58:13,460 --> 00:58:13,470
+This issue
+ 
+
+1780
+00:58:13,470 --> 00:58:17,970
+This issue
+[Music] I'm sure a
+
+1781
+00:58:17,970 --> 00:58:17,980
+
+ 
+
+1782
+00:58:17,980 --> 00:58:23,950
+
+miracle will come true.  The one
+
+1783
+00:58:23,950 --> 00:58:23,960
+
+ 
+
+1784
+00:58:23,960 --> 00:58:25,019
+
+who did it, I
+
+1785
+00:58:25,019 --> 00:58:25,029
+who did it, I
+ 
+
+1786
+00:58:25,029 --> 00:58:29,249
+who did it, I
+can't punish the sub, I'm afraid of the four people, I'm going to
+
+1787
+00:58:29,249 --> 00:58:29,259
+can't punish the sub, I'm afraid of the four people, I'm going to
+ 
+
+1788
+00:58:29,259 --> 00:58:33,510
+can't punish the sub, I'm afraid of the four people, I'm going to
+get rid of the crowd, the stress, and the number. It's
+
+1789
+00:58:33,510 --> 00:58:35,089
+get rid of the crowd, the stress, and the number. It's
+ 
+
+1790
+00:58:35,089 --> 00:58:35,099
+
+ 
+
+1791
+00:58:35,099 --> 00:58:39,059
+
+okay to have all the subs.
+
+1792
+00:58:39,059 --> 00:58:39,069
+okay to have all the subs.
+ 
+
+1793
+00:58:39,069 --> 00:58:40,320
+okay to have all the subs.
+Ani
+
+1794
+00:58:40,320 --> 00:58:40,330
+Ani
+ 
+
+1795
+00:58:40,330 --> 00:58:41,660
+Ani
+data, it feels
+
+1796
+00:58:41,660 --> 00:58:41,670
+data, it feels
+ 
+
+1797
+00:58:41,670 --> 00:58:44,370
+data, it feels
+good to run. It's
+
+1798
+00:58:44,370 --> 00:58:44,380
+good to run. It's
+ 
+
+1799
+00:58:44,380 --> 00:58:46,480
+good to run. It's
+nice, bar
+
+1800
+00:58:46,480 --> 00:58:46,490
+nice, bar
+ 
+
+1801
+00:58:46,490 --> 00:58:52,220
+nice, bar
+[Music]
+
+1802
+00:58:52,220 --> 00:58:52,230
+
+ 
+
+1803
+00:58:52,230 --> 00:58:56,250
+
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!
+
+1804
+00:58:56,250 --> 00:58:56,260
+
+ 
+
+1805
+00:58:56,260 --> 00:59:00,180
+
+
+1806
+00:59:00,180 --> 00:59:00,190
+
+ 
+
+1807
+00:59:00,190 --> 00:59:03,359
+
+
+1808
+00:59:03,359 --> 00:59:04,160
+
+ 
+
+1809
+00:59:04,160 --> 00:59:04,170
+
+ 
+
+1810
+00:59:04,170 --> 00:59:05,950
+
+[Music]
+
+1811
+00:59:05,950 --> 00:59:05,960
+[Music]
+ 
+
+1812
+00:59:05,960 --> 00:59:10,480
+[Music]
+nonbrand
+
+1813
+00:59:10,480 --> 00:59:10,490
+
+ 
+
+1814
+00:59:10,490 --> 00:59:14,210
+
+3 I can hear it from all over the world, so the confit of fine tea is why I'm here.
+
+1815
+00:59:14,210 --> 00:59:14,220
+3 I can hear it from all over the world, so the confit of fine tea is why I'm here.
+ 
+
+1816
+00:59:14,220 --> 00:59:17,210
+3 I can hear it from all over the world, so the confit of fine tea is why I'm here.
+Museum
+
+1817
+00:59:17,210 --> 00:59:17,220
+
+ 
+
+1818
+00:59:17,220 --> 00:59:19,500
+
+[Music]
+
+1819
+00:59:19,500 --> 00:59:19,510
+[Music]
+ 
+
+1820
+00:59:19,510 --> 00:59:24,819
+[Music]
+I'm drawn to Bottega here in the world.
+
+1821
+00:59:24,819 --> 00:59:27,220
+I'm drawn to Bottega here in the world.
+ 
+
+1822
+00:59:27,220 --> 00:59:27,230
+
+ 
+
+1823
+00:59:27,230 --> 00:59:29,500
+
+ni
+
+1824
+00:59:29,500 --> 00:59:29,510
+ni
+ 
+
+1825
+00:59:29,510 --> 00:59:32,080
+ni
+[Music]  The
+
+1826
+00:59:32,080 --> 00:59:32,090
+[Music]  The
+ 
+
+1827
+00:59:32,090 --> 00:59:36,310
+[Music]  The
+powder that woke up was 4 rin. Iwajuge It's a
+
+1828
+00:59:36,310 --> 00:59:36,320
+powder that woke up was 4 rin. Iwajuge It's a
+ 
+
+1829
+00:59:36,320 --> 00:59:43,030
+powder that woke up was 4 rin. Iwajuge It's a
+difficult road to write. Even if there are all kinds of things, I don't
+
+1830
+00:59:43,030 --> 00:59:43,040
+
+ 
+
+1831
+00:59:43,040 --> 00:59:45,890
+
+like it. You'll
+
+1832
+00:59:45,890 --> 00:59:45,900
+like it. You'll
+ 
+
+1833
+00:59:45,900 --> 00:59:50,710
+like it. You'll
+be with me, so I'm not scared.  That
+
+1834
+00:59:50,710 --> 00:59:50,720
+be with me, so I'm not scared.  That
+ 
+
+1835
+00:59:50,720 --> 00:59:53,200
+be with me, so I'm not scared.  That
+
+1836
+00:59:53,200 --> 00:59:56,730
+
+ 
+
+1837
+00:59:56,730 --> 00:59:58,800
+
+ 
+
+1838
+00:59:58,800 --> 01:00:00,180
+
+ 
+
+1839
+01:00:00,180 --> 01:00:03,510
+
+ 
+
+1840
+01:00:03,510 --> 01:00:03,520
+
+ 
+
+1841
+01:00:03,520 --> 01:00:07,420
+
+'s all.
+
+1842
+01:00:07,420 --> 01:00:07,430
+'s all.
+ 
+
+1843
+01:00:07,430 --> 01:00:24,370
+'s all.
+[Music]
+
+1844
+01:00:24,370 --> 01:00:24,380
+
+ 
+
+1845
+01:00:24,380 --> 01:00:26,109
+
+8 shots ban
+
+1846
+01:00:26,109 --> 01:00:26,119
+8 shots ban
+ 
+
+1847
+01:00:26,119 --> 01:00:28,900
+8 shots ban
+car It
+
+1848
+01:00:28,900 --> 01:00:28,910
+car It
+ 
+
+1849
+01:00:28,910 --> 01:00:32,770
+
+was too low and I lost the Jix-kun with is 5. It's
+
+1850
+01:00:32,770 --> 01:00:32,780
+was too low and I lost the Jix-kun with is 5. It's
+ 
+
+1851
+01:00:32,780 --> 01:00:38,020
+was too low and I lost the Jix-kun with is 5. It's
+not half yet. I could see it and I could hear it. Mr. 10 yen says.  I'm so
+
+1852
+01:00:38,020 --> 01:00:41,170
+not half yet. I could see it and I could hear it. Mr. 10 yen says.  I'm so
+ 
+
+1853
+01:00:41,170 --> 01:00:42,670
+
+ 
+
+1854
+01:00:42,670 --> 01:00:44,820
+
+ 
+
+1855
+01:00:44,820 --> 01:00:44,830
+
+ 
+
+1856
+01:00:44,830 --> 01:00:46,260
+
+
+1857
+01:00:46,260 --> 01:00:46,270
+
+ 
+
+1858
+01:00:46,270 --> 01:00:50,580
+
+grateful for today. I have to go now.
+
+1859
+01:00:50,580 --> 01:00:50,590
+grateful for today. I have to go now.
+ 
+
+1860
+01:00:50,590 --> 01:00:53,520
+grateful for today. I have to go now.
+Thank you very much for your support. I have to go now.
+
+1861
+01:00:53,520 --> 01:00:53,530
+Thank you very much for your support. I have to go now.
+ 
+
+1862
+01:00:53,530 --> 01:00:58,860
+Thank you very much for your support. I have to go now.
+bn Let's do it
+
+1863
+01:00:58,860 --> 01:00:58,870
+bn Let's do it
+ 
+
+1864
+01:00:58,870 --> 01:01:01,410
+bn Let's do it
+again sometime.
+
+1865
+01:01:01,410 --> 01:01:01,420
+again sometime.
+ 
+
+1866
+01:01:01,420 --> 01:01:11,590
+again sometime.
+Thank you very much.
+
+1867
+01:01:11,590 --> 01:01:11,600
+
+ 
+
+1868
+01:01:11,600 --> 01:01:27,340
+
+
+1869
+01:01:27,340 --> 01:01:30,450
+
+ 
+
+1870
+01:01:30,450 --> 01:01:30,460
+
+ 
+
+1871
+01:01:30,460 --> 01:01:33,900
+
+
+1872
+01:01:33,900 --> 01:01:35,890
+
+ 
+
+1873
+01:01:35,890 --> 01:01:36,920
+
+ 
+
+1874
+01:01:36,920 --> 01:01:36,930
+
+ 
+
+1875
+01:01:36,930 --> 01:01:40,800
+
+
+1876
+01:01:40,800 --> 01:01:40,810
+
+ 
+
+1877
+01:01:40,810 --> 01:01:42,870
+
+
+1878
+01:01:42,870 --> 01:01:42,880
+
+ 
+
+1879
+01:01:42,880 --> 01:01:44,150
+
+
+1880
+01:01:44,150 --> 01:01:47,000
+
+ 
+
+1881
+01:01:47,000 --> 01:01:47,010
+
+ 
+
+1882
+01:01:47,010 --> 01:01:50,400
+
+
+1883
+01:01:50,400 --> 01:01:52,440
+
+ 
+
+1884
+01:01:52,440 --> 01:01:52,450
+
+ 
+
+1885
+01:01:52,450 --> 01:01:53,490
+
+Yeah yeah yeah
+
+1886
+01:01:53,490 --> 01:01:53,500
+Yeah yeah yeah
+ 
+
+1887
+01:01:53,500 --> 01:01:57,360
+Yeah yeah yeah
+
+1888
+01:01:57,360 --> 01:01:57,370
+
+ 
+
+1889
+01:01:57,370 --> 01:01:58,730
+
+me
+
+1890
+01:01:58,730 --> 01:01:58,740
+me
+ 
+
+1891
+01:01:58,740 --> 01:02:15,990
+me
+[music]
+
+1892
+01:02:15,990 --> 01:02:16,000
+[music]
+ 
+
+1893
+01:02:16,000 --> 01:02:19,050
+[music]
+me
+
+1894
+01:02:19,050 --> 01:02:19,060
+
+ 
+
+1895
+01:02:19,060 --> 01:02:21,060
+
+
