@@ -1,0 +1,5 @@
+.idea
+*.log
+
+# dont commit audio files
+/data/video/*/content/youtube-audio-*
