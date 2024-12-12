@@ -2,4 +2,4 @@
 *.log
 
 # dont commit audio files
-/data/video/*/content/youtube-audio-*
+/data/video/*/content/audio_*
