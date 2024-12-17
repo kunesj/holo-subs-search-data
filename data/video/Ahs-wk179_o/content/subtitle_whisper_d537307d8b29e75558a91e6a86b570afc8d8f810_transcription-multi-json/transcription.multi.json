@@ -1,0 +1,1 @@
+{"segments":[{"start":4.35346875,"end":5.953468750000001,"text":"特","lang":"zh"},{"start":8.84221875,"end":11.72221875,"text":" An elephant!","lang":"en"},{"start":17.65096875,"end":18.31096875,"text":"點","lang":"zh"}],"params":{"dia2va":{"padding":0.2,"min_duration":0.1,"max_duration":30.0,"max_gap":3.0},"model":"Systran/faster-whisper-large-v3"}}

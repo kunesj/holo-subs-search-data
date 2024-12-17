@@ -1,0 +1,1 @@
+{"segments":[{"start":0.7590937500000001,"end":11.13909375,"text":" Meh. Meh. Meh. Meh. I'm sheep.","lang":"en"}],"params":{"dia2va":{"padding":0.2,"min_duration":0.1,"max_duration":30.0,"max_gap":3.0},"model":"Systran/faster-whisper-large-v3"}}
