@@ -1,0 +1,1 @@
+{"audio_id": "audio_youtube_567aaca501bbf04bbded0c0057de16602c700f68_140-m4a", "diarization_id": "diarization_pyannote_afaf4588447f4c2328778b4a01aab2f2aaa586d7", "flags": ["transcription"], "item_type": "subtitle", "lang": "multi", "langs": ["en"], "source": "whisper", "subtitle_file": "transcription.multi.json", "whisper_model": "Systran/faster-whisper-large-v3"}

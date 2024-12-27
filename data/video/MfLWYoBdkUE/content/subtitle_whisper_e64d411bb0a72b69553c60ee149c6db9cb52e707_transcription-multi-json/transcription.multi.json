@@ -1,0 +1,1 @@
+{"segments":[{"start":39.87534375,"end":45.21534375,"text":"足の寄り角 駆けたセリフと","lang":"ja"},{"start":45.21534375,"end":49.21534375,"text":"繋ぎ合わせた名前","lang":"ja"},{"start":49.21534375,"end":52.21534375,"text":"聖なる 従者が伝えた","lang":"ja"}],"params":{"dia2va":{"padding":0.2,"min_duration":0.1,"max_duration":30.0,"max_gap":3.0},"model":"Systran/faster-whisper-large-v3"}}

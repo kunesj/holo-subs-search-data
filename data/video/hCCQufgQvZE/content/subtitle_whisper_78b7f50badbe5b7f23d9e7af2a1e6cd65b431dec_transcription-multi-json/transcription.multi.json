@@ -1,0 +1,1 @@
+{"segments":[{"start":17.988468750000003,"end":19.56846875,"text":" And dolphin!","lang":"en"}],"params":{"dia2va":{"padding":0.2,"min_duration":0.1,"max_duration":30.0,"max_gap":3.0},"model":"Systran/faster-whisper-large-v3"}}

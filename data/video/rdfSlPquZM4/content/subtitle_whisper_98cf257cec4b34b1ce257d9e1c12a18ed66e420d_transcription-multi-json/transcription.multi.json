@@ -1,0 +1,1 @@
+{"segments":[{"start":2.34534375,"end":9.76534375,"text":" Hoo-hoo, a-ha, a-ha, a-ha, a-ha, a-ha, a-ha.","lang":"en"},{"start":9.76534375,"end":12.66534375,"text":" And monkey.","lang":"en"}],"params":{"dia2va":{"padding":0.2,"min_duration":0.1,"max_duration":30.0,"max_gap":3.0},"model":"Systran/faster-whisper-large-v3"}}
